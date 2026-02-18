@@ -1,0 +1,24 @@
+{
+  "version": "rs3_model_v1",
+  "modelId": "weapon/repairkit",
+  "sourceGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/repairkit/model.glb",
+  "files": {
+    "mesh": "mesh.bin",
+    "skeleton": "skeleton.bin",
+    "animation": "anim.bin",
+    "materials": "materials.bin",
+    "attachments": "attachments.json"
+  },
+  "stats": {
+    "vertexCount": 336,
+    "indexCount": 336,
+    "submeshCount": 1,
+    "boneCount": 1,
+    "clipCount": 0,
+    "materialCount": 1
+  },
+  "rigId": "eq_repairkit",
+  "clipSetId": "weapon/repairkit_clips",
+  "materialPolicy": "pbr_v1",
+  "generatedAt": "2026-02-18T08:23:34.493Z"
+}

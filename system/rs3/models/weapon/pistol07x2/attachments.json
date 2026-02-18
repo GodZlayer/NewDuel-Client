@@ -1,0 +1,11 @@
+{
+  "sockets": [
+    {
+      "name": "muzzle_flash",
+      "nodeIndex": 1
+    }
+  ],
+  "byName": {
+    "muzzle_flash": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "modelId": "parts/eq_chest_05",
+  "modelType": "parts",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/man/man-parts07.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/parts_index.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 5,
+    "meshNodeCount": 36,
+    "primitiveCount": 31,
+    "vertexCount": 8886,
+    "indexCount": 8886,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "3d7db777ba045380f53e2688a5fedb9534d90561acb783a3b42285b5a75b3af5"
+  }
+}

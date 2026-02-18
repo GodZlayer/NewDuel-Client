@@ -1,0 +1,24 @@
+{
+  "version": "rs3_model_v1",
+  "modelId": "character/herowoman1",
+  "sourceGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/character/herowoman1/model.glb",
+  "files": {
+    "mesh": "mesh.bin",
+    "skeleton": "skeleton.bin",
+    "animation": "anim.bin",
+    "materials": "materials.bin",
+    "attachments": "attachments.json"
+  },
+  "stats": {
+    "vertexCount": 18339,
+    "indexCount": 18339,
+    "submeshCount": 59,
+    "boneCount": 56,
+    "clipCount": 760,
+    "materialCount": 30
+  },
+  "rigId": "eq_feets_01",
+  "clipSetId": "character/herowoman1_clips",
+  "materialPolicy": "pbr_v1",
+  "generatedAt": "2026-02-18T08:23:33.520Z"
+}

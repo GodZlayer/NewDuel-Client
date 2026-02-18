@@ -1,0 +1,19 @@
+{
+  "modelId": "weapon/samgak01",
+  "modelType": "weapon",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/item/medickit_samgak01.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 1,
+    "meshNodeCount": 1,
+    "primitiveCount": 1,
+    "vertexCount": 192,
+    "indexCount": 192,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "c21c1c3d2c8c51506fb341806960b09c233b86d2d5a5113ba9bcdf9aa1ae60b2"
+  }
+}

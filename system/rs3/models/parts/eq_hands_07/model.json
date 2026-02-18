@@ -1,0 +1,24 @@
+{
+  "version": "rs3_model_v1",
+  "modelId": "parts/eq_hands_07",
+  "sourceGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_hands_07/model.glb",
+  "files": {
+    "mesh": "mesh.bin",
+    "skeleton": "skeleton.bin",
+    "animation": "anim.bin",
+    "materials": "materials.bin",
+    "attachments": "attachments.json"
+  },
+  "stats": {
+    "vertexCount": 9048,
+    "indexCount": 9048,
+    "submeshCount": 31,
+    "boneCount": 36,
+    "clipCount": 0,
+    "materialCount": 5
+  },
+  "rigId": "Bip01",
+  "clipSetId": "parts/eq_hands_07_clips",
+  "materialPolicy": "pbr_v1",
+  "generatedAt": "2026-02-18T08:23:34.018Z"
+}

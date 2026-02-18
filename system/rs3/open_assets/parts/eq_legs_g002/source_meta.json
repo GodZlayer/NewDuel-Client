@@ -1,0 +1,19 @@
+{
+  "modelId": "parts/eq_legs_g002",
+  "modelType": "parts",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/woman/woman-parts02.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/parts_index.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 6,
+    "meshNodeCount": 41,
+    "primitiveCount": 35,
+    "vertexCount": 10566,
+    "indexCount": 10566,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "3e911ce25b1c5367340006fec81308ca172a6c9fa3d093b0fc57e5543827c7d7"
+  }
+}

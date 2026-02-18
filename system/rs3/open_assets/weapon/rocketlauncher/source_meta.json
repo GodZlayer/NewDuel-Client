@@ -1,0 +1,19 @@
+{
+  "modelId": "weapon/rocketlauncher",
+  "modelType": "weapon",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/rocketlauncher/rl01.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 1,
+    "meshNodeCount": 2,
+    "primitiveCount": 1,
+    "vertexCount": 1365,
+    "indexCount": 1365,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "e3ac9314c9dd003839e47e0ff05e1ffcf130764df8e95579e7f345a20457be73"
+  }
+}

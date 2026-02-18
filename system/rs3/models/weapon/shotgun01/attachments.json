@@ -1,0 +1,16 @@
+{
+  "sockets": [
+    {
+      "name": "muzzle_flash",
+      "nodeIndex": 1
+    },
+    {
+      "name": "empty_cartridge02",
+      "nodeIndex": 2
+    }
+  ],
+  "byName": {
+    "muzzle_flash": 1,
+    "empty_cartridge02": 2
+  }
+}

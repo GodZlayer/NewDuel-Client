@@ -1,0 +1,19 @@
+{
+  "modelId": "parts/eq_head_helmet2",
+  "modelType": "parts",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/man/man-parts_hat.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/parts_index.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 2,
+    "meshNodeCount": 33,
+    "primitiveCount": 28,
+    "vertexCount": 7089,
+    "indexCount": 7089,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "4f8af8a1a37135fcedfb1a4bdd4cbbc35f777b9fad2d26b15088a342f4da4ae3"
+  }
+}

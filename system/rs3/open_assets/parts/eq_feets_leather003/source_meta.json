@@ -1,0 +1,19 @@
+{
+  "modelId": "parts/eq_feets_leather003",
+  "modelType": "parts",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/woman/woman-parts07.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/parts_index.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 6,
+    "meshNodeCount": 41,
+    "primitiveCount": 35,
+    "vertexCount": 10401,
+    "indexCount": 10401,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "5290e437030b952e7a9cda5af39fb05f19b9d70154158d10e02149e549f0e49e"
+  }
+}

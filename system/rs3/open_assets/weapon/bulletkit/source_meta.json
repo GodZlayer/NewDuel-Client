@@ -1,0 +1,19 @@
+{
+  "modelId": "weapon/bulletkit",
+  "modelType": "weapon",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/item/magazine.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 1,
+    "meshNodeCount": 1,
+    "primitiveCount": 1,
+    "vertexCount": 132,
+    "indexCount": 132,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "cfc241299b3c4906abf8fb1adb32c01189724e73f3d62919fac1eb4207fc1090"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": "rs3_model_v1",
+  "modelId": "weapon/katana01",
+  "sourceGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/katana01/model.glb",
+  "files": {
+    "mesh": "mesh.bin",
+    "skeleton": "skeleton.bin",
+    "animation": "anim.bin",
+    "materials": "materials.bin",
+    "attachments": "attachments.json"
+  },
+  "stats": {
+    "vertexCount": 201,
+    "indexCount": 201,
+    "submeshCount": 1,
+    "boneCount": 1,
+    "clipCount": 0,
+    "materialCount": 1
+  },
+  "rigId": "eq_katana_01",
+  "clipSetId": "weapon/katana01_clips",
+  "materialPolicy": "pbr_v1",
+  "generatedAt": "2026-02-18T08:23:34.424Z"
+}

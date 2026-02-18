@@ -1,0 +1,24 @@
+{
+  "version": "rs3_model_v1",
+  "modelId": "weapon/smg01x2",
+  "sourceGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/smg01x2/model.glb",
+  "files": {
+    "mesh": "mesh.bin",
+    "skeleton": "skeleton.bin",
+    "animation": "anim.bin",
+    "materials": "materials.bin",
+    "attachments": "attachments.json"
+  },
+  "stats": {
+    "vertexCount": 615,
+    "indexCount": 615,
+    "submeshCount": 2,
+    "boneCount": 3,
+    "clipCount": 0,
+    "materialCount": 2
+  },
+  "rigId": "eq_ws_smg_01",
+  "clipSetId": "weapon/smg01x2_clips",
+  "materialPolicy": "pbr_v1",
+  "generatedAt": "2026-02-18T08:23:34.557Z"
+}

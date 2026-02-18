@@ -1,0 +1,81 @@
+{
+  "sockets": [
+    {
+      "name": "eq_wl_pistol",
+      "nodeIndex": 22
+    },
+    {
+      "name": "eq_wl_smg",
+      "nodeIndex": 23
+    },
+    {
+      "name": "eq_wl_blade",
+      "nodeIndex": 24
+    },
+    {
+      "name": "eq_wl_dagger",
+      "nodeIndex": 25
+    },
+    {
+      "name": "eq_wr_pistol",
+      "nodeIndex": 32
+    },
+    {
+      "name": "eq_wd_grenade",
+      "nodeIndex": 33
+    },
+    {
+      "name": "eq_wd_katana",
+      "nodeIndex": 34
+    },
+    {
+      "name": "eq_wd_rifle",
+      "nodeIndex": 35
+    },
+    {
+      "name": "eq_wd_rl",
+      "nodeIndex": 36
+    },
+    {
+      "name": "eq_wd_shotgun",
+      "nodeIndex": 37
+    },
+    {
+      "name": "eq_wr_smg",
+      "nodeIndex": 38
+    },
+    {
+      "name": "eq_wd_medikit",
+      "nodeIndex": 39
+    },
+    {
+      "name": "eq_wr_blade",
+      "nodeIndex": 40
+    },
+    {
+      "name": "eq_wd_sword",
+      "nodeIndex": 41
+    },
+    {
+      "name": "eq_wr_dagger",
+      "nodeIndex": 42
+    }
+  ],
+  "byName": {
+    "eq_wl_pistol": 22,
+    "eq_wl_smg": 23,
+    "eq_wl_blade": 24,
+    "eq_wl_dagger": 25,
+    "eq_wr_pistol": 32,
+    "eq_wd_grenade": 33,
+    "eq_wd_katana": 34,
+    "eq_wd_rifle": 35,
+    "eq_wd_rl": 36,
+    "eq_wd_shotgun": 37,
+    "eq_wr_smg": 38,
+    "eq_wd_medikit": 39,
+    "eq_wr_blade": 40,
+    "eq_wd_sword": 41,
+    "eq_wr_dagger": 42
+  }
+}

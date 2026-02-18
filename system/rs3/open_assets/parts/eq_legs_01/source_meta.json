@@ -1,0 +1,19 @@
+{
+  "modelId": "parts/eq_legs_01",
+  "modelType": "parts",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/man/man-parts02.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/parts_index.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 10,
+    "meshNodeCount": 36,
+    "primitiveCount": 33,
+    "vertexCount": 9690,
+    "indexCount": 9690,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "443aa5ac6e6eb992bf1071686c7c0decb137fae6c4332f950853358ca45a395b"
+  }
+}

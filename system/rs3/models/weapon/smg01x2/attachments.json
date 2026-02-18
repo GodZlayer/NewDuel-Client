@@ -1,0 +1,21 @@
+{
+  "sockets": [
+    {
+      "name": "eq_ws_smg_01",
+      "nodeIndex": 0
+    },
+    {
+      "name": "empty_cartridge01",
+      "nodeIndex": 1
+    },
+    {
+      "name": "muzzle_flash",
+      "nodeIndex": 2
+    }
+  ],
+  "byName": {
+    "eq_ws_smg_01": 0,
+    "empty_cartridge01": 1,
+    "muzzle_flash": 2
+  }
+}

@@ -1,0 +1,538 @@
+﻿{
+    "source":  {
+                   "weaponXml":  "C:\\Users\\santo\\Documents\\OpenGunz\\OpenGunZ-Client\\Model\\weapon.xml",
+                   "zitemJson":  "C:\\Users\\santo\\Documents\\OpenGunz\\newduel-server\\data\\game\\zitem.json",
+                   "partsIndexXml":  "C:\\Users\\santo\\Documents\\OpenGunz\\OpenGunZ-Client\\system\\parts_index.xml"
+               },
+    "stats":  {
+                  "resolvedNoMesh":  6,
+                  "resolvedEquip":  11,
+                  "totalKeepIds":  39,
+                  "keepManifestCount":  32,
+                  "resolvedCombat":  22,
+                  "keepWeaponModelCount":  18,
+                  "keepPartFileCount":  14
+              },
+    "aliases":  {
+                    "sword01":  "sword_wood"
+                },
+    "version":  "v1",
+    "keep":  {
+                 "weaponModelFiles":  [
+                                          "Model\\weapon\\blade\\blade02.elu",
+                                          "Model\\weapon\\dagger\\dagger01.elu",
+                                          "Model\\weapon\\grenade\\flashbang01.elu",
+                                          "Model\\weapon\\grenade\\grenade01.elu",
+                                          "Model\\weapon\\grenade\\smoke01.elu",
+                                          "Model\\weapon\\item\\magazine.elu",
+                                          "Model\\weapon\\item\\medickit_samgak01.elu",
+                                          "Model\\weapon\\item\\medikit.elu",
+                                          "Model\\weapon\\item\\repairkit.elu",
+                                          "Model\\weapon\\katana\\katana01.elu",
+                                          "Model\\weapon\\pistol\\pistol01.elu",
+                                          "Model\\weapon\\pistol\\pistol07.elu",
+                                          "Model\\weapon\\pistol\\smg01.elu",
+                                          "Model\\weapon\\rifle\\rifle03.elu",
+                                          "Model\\weapon\\rocketlauncher\\rl01.elu",
+                                          "Model\\weapon\\shotgun\\machinegun01.elu",
+                                          "Model\\weapon\\shotgun\\shotgun01.elu",
+                                          "Model\\weapon\\sword\\sword_wood.elu"
+                                      ],
+                 "partFiles":  [
+                                   "Model\\man\\man_lo01.elu",
+                                   "Model\\man\\man_lo02.elu",
+                                   "Model\\man\\man-parts_hat.elu",
+                                   "Model\\man\\man-parts01.elu",
+                                   "Model\\man\\man-parts02.elu",
+                                   "Model\\man\\man-parts06.elu",
+                                   "Model\\man\\man-parts07.elu",
+                                   "Model\\man\\man-parts12.elu",
+                                   "Model\\woman\\woman-parts_hat.elu",
+                                   "Model\\woman\\woman-parts01.elu",
+                                   "Model\\woman\\woman-parts02.elu",
+                                   "Model\\woman\\woman-parts05.elu",
+                                   "Model\\woman\\woman-parts07.elu",
+                                   "Model\\woman\\woman-parts11.elu"
+                               ]
+             },
+    "resolved":  {
+                     "equip":  [
+                                   {
+                                       "id":  400011,
+                                       "type":  "equip",
+                                       "slot":  "head",
+                                       "resSex":  "m",
+                                       "meshName":  "eq_head_helmet2",
+                                       "partFiles":  [
+                                                         "Model\\man\\man-parts_hat.elu"
+                                                     ],
+                                       "exists":  true
+                                   },
+                                   {
+                                       "id":  400012,
+                                       "type":  "equip",
+                                       "slot":  "head",
+                                       "resSex":  "f",
+                                       "meshName":  "eq_head_helmet",
+                                       "partFiles":  [
+                                                         "Model\\woman\\woman-parts_hat.elu"
+                                                     ],
+                                       "exists":  true
+                                   },
+                                   {
+                                       "id":  21001,
+                                       "type":  "equip",
+                                       "slot":  "chest",
+                                       "resSex":  "m",
+                                       "meshName":  "eq_chest_12",
+                                       "partFiles":  [
+                                                         "Model\\man\\man-parts12.elu"
+                                                     ],
+                                       "exists":  true
+                                   },
+                                   {
+                                       "id":  21501,
+                                       "type":  "equip",
+                                       "slot":  "chest",
+                                       "resSex":  "f",
+                                       "meshName":  "eq_chest_05",
+                                       "partFiles":  [
+                                                         "Model\\man\\man_lo01.elu",
+                                                         "Model\\man\\man_lo02.elu",
+                                                         "Model\\man\\man-parts07.elu",
+                                                         "Model\\woman\\woman-parts11.elu"
+                                                     ],
+                                       "exists":  true
+                                   },
+                                   {
+                                       "id":  22001,
+                                       "type":  "equip",
+                                       "slot":  "hands",
+                                       "resSex":  "m",
+                                       "meshName":  "eq_hands_a001",
+                                       "partFiles":  [
+                                                         "Model\\man\\man-parts01.elu"
+                                                     ],
+                                       "exists":  true
+                                   },
+                                   {
+                                       "id":  22501,
+                                       "type":  "equip",
+                                       "slot":  "hands",
+                                       "resSex":  "f",
+                                       "meshName":  "eq_hands_07",
+                                       "partFiles":  [
+                                                         "Model\\man\\man-parts06.elu",
+                                                         "Model\\woman\\woman-parts05.elu"
+                                                     ],
+                                       "exists":  true
+                                   },
+                                   {
+                                       "id":  23001,
+                                       "type":  "equip",
+                                       "slot":  "legs",
+                                       "resSex":  "m",
+                                       "meshName":  "eq_legs_01",
+                                       "partFiles":  [
+                                                         "Model\\man\\man-parts02.elu",
+                                                         "Model\\woman\\woman-parts01.elu"
+                                                     ],
+                                       "exists":  true
+                                   },
+                                   {
+                                       "id":  23501,
+                                       "type":  "equip",
+                                       "slot":  "legs",
+                                       "resSex":  "f",
+                                       "meshName":  "eq_legs_g002",
+                                       "partFiles":  [
+                                                         "Model\\woman\\woman-parts02.elu"
+                                                     ],
+                                       "exists":  true
+                                   },
+                                   {
+                                       "id":  24001,
+                                       "type":  "equip",
+                                       "slot":  "feet",
+                                       "resSex":  "m",
+                                       "meshName":  "eq_feet_a001",
+                                       "partFiles":  [
+                                                         "Model\\man\\man-parts01.elu"
+                                                     ],
+                                       "exists":  true
+                                   },
+                                   {
+                                       "id":  24501,
+                                       "type":  "equip",
+                                       "slot":  "feet",
+                                       "resSex":  "f",
+                                       "meshName":  "eq_feets_leather003",
+                                       "partFiles":  [
+                                                         "Model\\woman\\woman-parts07.elu"
+                                                     ],
+                                       "exists":  true
+                                   },
+                                   {
+                                       "id":  25001,
+                                       "type":  "equip",
+                                       "slot":  "finger",
+                                       "resSex":  "a",
+                                       "meshName":  "",
+                                       "partFiles":  [
+
+                                                     ],
+                                       "exists":  true
+                                   }
+                               ],
+                     "combat":  [
+                                    {
+                                        "id":  1,
+                                        "type":  "melee",
+                                        "slot":  "melee",
+                                        "resSex":  "a",
+                                        "meshName":  "dagger01",
+                                        "resolvedMesh":  "dagger01",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\dagger\\dagger01.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  2,
+                                        "type":  "melee",
+                                        "slot":  "melee",
+                                        "resSex":  "a",
+                                        "meshName":  "katana01",
+                                        "resolvedMesh":  "katana01",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\katana\\katana01.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  31,
+                                        "type":  "melee",
+                                        "slot":  "melee",
+                                        "resSex":  "a",
+                                        "meshName":  "blade02",
+                                        "resolvedMesh":  "blade02",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\blade\\blade02.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  51,
+                                        "type":  "melee",
+                                        "slot":  "melee",
+                                        "resSex":  "a",
+                                        "meshName":  "sword01",
+                                        "resolvedMesh":  "sword_wood",
+                                        "aliasApplied":  true,
+                                        "weaponModelFile":  "Model\\weapon\\sword\\sword_wood.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  4001,
+                                        "type":  "range",
+                                        "slot":  "range",
+                                        "resSex":  "a",
+                                        "meshName":  "pistol01",
+                                        "resolvedMesh":  "pistol01",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\pistol\\pistol01.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  4002,
+                                        "type":  "range",
+                                        "slot":  "range",
+                                        "resSex":  "a",
+                                        "meshName":  "pistol01x2",
+                                        "resolvedMesh":  "pistol01x2",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\pistol\\pistol01.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  4005,
+                                        "type":  "range",
+                                        "slot":  "range",
+                                        "resSex":  "a",
+                                        "meshName":  "pistol07",
+                                        "resolvedMesh":  "pistol07",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\pistol\\pistol07.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  4006,
+                                        "type":  "range",
+                                        "slot":  "range",
+                                        "resSex":  "a",
+                                        "meshName":  "pistol07x2",
+                                        "resolvedMesh":  "pistol07x2",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\pistol\\pistol07.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  5001,
+                                        "type":  "range",
+                                        "slot":  "range",
+                                        "resSex":  "a",
+                                        "meshName":  "smg01",
+                                        "resolvedMesh":  "smg01",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\pistol\\smg01.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  5002,
+                                        "type":  "range",
+                                        "slot":  "range",
+                                        "resSex":  "a",
+                                        "meshName":  "smg01x2",
+                                        "resolvedMesh":  "smg01x2",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\pistol\\smg01.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  6001,
+                                        "type":  "range",
+                                        "slot":  "range",
+                                        "resSex":  "a",
+                                        "meshName":  "shotgun01",
+                                        "resolvedMesh":  "shotgun01",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\shotgun\\shotgun01.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  7001,
+                                        "type":  "range",
+                                        "slot":  "range",
+                                        "resSex":  "a",
+                                        "meshName":  "rifle03",
+                                        "resolvedMesh":  "rifle03",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\rifle\\rifle03.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  8001,
+                                        "type":  "range",
+                                        "slot":  "range",
+                                        "resSex":  "a",
+                                        "meshName":  "machinegun01",
+                                        "resolvedMesh":  "machinegun01",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\shotgun\\machinegun01.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  9001,
+                                        "type":  "range",
+                                        "slot":  "range",
+                                        "resSex":  "a",
+                                        "meshName":  "rocketlauncher",
+                                        "resolvedMesh":  "rocketlauncher",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\rocketlauncher\\rl01.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  10001,
+                                        "type":  "range",
+                                        "slot":  "range",
+                                        "resSex":  "a",
+                                        "meshName":  "rifle03",
+                                        "resolvedMesh":  "rifle03",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\rifle\\rifle03.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  30001,
+                                        "type":  "custom",
+                                        "slot":  "custom",
+                                        "resSex":  "a",
+                                        "meshName":  "medikit",
+                                        "resolvedMesh":  "medikit",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\item\\medikit.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  30101,
+                                        "type":  "custom",
+                                        "slot":  "custom",
+                                        "resSex":  "a",
+                                        "meshName":  "repairkit",
+                                        "resolvedMesh":  "repairkit",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\item\\repairkit.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  30201,
+                                        "type":  "custom",
+                                        "slot":  "custom",
+                                        "resSex":  "a",
+                                        "meshName":  "flashbang01",
+                                        "resolvedMesh":  "flashbang01",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\grenade\\flashbang01.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  30301,
+                                        "type":  "custom",
+                                        "slot":  "custom",
+                                        "resSex":  "a",
+                                        "meshName":  "grenade01",
+                                        "resolvedMesh":  "grenade01",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\grenade\\grenade01.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  30401,
+                                        "type":  "custom",
+                                        "slot":  "custom",
+                                        "resSex":  "a",
+                                        "meshName":  "smoke01",
+                                        "resolvedMesh":  "smoke01",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\grenade\\smoke01.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  400007,
+                                        "type":  "custom",
+                                        "slot":  "custom",
+                                        "resSex":  "a",
+                                        "meshName":  "samgak01",
+                                        "resolvedMesh":  "samgak01",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\item\\medickit_samgak01.elu",
+                                        "exists":  true
+                                    },
+                                    {
+                                        "id":  526001,
+                                        "type":  "custom",
+                                        "slot":  "custom",
+                                        "resSex":  "a",
+                                        "meshName":  "bulletkit",
+                                        "resolvedMesh":  "bulletkit",
+                                        "aliasApplied":  false,
+                                        "weaponModelFile":  "Model\\weapon\\item\\magazine.elu",
+                                        "exists":  true
+                                    }
+                                ],
+                     "noMesh":  [
+                                    {
+                                        "id":  600001,
+                                        "type":  "custom",
+                                        "slot":  "custom",
+                                        "resSex":  "a",
+                                        "meshName":  ""
+                                    },
+                                    {
+                                        "id":  600101,
+                                        "type":  "custom",
+                                        "slot":  "custom",
+                                        "resSex":  "a",
+                                        "meshName":  ""
+                                    },
+                                    {
+                                        "id":  600201,
+                                        "type":  "custom",
+                                        "slot":  "custom",
+                                        "resSex":  "a",
+                                        "meshName":  ""
+                                    },
+                                    {
+                                        "id":  600301,
+                                        "type":  "custom",
+                                        "slot":  "custom",
+                                        "resSex":  "a",
+                                        "meshName":  ""
+                                    },
+                                    {
+                                        "id":  300001,
+                                        "type":  "range",
+                                        "slot":  "range",
+                                        "resSex":  "a",
+                                        "meshName":  ""
+                                    },
+                                    {
+                                        "id":  700001,
+                                        "type":  "ticket",
+                                        "slot":  "none",
+                                        "resSex":  "a",
+                                        "meshName":  ""
+                                    }
+                                ]
+                 },
+    "unresolved":  {
+                       "missingWeaponMeshes":  [
+
+                                               ],
+                       "missingFiles":  [
+
+                                        ],
+                       "missingItemIds":  [
+
+                                          ],
+                       "missingPartMappings":  [
+
+                                               ]
+                   },
+    "ids":  {
+                "combat_keep_ids":  [
+                                        1,
+                                        2,
+                                        31,
+                                        51,
+                                        4001,
+                                        4002,
+                                        4005,
+                                        4006,
+                                        5001,
+                                        5002,
+                                        6001,
+                                        7001,
+                                        8001,
+                                        9001,
+                                        10001,
+                                        30001,
+                                        30101,
+                                        30201,
+                                        30301,
+                                        30401,
+                                        400007,
+                                        526001
+                                    ],
+                "equip_keep_ids":  [
+                                       400011,
+                                       400012,
+                                       21001,
+                                       21501,
+                                       22001,
+                                       22501,
+                                       23001,
+                                       23501,
+                                       24001,
+                                       24501,
+                                       25001
+                                   ],
+                "no_mesh_keep_ids":  [
+                                         600001,
+                                         600101,
+                                         600201,
+                                         600301,
+                                         300001,
+                                         700001
+                                     ]
+            },
+    "generatedAtUtc":  "2026-02-17T07:21:08Z"
+}

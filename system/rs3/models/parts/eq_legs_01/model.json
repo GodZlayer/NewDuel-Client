@@ -1,0 +1,24 @@
+{
+  "version": "rs3_model_v1",
+  "modelId": "parts/eq_legs_01",
+  "sourceGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_legs_01/model.glb",
+  "files": {
+    "mesh": "mesh.bin",
+    "skeleton": "skeleton.bin",
+    "animation": "anim.bin",
+    "materials": "materials.bin",
+    "attachments": "attachments.json"
+  },
+  "stats": {
+    "vertexCount": 9690,
+    "indexCount": 9690,
+    "submeshCount": 33,
+    "boneCount": 36,
+    "clipCount": 0,
+    "materialCount": 10
+  },
+  "rigId": "Bip01",
+  "clipSetId": "parts/eq_legs_01_clips",
+  "materialPolicy": "pbr_v1",
+  "generatedAt": "2026-02-18T08:23:34.294Z"
+}

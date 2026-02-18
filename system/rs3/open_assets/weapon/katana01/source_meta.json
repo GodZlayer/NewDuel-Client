@@ -1,0 +1,19 @@
+{
+  "modelId": "weapon/katana01",
+  "modelType": "weapon",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/katana/katana01.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 1,
+    "meshNodeCount": 1,
+    "primitiveCount": 1,
+    "vertexCount": 201,
+    "indexCount": 201,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "f384bb4aeda705c055d81d3748b45ca6ae2d4f1f6c7cccf101572dcf610413e1"
+  }
+}

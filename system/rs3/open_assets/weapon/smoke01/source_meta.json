@@ -1,0 +1,19 @@
+{
+  "modelId": "weapon/smoke01",
+  "modelType": "weapon",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/grenade/smoke01.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 4,
+    "meshNodeCount": 2,
+    "primitiveCount": 3,
+    "vertexCount": 210,
+    "indexCount": 210,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "bbc497565bd0c770fafe5e07f549e75cc7a4f4dd894d7f9ee0975c2993f0bb4d"
+  }
+}

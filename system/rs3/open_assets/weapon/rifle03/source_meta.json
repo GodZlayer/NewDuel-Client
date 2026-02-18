@@ -1,0 +1,19 @@
+{
+  "modelId": "weapon/rifle03",
+  "modelType": "weapon",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/rifle/rifle03.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 5,
+    "meshNodeCount": 3,
+    "primitiveCount": 3,
+    "vertexCount": 996,
+    "indexCount": 996,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "1ed2dd81f96e409c64075aba626c36557f4c5eaf2e6cc7d4c8fba32101586dd7"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "modelId": "weapon/repairkit",
+  "modelType": "weapon",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/item/repairkit.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 1,
+    "meshNodeCount": 1,
+    "primitiveCount": 1,
+    "vertexCount": 336,
+    "indexCount": 336,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "9e8a0f3240831c4feb7fb309ed23b705297c32cc17af886169b353794a43a3a0"
+  }
+}

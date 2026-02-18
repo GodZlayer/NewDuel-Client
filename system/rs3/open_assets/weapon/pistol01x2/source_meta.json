@@ -1,0 +1,19 @@
+{
+  "modelId": "weapon/pistol01x2",
+  "modelType": "weapon",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/pistol/pistol01.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 2,
+    "meshNodeCount": 3,
+    "primitiveCount": 2,
+    "vertexCount": 1038,
+    "indexCount": 1038,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "a034c1cafde30189ee3881d587a3e76d3dcdc69ae8640655b0cd2e6e2a338e8f"
+  }
+}

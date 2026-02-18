@@ -1,0 +1,19 @@
+{
+  "modelId": "parts/eq_hands_07",
+  "modelType": "parts",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/man/man-parts06.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/parts_index.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 5,
+    "meshNodeCount": 36,
+    "primitiveCount": 31,
+    "vertexCount": 9048,
+    "indexCount": 9048,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "440690892e0a585caefaee22bd4ea51008a4bad51cc3178648dbf94809e15f1d"
+  }
+}

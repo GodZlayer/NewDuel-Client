@@ -1,0 +1,19 @@
+{
+  "modelId": "weapon/flashbang01",
+  "modelType": "weapon",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/grenade/flashbang01.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 5,
+    "meshNodeCount": 3,
+    "primitiveCount": 3,
+    "vertexCount": 210,
+    "indexCount": 210,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "543de02ad9d89443b85eeab22f0a62fd536b3e3786215fc50e8a0d621459317f"
+  }
+}

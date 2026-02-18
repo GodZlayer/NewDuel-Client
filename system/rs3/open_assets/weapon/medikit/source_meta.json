@@ -1,0 +1,19 @@
+{
+  "modelId": "weapon/medikit",
+  "modelType": "weapon",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/item/medikit.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 1,
+    "meshNodeCount": 1,
+    "primitiveCount": 1,
+    "vertexCount": 336,
+    "indexCount": 336,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "7bc82435839832b9743382af1fa9854bc9eb72ed3f7d40682c5c79003e80f542"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": "rs3_model_v1",
+  "modelId": "parts/eq_head_helmet2",
+  "sourceGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_head_helmet2/model.glb",
+  "files": {
+    "mesh": "mesh.bin",
+    "skeleton": "skeleton.bin",
+    "animation": "anim.bin",
+    "materials": "materials.bin",
+    "attachments": "attachments.json"
+  },
+  "stats": {
+    "vertexCount": 7089,
+    "indexCount": 7089,
+    "submeshCount": 28,
+    "boneCount": 33,
+    "clipCount": 0,
+    "materialCount": 2
+  },
+  "rigId": "eq_head_helmet2",
+  "clipSetId": "parts/eq_head_helmet2_clips",
+  "materialPolicy": "pbr_v1",
+  "generatedAt": "2026-02-18T08:23:34.229Z"
+}

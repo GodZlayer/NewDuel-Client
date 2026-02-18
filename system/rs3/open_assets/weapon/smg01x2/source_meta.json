@@ -1,0 +1,19 @@
+{
+  "modelId": "weapon/smg01x2",
+  "modelType": "weapon",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/pistol/smg01.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 2,
+    "meshNodeCount": 3,
+    "primitiveCount": 2,
+    "vertexCount": 615,
+    "indexCount": 615,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "0725d19d37a0f142d6575213fda2497ca1cc7fa45d290b5014ea83d53984746e"
+  }
+}

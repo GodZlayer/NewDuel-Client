@@ -1,0 +1,709 @@
+{
+  "version": "open_assets_manifest_v1",
+  "generatedAt": "2026-02-18T07:11:43.400Z",
+  "strict": false,
+  "inputs": {
+    "graphPath": "C:/Users/santo/Documents/OpenGunz/docs/model_asset_graph_v1.json",
+    "clientRoot": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client",
+    "outputRoot": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets",
+    "minset": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/item_minset_v1.json"
+  },
+  "stats": {
+    "targetCount": 32,
+    "okCount": 32,
+    "errorCount": 0,
+    "missingSourceCount": 0,
+    "missingDependencyCount": 3
+  },
+  "missing": [
+    {
+      "modelId": "character/heroman1",
+      "type": "source_ani",
+      "file": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/man/man_sword_guard_start2.elu.ani"
+    },
+    {
+      "modelId": "character/herowoman1",
+      "type": "source_ani",
+      "file": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/woman/woman_sword_guard_start2.elu.ani"
+    },
+    {
+      "modelId": "character/herowoman1",
+      "type": "source_ani",
+      "file": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/woman/woman_sword_guard_block_1.elu.ani"
+    }
+  ],
+  "entries": [
+    {
+      "modelId": "character/heroman1",
+      "modelType": "character",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/man/man-parts00.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/man/man01.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/character/heroman1/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/character/heroman1/source_meta.json",
+      "summary": {
+        "materialCount": 28,
+        "meshNodeCount": 52,
+        "primitiveCount": 55,
+        "vertexCount": 15876,
+        "indexCount": 15876,
+        "animationCount": 762
+      },
+      "clipCount": 763,
+      "missingAniCount": 1,
+      "animationCount": 762,
+      "glbSha256": "a3cc201fc9321ed94ee351e82e4395d02d4c12ac37cf70fb8d075553d32e7bfa"
+    },
+    {
+      "modelId": "character/herowoman1",
+      "modelType": "character",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/woman/woman-parts01.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/woman/woman01.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/character/herowoman1/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/character/herowoman1/source_meta.json",
+      "summary": {
+        "materialCount": 30,
+        "meshNodeCount": 56,
+        "primitiveCount": 59,
+        "vertexCount": 18339,
+        "indexCount": 18339,
+        "animationCount": 760
+      },
+      "clipCount": 762,
+      "missingAniCount": 2,
+      "animationCount": 760,
+      "glbSha256": "d5f0cf7a2cb46e989294bffc6fa09781a1d6872daf4e570faf3a117c7dea9790"
+    },
+    {
+      "modelId": "parts/eq_chest_05",
+      "modelType": "parts",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/man/man-parts07.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/parts_index.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_chest_05/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_chest_05/source_meta.json",
+      "summary": {
+        "materialCount": 5,
+        "meshNodeCount": 36,
+        "primitiveCount": 31,
+        "vertexCount": 8886,
+        "indexCount": 8886,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "3d7db777ba045380f53e2688a5fedb9534d90561acb783a3b42285b5a75b3af5"
+    },
+    {
+      "modelId": "parts/eq_chest_12",
+      "modelType": "parts",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/man/man-parts12.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/parts_index.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_chest_12/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_chest_12/source_meta.json",
+      "summary": {
+        "materialCount": 5,
+        "meshNodeCount": 36,
+        "primitiveCount": 31,
+        "vertexCount": 8607,
+        "indexCount": 8607,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "afee3994e556f950f82ceee504a19742abb801d4c6574ff2ad1cc49975544c26"
+    },
+    {
+      "modelId": "parts/eq_feet_a001",
+      "modelType": "parts",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/man/man-parts01.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/parts_index.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_feet_a001/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_feet_a001/source_meta.json",
+      "summary": {
+        "materialCount": 9,
+        "meshNodeCount": 37,
+        "primitiveCount": 32,
+        "vertexCount": 9057,
+        "indexCount": 9057,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "26d2593f224a6c5114c4a7e12d88e168afff1831ae65007662ca9b3e84983065"
+    },
+    {
+      "modelId": "parts/eq_feets_leather003",
+      "modelType": "parts",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/woman/woman-parts07.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/parts_index.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_feets_leather003/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_feets_leather003/source_meta.json",
+      "summary": {
+        "materialCount": 6,
+        "meshNodeCount": 41,
+        "primitiveCount": 35,
+        "vertexCount": 10401,
+        "indexCount": 10401,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "5290e437030b952e7a9cda5af39fb05f19b9d70154158d10e02149e549f0e49e"
+    },
+    {
+      "modelId": "parts/eq_hands_07",
+      "modelType": "parts",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/man/man-parts06.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/parts_index.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_hands_07/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_hands_07/source_meta.json",
+      "summary": {
+        "materialCount": 5,
+        "meshNodeCount": 36,
+        "primitiveCount": 31,
+        "vertexCount": 9048,
+        "indexCount": 9048,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "440690892e0a585caefaee22bd4ea51008a4bad51cc3178648dbf94809e15f1d"
+    },
+    {
+      "modelId": "parts/eq_hands_a001",
+      "modelType": "parts",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/man/man-parts01.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/parts_index.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_hands_a001/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_hands_a001/source_meta.json",
+      "summary": {
+        "materialCount": 9,
+        "meshNodeCount": 37,
+        "primitiveCount": 32,
+        "vertexCount": 9057,
+        "indexCount": 9057,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "26d2593f224a6c5114c4a7e12d88e168afff1831ae65007662ca9b3e84983065"
+    },
+    {
+      "modelId": "parts/eq_head_helmet",
+      "modelType": "parts",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/woman/woman-parts_hat.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/parts_index.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_head_helmet/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_head_helmet/source_meta.json",
+      "summary": {
+        "materialCount": 2,
+        "meshNodeCount": 37,
+        "primitiveCount": 31,
+        "vertexCount": 7383,
+        "indexCount": 7383,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "0d67b6cc3b2cea18a6be3e35bae83e3f2118a37e953c29ec0acd5934c7987164"
+    },
+    {
+      "modelId": "parts/eq_head_helmet2",
+      "modelType": "parts",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/man/man-parts_hat.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/parts_index.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_head_helmet2/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_head_helmet2/source_meta.json",
+      "summary": {
+        "materialCount": 2,
+        "meshNodeCount": 33,
+        "primitiveCount": 28,
+        "vertexCount": 7089,
+        "indexCount": 7089,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "4f8af8a1a37135fcedfb1a4bdd4cbbc35f777b9fad2d26b15088a342f4da4ae3"
+    },
+    {
+      "modelId": "parts/eq_legs_01",
+      "modelType": "parts",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/man/man-parts02.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/parts_index.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_legs_01/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_legs_01/source_meta.json",
+      "summary": {
+        "materialCount": 10,
+        "meshNodeCount": 36,
+        "primitiveCount": 33,
+        "vertexCount": 9690,
+        "indexCount": 9690,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "443aa5ac6e6eb992bf1071686c7c0decb137fae6c4332f950853358ca45a395b"
+    },
+    {
+      "modelId": "parts/eq_legs_g002",
+      "modelType": "parts",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/woman/woman-parts02.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/parts_index.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_legs_g002/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/parts/eq_legs_g002/source_meta.json",
+      "summary": {
+        "materialCount": 6,
+        "meshNodeCount": 41,
+        "primitiveCount": 35,
+        "vertexCount": 10566,
+        "indexCount": 10566,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "3e911ce25b1c5367340006fec81308ca172a6c9fa3d093b0fc57e5543827c7d7"
+    },
+    {
+      "modelId": "weapon/blade02",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/blade/blade02.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/blade02/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/blade02/source_meta.json",
+      "summary": {
+        "materialCount": 1,
+        "meshNodeCount": 1,
+        "primitiveCount": 1,
+        "vertexCount": 216,
+        "indexCount": 216,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "beb92657613963f703dd66eb6799cb093495183a7fd2946c8314f7a59ea94604"
+    },
+    {
+      "modelId": "weapon/bulletkit",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/item/magazine.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/bulletkit/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/bulletkit/source_meta.json",
+      "summary": {
+        "materialCount": 1,
+        "meshNodeCount": 1,
+        "primitiveCount": 1,
+        "vertexCount": 132,
+        "indexCount": 132,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "cfc241299b3c4906abf8fb1adb32c01189724e73f3d62919fac1eb4207fc1090"
+    },
+    {
+      "modelId": "weapon/dagger01",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/dagger/dagger01.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/dagger01/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/dagger01/source_meta.json",
+      "summary": {
+        "materialCount": 1,
+        "meshNodeCount": 1,
+        "primitiveCount": 1,
+        "vertexCount": 501,
+        "indexCount": 501,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "9cb8e626ce8c967940e4fb9f2e706c0ab001261694ecb40b6778e49f5a97fb4c"
+    },
+    {
+      "modelId": "weapon/flashbang01",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/grenade/flashbang01.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/flashbang01/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/flashbang01/source_meta.json",
+      "summary": {
+        "materialCount": 5,
+        "meshNodeCount": 3,
+        "primitiveCount": 3,
+        "vertexCount": 210,
+        "indexCount": 210,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "543de02ad9d89443b85eeab22f0a62fd536b3e3786215fc50e8a0d621459317f"
+    },
+    {
+      "modelId": "weapon/grenade01",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/grenade/grenade01.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/grenade01/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/grenade01/source_meta.json",
+      "summary": {
+        "materialCount": 2,
+        "meshNodeCount": 2,
+        "primitiveCount": 2,
+        "vertexCount": 276,
+        "indexCount": 276,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "ce053ee67e53c7c55adccbb6afe720a2628d512770b9cfa00f312c978950c000"
+    },
+    {
+      "modelId": "weapon/katana01",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/katana/katana01.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/katana01/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/katana01/source_meta.json",
+      "summary": {
+        "materialCount": 1,
+        "meshNodeCount": 1,
+        "primitiveCount": 1,
+        "vertexCount": 201,
+        "indexCount": 201,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "f384bb4aeda705c055d81d3748b45ca6ae2d4f1f6c7cccf101572dcf610413e1"
+    },
+    {
+      "modelId": "weapon/machinegun01",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/shotgun/machinegun01.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/machinegun01/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/machinegun01/source_meta.json",
+      "summary": {
+        "materialCount": 2,
+        "meshNodeCount": 3,
+        "primitiveCount": 2,
+        "vertexCount": 1965,
+        "indexCount": 1965,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "2aa54c89de05dff1defd34ae9bffe111be8fa8b35fe5a26a3a8e2945a02904a7"
+    },
+    {
+      "modelId": "weapon/medikit",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/item/medikit.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/medikit/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/medikit/source_meta.json",
+      "summary": {
+        "materialCount": 1,
+        "meshNodeCount": 1,
+        "primitiveCount": 1,
+        "vertexCount": 336,
+        "indexCount": 336,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "7bc82435839832b9743382af1fa9854bc9eb72ed3f7d40682c5c79003e80f542"
+    },
+    {
+      "modelId": "weapon/pistol01",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/pistol/pistol01.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/pistol01/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/pistol01/source_meta.json",
+      "summary": {
+        "materialCount": 2,
+        "meshNodeCount": 3,
+        "primitiveCount": 2,
+        "vertexCount": 1038,
+        "indexCount": 1038,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "a034c1cafde30189ee3881d587a3e76d3dcdc69ae8640655b0cd2e6e2a338e8f"
+    },
+    {
+      "modelId": "weapon/pistol01x2",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/pistol/pistol01.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/pistol01x2/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/pistol01x2/source_meta.json",
+      "summary": {
+        "materialCount": 2,
+        "meshNodeCount": 3,
+        "primitiveCount": 2,
+        "vertexCount": 1038,
+        "indexCount": 1038,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "a034c1cafde30189ee3881d587a3e76d3dcdc69ae8640655b0cd2e6e2a338e8f"
+    },
+    {
+      "modelId": "weapon/pistol07",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/pistol/pistol07.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/pistol07/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/pistol07/source_meta.json",
+      "summary": {
+        "materialCount": 1,
+        "meshNodeCount": 2,
+        "primitiveCount": 1,
+        "vertexCount": 1047,
+        "indexCount": 1047,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "5aadda4fb120d61652e41eed8c78b86aa7c4c312aeecf005201a4f72c9a30d05"
+    },
+    {
+      "modelId": "weapon/pistol07x2",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/pistol/pistol07.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/pistol07x2/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/pistol07x2/source_meta.json",
+      "summary": {
+        "materialCount": 1,
+        "meshNodeCount": 2,
+        "primitiveCount": 1,
+        "vertexCount": 1047,
+        "indexCount": 1047,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "5aadda4fb120d61652e41eed8c78b86aa7c4c312aeecf005201a4f72c9a30d05"
+    },
+    {
+      "modelId": "weapon/repairkit",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/item/repairkit.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/repairkit/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/repairkit/source_meta.json",
+      "summary": {
+        "materialCount": 1,
+        "meshNodeCount": 1,
+        "primitiveCount": 1,
+        "vertexCount": 336,
+        "indexCount": 336,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "9e8a0f3240831c4feb7fb309ed23b705297c32cc17af886169b353794a43a3a0"
+    },
+    {
+      "modelId": "weapon/rifle03",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/rifle/rifle03.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/rifle03/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/rifle03/source_meta.json",
+      "summary": {
+        "materialCount": 5,
+        "meshNodeCount": 3,
+        "primitiveCount": 3,
+        "vertexCount": 996,
+        "indexCount": 996,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "1ed2dd81f96e409c64075aba626c36557f4c5eaf2e6cc7d4c8fba32101586dd7"
+    },
+    {
+      "modelId": "weapon/rocketlauncher",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/rocketlauncher/rl01.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/rocketlauncher/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/rocketlauncher/source_meta.json",
+      "summary": {
+        "materialCount": 1,
+        "meshNodeCount": 2,
+        "primitiveCount": 1,
+        "vertexCount": 1365,
+        "indexCount": 1365,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "e3ac9314c9dd003839e47e0ff05e1ffcf130764df8e95579e7f345a20457be73"
+    },
+    {
+      "modelId": "weapon/samgak01",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/item/medickit_samgak01.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/samgak01/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/samgak01/source_meta.json",
+      "summary": {
+        "materialCount": 1,
+        "meshNodeCount": 1,
+        "primitiveCount": 1,
+        "vertexCount": 192,
+        "indexCount": 192,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "c21c1c3d2c8c51506fb341806960b09c233b86d2d5a5113ba9bcdf9aa1ae60b2"
+    },
+    {
+      "modelId": "weapon/shotgun01",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/shotgun/shotgun01.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/shotgun01/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/shotgun01/source_meta.json",
+      "summary": {
+        "materialCount": 2,
+        "meshNodeCount": 3,
+        "primitiveCount": 2,
+        "vertexCount": 996,
+        "indexCount": 996,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "444e52c3505f2ea12bcf2dcdf647d2ed7926b39a4b2370b0f5ec061c000c3b4d"
+    },
+    {
+      "modelId": "weapon/smg01",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/pistol/smg01.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/smg01/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/smg01/source_meta.json",
+      "summary": {
+        "materialCount": 2,
+        "meshNodeCount": 3,
+        "primitiveCount": 2,
+        "vertexCount": 615,
+        "indexCount": 615,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "0725d19d37a0f142d6575213fda2497ca1cc7fa45d290b5014ea83d53984746e"
+    },
+    {
+      "modelId": "weapon/smg01x2",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/pistol/smg01.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/smg01x2/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/smg01x2/source_meta.json",
+      "summary": {
+        "materialCount": 2,
+        "meshNodeCount": 3,
+        "primitiveCount": 2,
+        "vertexCount": 615,
+        "indexCount": 615,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "0725d19d37a0f142d6575213fda2497ca1cc7fa45d290b5014ea83d53984746e"
+    },
+    {
+      "modelId": "weapon/smoke01",
+      "modelType": "weapon",
+      "status": "ok",
+      "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/grenade/smoke01.elu",
+      "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/smoke01/model.glb",
+      "outputMeta": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/smoke01/source_meta.json",
+      "summary": {
+        "materialCount": 4,
+        "meshNodeCount": 2,
+        "primitiveCount": 3,
+        "vertexCount": 210,
+        "indexCount": 210,
+        "animationCount": 0
+      },
+      "clipCount": 0,
+      "missingAniCount": 0,
+      "animationCount": 0,
+      "glbSha256": "bbc497565bd0c770fafe5e07f549e75cc7a4f4dd894d7f9ee0975c2993f0bb4d"
+    }
+  ]
+}

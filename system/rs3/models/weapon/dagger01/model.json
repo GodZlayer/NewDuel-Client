@@ -1,0 +1,24 @@
+{
+  "version": "rs3_model_v1",
+  "modelId": "weapon/dagger01",
+  "sourceGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/dagger01/model.glb",
+  "files": {
+    "mesh": "mesh.bin",
+    "skeleton": "skeleton.bin",
+    "animation": "anim.bin",
+    "materials": "materials.bin",
+    "attachments": "attachments.json"
+  },
+  "stats": {
+    "vertexCount": 501,
+    "indexCount": 501,
+    "submeshCount": 1,
+    "boneCount": 1,
+    "clipCount": 0,
+    "materialCount": 1
+  },
+  "rigId": "eq_dagger01",
+  "clipSetId": "weapon/dagger01_clips",
+  "materialPolicy": "pbr_v1",
+  "generatedAt": "2026-02-18T08:23:34.406Z"
+}

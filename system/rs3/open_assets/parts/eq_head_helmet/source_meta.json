@@ -1,0 +1,19 @@
+{
+  "modelId": "parts/eq_head_helmet",
+  "modelType": "parts",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/woman/woman-parts_hat.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/parts_index.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 2,
+    "meshNodeCount": 37,
+    "primitiveCount": 31,
+    "vertexCount": 7383,
+    "indexCount": 7383,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "0d67b6cc3b2cea18a6be3e35bae83e3f2118a37e953c29ec0acd5934c7987164"
+  }
+}

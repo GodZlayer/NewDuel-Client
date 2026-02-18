@@ -1,0 +1,24 @@
+{
+  "version": "rs3_model_v1",
+  "modelId": "weapon/rifle03",
+  "sourceGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/weapon/rifle03/model.glb",
+  "files": {
+    "mesh": "mesh.bin",
+    "skeleton": "skeleton.bin",
+    "animation": "anim.bin",
+    "materials": "materials.bin",
+    "attachments": "attachments.json"
+  },
+  "stats": {
+    "vertexCount": 996,
+    "indexCount": 996,
+    "submeshCount": 3,
+    "boneCount": 3,
+    "clipCount": 0,
+    "materialCount": 5
+  },
+  "rigId": "eq_rifle_03",
+  "clipSetId": "weapon/rifle03_clips",
+  "materialPolicy": "pbr_v1",
+  "generatedAt": "2026-02-18T08:23:34.504Z"
+}

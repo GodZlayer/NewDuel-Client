@@ -1,0 +1,1014 @@
+{
+  "version": "rs3_scene_v1",
+  "sceneId": "char_creation_select",
+  "coordinateSystem": "x-right,y-forward,z-up,left-handed",
+  "cameraPos01": {
+    "name": "camera_pos 01",
+    "position": [
+      -2606.4,
+      -508.1,
+      1750
+    ],
+    "direction": [
+      -0.7,
+      0,
+      -0.7
+    ]
+  },
+  "cameraPos02": {
+    "name": "camera_pos 02",
+    "position": [
+      1313.8,
+      648.9,
+      910.6
+    ],
+    "direction": [
+      1,
+      -0.1,
+      -0.1
+    ]
+  },
+  "charSpawn": {
+    "name": "spawn_solo_101",
+    "position": [
+      1635.4,
+      550.4,
+      750
+    ],
+    "direction": [
+      -1,
+      0.1,
+      0
+    ]
+  },
+  "fog": {
+    "enabled": true,
+    "min": 1000,
+    "max": 7000,
+    "color": [
+      1,
+      0.9019607843137255,
+      0.8627450980392157
+    ]
+  },
+  "lights": [
+    {
+      "name": "Omni_main_",
+      "position": [
+        -10000,
+        10000,
+        10000
+      ],
+      "color": [
+        1,
+        0.8392158,
+        0.7058824
+      ],
+      "intensity": 0.15,
+      "attenuationStart": 30000,
+      "attenuationEnd": 30000
+    },
+    {
+      "name": "Omni_main0",
+      "position": [
+        -10000,
+        10000,
+        -10000
+      ],
+      "color": [
+        1,
+        0.8392158,
+        0.7058824
+      ],
+      "intensity": 0.11,
+      "attenuationStart": 30000,
+      "attenuationEnd": 30000
+    },
+    {
+      "name": "sun_Omni",
+      "position": [
+        -62913.5625,
+        88566.1171875,
+        71733.328125
+      ],
+      "color": [
+        1,
+        0.6745098,
+        0.4980392
+      ],
+      "intensity": 1.2,
+      "attenuationStart": 250000,
+      "attenuationEnd": 250000
+    },
+    {
+      "name": "Omni_main01",
+      "position": [
+        -10000,
+        -10000,
+        -10000
+      ],
+      "color": [
+        1,
+        0.8392158,
+        0.7058824
+      ],
+      "intensity": 0.11,
+      "attenuationStart": 30000,
+      "attenuationEnd": 30000
+    },
+    {
+      "name": "Omni_main_01",
+      "position": [
+        -10000,
+        -10000,
+        10000
+      ],
+      "color": [
+        1,
+        0.8392158,
+        0.7058824
+      ],
+      "intensity": 0.15,
+      "attenuationStart": 30000,
+      "attenuationEnd": 30000
+    },
+    {
+      "name": "Omni_main02",
+      "position": [
+        10000,
+        -10000,
+        -10000
+      ],
+      "color": [
+        1,
+        0.8392158,
+        0.7058824
+      ],
+      "intensity": 0.11,
+      "attenuationStart": 30000,
+      "attenuationEnd": 30000
+    },
+    {
+      "name": "Omni_main_02",
+      "position": [
+        10000,
+        -10000,
+        10000
+      ],
+      "color": [
+        1,
+        0.8392158,
+        0.7058824
+      ],
+      "intensity": 0.15,
+      "attenuationStart": 30000,
+      "attenuationEnd": 30000
+    },
+    {
+      "name": "Omni_main03",
+      "position": [
+        10000,
+        10000,
+        -10000
+      ],
+      "color": [
+        1,
+        0.8392158,
+        0.7058824
+      ],
+      "intensity": 0.11,
+      "attenuationStart": 30000,
+      "attenuationEnd": 30000
+    },
+    {
+      "name": "Omni_main_03",
+      "position": [
+        10000,
+        10000,
+        10000
+      ],
+      "color": [
+        1,
+        0.8392158,
+        0.7058824
+      ],
+      "intensity": 0.15,
+      "attenuationStart": 30000,
+      "attenuationEnd": 30000
+    },
+    {
+      "name": "Omni_torch_a",
+      "position": [
+        1928.7310791,
+        -251.2515564,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7294118,
+        0.4392157
+      ],
+      "intensity": 1,
+      "attenuationStart": 400,
+      "attenuationEnd": 1000
+    },
+    {
+      "name": "Omni_torch_b",
+      "position": [
+        1928.7310791,
+        -204.6671143,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7960785,
+        0.4745098
+      ],
+      "intensity": 0.3,
+      "attenuationStart": 100,
+      "attenuationEnd": 300
+    },
+    {
+      "name": "Omni_torch_b01",
+      "position": [
+        790.0883789,
+        -931.6261597,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7960785,
+        0.4745098
+      ],
+      "intensity": 0.3,
+      "attenuationStart": 100,
+      "attenuationEnd": 300
+    },
+    {
+      "name": "Omni_torch_a01",
+      "position": [
+        790.0883789,
+        -885.041748,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7294118,
+        0.4392157
+      ],
+      "intensity": 1,
+      "attenuationStart": 400,
+      "attenuationEnd": 1000
+    },
+    {
+      "name": "Omni_torch_b02",
+      "position": [
+        3531.4042969,
+        -454.4929199,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7960785,
+        0.4745098
+      ],
+      "intensity": 0.3,
+      "attenuationStart": 100,
+      "attenuationEnd": 300
+    },
+    {
+      "name": "Omni_torch_a02",
+      "position": [
+        3484.8198242,
+        -454.4929199,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7294118,
+        0.4392157
+      ],
+      "intensity": 1,
+      "attenuationStart": 400,
+      "attenuationEnd": 1000
+    },
+    {
+      "name": "Omni_torch_b03",
+      "position": [
+        3531.4042969,
+        406.4697876,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7960785,
+        0.4745098
+      ],
+      "intensity": 0.3,
+      "attenuationStart": 100,
+      "attenuationEnd": 300
+    },
+    {
+      "name": "Omni_torch_a03",
+      "position": [
+        3484.8198242,
+        406.4697876,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7294118,
+        0.4392157
+      ],
+      "intensity": 1,
+      "attenuationStart": 400,
+      "attenuationEnd": 1000
+    },
+    {
+      "name": "Omni_torch_b04",
+      "position": [
+        2217.3027344,
+        643.2388916,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7960785,
+        0.4745098
+      ],
+      "intensity": 0.3,
+      "attenuationStart": 100,
+      "attenuationEnd": 300
+    },
+    {
+      "name": "Omni_torch_a04",
+      "position": [
+        2217.3027344,
+        596.6544189,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7294118,
+        0.4392157
+      ],
+      "intensity": 1,
+      "attenuationStart": 400,
+      "attenuationEnd": 1000
+    },
+    {
+      "name": "Omni_torch_a05",
+      "position": [
+        1296.9367676,
+        275.3927002,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7294118,
+        0.4392157
+      ],
+      "intensity": 1,
+      "attenuationStart": 400,
+      "attenuationEnd": 1000
+    },
+    {
+      "name": "Omni_torch_b05",
+      "position": [
+        1296.9367676,
+        228.8082886,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7960785,
+        0.4745098
+      ],
+      "intensity": 0.3,
+      "attenuationStart": 100,
+      "attenuationEnd": 300
+    },
+    {
+      "name": "Omni_torch_a06",
+      "position": [
+        196.3441467,
+        452.2901611,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7294118,
+        0.4392157
+      ],
+      "intensity": 1,
+      "attenuationStart": 400,
+      "attenuationEnd": 1000
+    },
+    {
+      "name": "Omni_torch_b06",
+      "position": [
+        149.7597351,
+        452.2901611,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7960785,
+        0.4745098
+      ],
+      "intensity": 0.3,
+      "attenuationStart": 100,
+      "attenuationEnd": 300
+    },
+    {
+      "name": "Omni_torch_a07",
+      "position": [
+        -1928.7310791,
+        251.2513733,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7294118,
+        0.4392157
+      ],
+      "intensity": 1,
+      "attenuationStart": 400,
+      "attenuationEnd": 1000
+    },
+    {
+      "name": "Omni_torch_b07",
+      "position": [
+        -1928.7310791,
+        204.6669312,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7960785,
+        0.4745098
+      ],
+      "intensity": 0.3,
+      "attenuationStart": 100,
+      "attenuationEnd": 300
+    },
+    {
+      "name": "Omni_torch_b08",
+      "position": [
+        -790.0883789,
+        931.6260376,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7960785,
+        0.4745098
+      ],
+      "intensity": 0.3,
+      "attenuationStart": 100,
+      "attenuationEnd": 300
+    },
+    {
+      "name": "Omni_torch_a08",
+      "position": [
+        -790.0883789,
+        885.041748,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7294118,
+        0.4392157
+      ],
+      "intensity": 1,
+      "attenuationStart": 400,
+      "attenuationEnd": 1000
+    },
+    {
+      "name": "Omni_torch_b09",
+      "position": [
+        -3531.4042969,
+        454.4926147,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7960785,
+        0.4745098
+      ],
+      "intensity": 0.3,
+      "attenuationStart": 100,
+      "attenuationEnd": 300
+    },
+    {
+      "name": "Omni_torch_a09",
+      "position": [
+        -3484.8198242,
+        454.4926147,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7294118,
+        0.4392157
+      ],
+      "intensity": 1,
+      "attenuationStart": 400,
+      "attenuationEnd": 1000
+    },
+    {
+      "name": "Omni_torch_b10",
+      "position": [
+        -3531.4042969,
+        -406.4700928,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7960785,
+        0.4745098
+      ],
+      "intensity": 0.3,
+      "attenuationStart": 100,
+      "attenuationEnd": 300
+    },
+    {
+      "name": "Omni_torch_a10",
+      "position": [
+        -3484.8198242,
+        -406.4700928,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7294118,
+        0.4392157
+      ],
+      "intensity": 1,
+      "attenuationStart": 400,
+      "attenuationEnd": 1000
+    },
+    {
+      "name": "Omni_torch_b11",
+      "position": [
+        -2217.3027344,
+        -643.2391357,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7960785,
+        0.4745098
+      ],
+      "intensity": 0.3,
+      "attenuationStart": 100,
+      "attenuationEnd": 300
+    },
+    {
+      "name": "Omni_torch_a11",
+      "position": [
+        -2217.3027344,
+        -596.6546631,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7294118,
+        0.4392157
+      ],
+      "intensity": 1,
+      "attenuationStart": 400,
+      "attenuationEnd": 1000
+    },
+    {
+      "name": "Omni_torch_a12",
+      "position": [
+        -1296.9367676,
+        -275.3928223,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7294118,
+        0.4392157
+      ],
+      "intensity": 1,
+      "attenuationStart": 400,
+      "attenuationEnd": 1000
+    },
+    {
+      "name": "Omni_torch_b12",
+      "position": [
+        -1296.9367676,
+        -228.8084106,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7960785,
+        0.4745098
+      ],
+      "intensity": 0.3,
+      "attenuationStart": 100,
+      "attenuationEnd": 300
+    },
+    {
+      "name": "Omni_torch_a13",
+      "position": [
+        -196.3440857,
+        -452.2901611,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7294118,
+        0.4392157
+      ],
+      "intensity": 1,
+      "attenuationStart": 400,
+      "attenuationEnd": 1000
+    },
+    {
+      "name": "Omni_torch_b13",
+      "position": [
+        -149.7596741,
+        -452.2901611,
+        -418.3613281
+      ],
+      "color": [
+        1,
+        0.7960785,
+        0.4745098
+      ],
+      "intensity": 0.3,
+      "attenuationStart": 100,
+      "attenuationEnd": 300
+    },
+    {
+      "name": "Omni_dome_a",
+      "position": [
+        5000,
+        -0.000044,
+        587.8709717
+      ],
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "intensity": 0.6,
+      "attenuationStart": 760,
+      "attenuationEnd": 2000
+    },
+    {
+      "name": "Omni_deco_a",
+      "position": [
+        4020.9494629,
+        -0.0000013,
+        -387.4896545
+      ],
+      "color": [
+        0.8941177,
+        0.9058824,
+        1
+      ],
+      "intensity": 0.4,
+      "attenuationStart": 161.6063232,
+      "attenuationEnd": 426.1384583
+    },
+    {
+      "name": "Omni_deco_a01",
+      "position": [
+        -4020.9489746,
+        -0.0000013,
+        -387.4896545
+      ],
+      "color": [
+        0.8941177,
+        0.9058824,
+        1
+      ],
+      "intensity": 0.4,
+      "attenuationStart": 161.6063232,
+      "attenuationEnd": 426.1384583
+    },
+    {
+      "name": "Omni_dome_a01",
+      "position": [
+        -5000,
+        -0.000044,
+        587.8709717
+      ],
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "intensity": 0.6,
+      "attenuationStart": 760,
+      "attenuationEnd": 2000
+    }
+  ],
+  "worldChunk": "world.bin",
+  "collisionChunk": "collision.bin",
+  "textureManifest": "texture_manifest_v1.json",
+  "lightmaps": [],
+  "materials": [
+    {
+      "materialIndex": 0,
+      "name": "__default__",
+      "flags": 0,
+      "sourceDiffuseMap": "",
+      "packageTexture": ""
+    },
+    {
+      "materialIndex": 1,
+      "name": "gzd_map_Haven_rock02_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_rock02.bmp",
+      "packageTexture": "textures/mat_1_gzd_map_haven_rock02_mt_con.png"
+    },
+    {
+      "materialIndex": 2,
+      "name": "gzd_map_Haven_wall07_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_wall07.bmp",
+      "packageTexture": "textures/mat_2_gzd_map_haven_wall07_mt_con.png"
+    },
+    {
+      "materialIndex": 3,
+      "name": "gzd_map_Haven_rock01_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_rock01.bmp",
+      "packageTexture": "textures/mat_3_gzd_map_haven_rock01_mt_con.png"
+    },
+    {
+      "materialIndex": 4,
+      "name": "gzd_map_Haven_rock05_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_rock05.bmp",
+      "packageTexture": "textures/mat_4_gzd_map_haven_rock05_mt_con.png"
+    },
+    {
+      "materialIndex": 5,
+      "name": "gzd_map_Haven_wood02_mt_wod",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_wood02.bmp",
+      "packageTexture": "textures/mat_5_gzd_map_haven_wood02_mt_wod.png"
+    },
+    {
+      "materialIndex": 6,
+      "name": "gzd_map_Haven_wood01_mt_wod",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_wood01.bmp",
+      "packageTexture": "textures/mat_6_gzd_map_haven_wood01_mt_wod.png"
+    },
+    {
+      "materialIndex": 7,
+      "name": "gzd_map_Haven_floor03_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_floor03.bmp",
+      "packageTexture": "textures/mat_7_gzd_map_haven_floor03_mt_con.png"
+    },
+    {
+      "materialIndex": 8,
+      "name": "gzd_map_Haven_rock03_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_rock03.bmp",
+      "packageTexture": "textures/mat_8_gzd_map_haven_rock03_mt_con.png"
+    },
+    {
+      "materialIndex": 9,
+      "name": "gzd_map_Haven_floor06_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_floor06.bmp",
+      "packageTexture": "textures/mat_9_gzd_map_haven_floor06_mt_con.png"
+    },
+    {
+      "materialIndex": 10,
+      "name": "gzd_map_Haven_floor05_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_floor05.bmp",
+      "packageTexture": "textures/mat_10_gzd_map_haven_floor05_mt_con.png"
+    },
+    {
+      "materialIndex": 11,
+      "name": "gzd_map_Haven_wall06_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_wall06.bmp",
+      "packageTexture": "textures/mat_11_gzd_map_haven_wall06_mt_con.png"
+    },
+    {
+      "materialIndex": 12,
+      "name": "txa 30 2000 fire_a00_2s",
+      "flags": 12,
+      "sourceDiffuseMap": "../mansion/txa 30 2000 fire_a00.bmp",
+      "packageTexture": ""
+    },
+    {
+      "materialIndex": 13,
+      "name": "gzd_map_Haven_rock04_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_rock04.bmp",
+      "packageTexture": "textures/mat_13_gzd_map_haven_rock04_mt_con.png"
+    },
+    {
+      "materialIndex": 14,
+      "name": "gzd_map_Haven_floor01_mt_clo",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_floor01.bmp",
+      "packageTexture": "textures/mat_14_gzd_map_haven_floor01_mt_clo.png"
+    },
+    {
+      "materialIndex": 15,
+      "name": "gzd_map_Haven_wall05_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_wall05.bmp",
+      "packageTexture": "textures/mat_15_gzd_map_haven_wall05_mt_con.png"
+    },
+    {
+      "materialIndex": 16,
+      "name": "gzd_map_Haven_wall01_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_wall01.bmp",
+      "packageTexture": "textures/mat_16_gzd_map_haven_wall01_mt_con.png"
+    },
+    {
+      "materialIndex": 17,
+      "name": "gzd_map_Haven_floor04_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_floor04.bmp",
+      "packageTexture": "textures/mat_17_gzd_map_haven_floor04_mt_con.png"
+    },
+    {
+      "materialIndex": 18,
+      "name": "gzd_map_Haven_floor02_mt_clo",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_floor02.bmp",
+      "packageTexture": "textures/mat_18_gzd_map_haven_floor02_mt_clo.png"
+    },
+    {
+      "materialIndex": 19,
+      "name": "gzd_map_Haven_wall02_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_wall02.bmp",
+      "packageTexture": "textures/mat_19_gzd_map_haven_wall02_mt_con.png"
+    },
+    {
+      "materialIndex": 20,
+      "name": "gzd_map_Haven_tile01_mt_wod",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_tile01.bmp",
+      "packageTexture": "textures/mat_20_gzd_map_haven_tile01_mt_wod.png"
+    },
+    {
+      "materialIndex": 21,
+      "name": "gzd_map_Haven_wall08_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_wall08.bmp",
+      "packageTexture": "textures/mat_21_gzd_map_haven_wall08_mt_con.png"
+    },
+    {
+      "materialIndex": 22,
+      "name": "gzd_map_Haven_wall04_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_wall04.bmp",
+      "packageTexture": "textures/mat_22_gzd_map_haven_wall04_mt_con.png"
+    },
+    {
+      "materialIndex": 23,
+      "name": "at_gzd_map_Haven_foliage02_2s_mt_pnt",
+      "flags": 11,
+      "sourceDiffuseMap": "gzd_map_Haven_foliage02.tga",
+      "packageTexture": "textures/mat_23_at_gzd_map_haven_foliage02_2s_mt_pnt.png"
+    },
+    {
+      "materialIndex": 24,
+      "name": "at_gzd_map_Haven_foliage01_2s_mt_pnt",
+      "flags": 11,
+      "sourceDiffuseMap": "gzd_map_Haven_foliage01.tga",
+      "packageTexture": "textures/mat_24_at_gzd_map_haven_foliage01_2s_mt_pnt.png"
+    },
+    {
+      "materialIndex": 25,
+      "name": "gzd_map_Haven_floor07_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_floor07.bmp",
+      "packageTexture": "textures/mat_25_gzd_map_haven_floor07_mt_con.png"
+    },
+    {
+      "materialIndex": 26,
+      "name": "gzd_map_Haven_window02_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_window02.bmp",
+      "packageTexture": "textures/mat_26_gzd_map_haven_window02_mt_con.png"
+    },
+    {
+      "materialIndex": 27,
+      "name": "gzd_map_Haven_window01_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_window01.bmp",
+      "packageTexture": "textures/mat_27_gzd_map_haven_window01_mt_con.png"
+    },
+    {
+      "materialIndex": 28,
+      "name": "gzd_map_Haven_floor08_mt_con",
+      "flags": 0,
+      "sourceDiffuseMap": "gzd_map_Haven_floor08.bmp",
+      "packageTexture": "textures/mat_28_gzd_map_haven_floor08_mt_con.png"
+    },
+    {
+      "materialIndex": 29,
+      "name": "at_gzd_map_BA_mask_2s_mt_met",
+      "flags": 11,
+      "sourceDiffuseMap": "../battle arena/gzd_map_BA_mask.tga",
+      "packageTexture": ""
+    },
+    {
+      "materialIndex": 30,
+      "name": "18 - Default",
+      "flags": 0,
+      "sourceDiffuseMap": "",
+      "packageTexture": ""
+    },
+    {
+      "materialIndex": 31,
+      "name": "gzd_map_Factory_sky_sunset",
+      "flags": 0,
+      "sourceDiffuseMap": "../factory/sky_sunset.bmp",
+      "packageTexture": ""
+    }
+  ],
+  "usedMaterialIndices": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "source": {
+    "inputDir": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/ui/Char-Creation-Select",
+    "rs": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/ui/Char-Creation-Select/Login.RS",
+    "rsXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/ui/Char-Creation-Select/Login.RS.xml",
+    "rsCol": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/ui/Char-Creation-Select/Login.RS.col",
+    "rsBsp": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/ui/Char-Creation-Select/Login.RS.bsp",
+    "rsLm": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/ui/Char-Creation-Select/Login.RS.lm"
+  },
+  "stats": {
+    "vertices": 122015,
+    "indices": 172545,
+    "triangles": 57515,
+    "sections": 27,
+    "materials": 32,
+    "lights": 41,
+    "collisionNodes": 26824,
+    "rsCounts": {
+      "nodes": 29375,
+      "polygons": 32250,
+      "vertices": 122015,
+      "indices": 172545
+    },
+    "rsAllocCounts": {
+      "nodeCount": 226,
+      "polygonCount": 13315,
+      "numVertices": 49151,
+      "numIndices": 67563
+    },
+    "rsMaterialNameCount": 31,
+    "rsConvexPolygonCount": 9541,
+    "rsConvexVertexCount": 34055,
+    "geometrySource": "bsp",
+    "bspCounts": {
+      "nodes": 29375,
+      "polygons": 32250,
+      "vertices": 122015,
+      "indices": 172545
+    }
+  },
+  "hashes": {
+    "worldBinSha256": "c042bf9a3b132d5c3a1b967bed274ca7e214aa16c0e7ca7627e85ab14b9463c6",
+    "collisionBinSha256": "782681892c6201dc1621e54a21c642d4a93eb99cd9f06c485e04a53adfd71907"
+  }
+}

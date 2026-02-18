@@ -1,0 +1,19 @@
+{
+  "modelId": "weapon/grenade01",
+  "modelType": "weapon",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/grenade/grenade01.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 2,
+    "meshNodeCount": 2,
+    "primitiveCount": 2,
+    "vertexCount": 276,
+    "indexCount": 276,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "ce053ee67e53c7c55adccbb6afe720a2628d512770b9cfa00f312c978950c000"
+  }
+}

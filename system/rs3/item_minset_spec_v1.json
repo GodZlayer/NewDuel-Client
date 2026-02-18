@@ -1,0 +1,56 @@
+{
+  "version": "v1",
+  "sourceOfTruth": {
+    "zitemJson": "../../newduel-server/data/game/zitem.json",
+    "weaponXml": "../Model/weapon.xml",
+    "partsIndexXml": "../system/parts_index.xml"
+  },
+  "equip_keep_ids": [
+    400011,
+    400012,
+    21001,
+    21501,
+    22001,
+    22501,
+    23001,
+    23501,
+    24001,
+    24501,
+    25001
+  ],
+  "combat_keep_ids": [
+    1,
+    2,
+    31,
+    51,
+    4001,
+    4002,
+    4005,
+    4006,
+    5001,
+    5002,
+    6001,
+    7001,
+    8001,
+    9001,
+    10001,
+    30001,
+    30101,
+    30201,
+    30301,
+    30401,
+    400007,
+    526001
+  ],
+  "no_mesh_keep_ids": [
+    600001,
+    600101,
+    600201,
+    600301,
+    300001,
+    700001
+  ],
+  "aliases": {
+    "sword01": "sword_wood"
+  }
+}

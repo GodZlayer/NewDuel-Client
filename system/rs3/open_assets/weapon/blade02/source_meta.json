@@ -1,0 +1,19 @@
+{
+  "modelId": "weapon/blade02",
+  "modelType": "weapon",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/blade/blade02.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 1,
+    "meshNodeCount": 1,
+    "primitiveCount": 1,
+    "vertexCount": 216,
+    "indexCount": 216,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "beb92657613963f703dd66eb6799cb093495183a7fd2946c8314f7a59ea94604"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "modelId": "weapon/shotgun01",
+  "modelType": "weapon",
+  "sourceElu": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/model/weapon/shotgun/shotgun01.elu",
+  "sourceXml": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/Model/weapon.xml",
+  "clipRefs": [],
+  "animationResults": [],
+  "summary": {
+    "materialCount": 2,
+    "meshNodeCount": 3,
+    "primitiveCount": 2,
+    "vertexCount": 996,
+    "indexCount": 996,
+    "animationCount": 0
+  },
+  "hashes": {
+    "glbSha256": "444e52c3505f2ea12bcf2dcdf647d2ed7926b39a4b2370b0f5ec061c000c3b4d"
+  }
+}
