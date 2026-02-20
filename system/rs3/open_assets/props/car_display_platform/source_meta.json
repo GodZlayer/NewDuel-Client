@@ -1,0 +1,10 @@
+{
+  "modelId": "props/car_display_platform",
+  "modelType": "props",
+  "sourceGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/props/car_display_platform/model.glb",
+  "sourceFolder": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/props/car_display_platform",
+  "notes": "Imported from extra-assets/car-display-platform.",
+  "hashes": {
+    "glbSha256": "69028740531815DDF89FDF7E788F154A8B6377AA44A2789F6EC892AAC5C88D13"
+  }
+}

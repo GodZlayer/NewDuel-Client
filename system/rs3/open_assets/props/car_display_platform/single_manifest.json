@@ -1,0 +1,10 @@
+{
+  "version": "open_assets_manifest_v1",
+  "entries": [
+    {
+      "modelId": "props/car_display_platform",
+      "status": "ok",
+      "outputGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/props/car_display_platform/model.glb"
+    }
+  ]
+}

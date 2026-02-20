@@ -1,0 +1,41 @@
+{
+  "version": "rs3_model_manifest_v1",
+  "generatedAt": "2026-02-19T09:16:01.373Z",
+  "strict": false,
+  "inputs": {
+    "inputRoot": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets",
+    "sourceManifestPath": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/props/car_display_platform/single_manifest.json"
+  },
+  "outputRoot": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/models",
+  "stats": {
+    "totalEntries": 1,
+    "okCount": 1,
+    "errorCount": 0,
+    "missingCount": 0,
+    "missingDependencyCount": 0
+  },
+  "missing": [],
+  "entries": [
+    {
+      "modelId": "props/car_display_platform",
+      "status": "ok",
+      "sourceGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/props/car_display_platform/model.glb",
+      "outputDir": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/models/props/car_display_platform",
+      "stats": {
+        "vertexCount": 128938,
+        "indexCount": 676194,
+        "submeshCount": 1,
+        "boneCount": 1,
+        "clipCount": 0,
+        "materialCount": 1
+      },
+      "hashes": {
+        "mesh": "993742e079b2c646e11a4c0dc8a5478630d9f56407ea8f68328e457662b57490",
+        "skeleton": "b23612152cdecc60ac8607c1abe0723faf9397fa51837588c70d26ca74132174",
+        "animation": "8f3a31498fee59784dadcee90a2ade9cd676a9f5d0dd3d3bc776031507543e74",
+        "materials": "2f973614b589ad592d0f1d6b7130e4945a4968e213ceb4937c4bd82006301ed6",
+        "modelJson": "28484c0141bc33510b570abb87792da47d64dde9d7b78ad350e6c2cbccb27f9b"
+      }
+    }
+  ]
+}

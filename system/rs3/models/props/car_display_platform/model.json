@@ -1,0 +1,24 @@
+{
+  "version": "rs3_model_v1",
+  "modelId": "props/car_display_platform",
+  "sourceGlb": "C:/Users/santo/Documents/OpenGunz/OpenGunZ-Client/system/rs3/open_assets/props/car_display_platform/model.glb",
+  "files": {
+    "mesh": "mesh.bin",
+    "skeleton": "skeleton.bin",
+    "animation": "anim.bin",
+    "materials": "materials.bin",
+    "attachments": "attachments.json"
+  },
+  "stats": {
+    "vertexCount": 128938,
+    "indexCount": 676194,
+    "submeshCount": 1,
+    "boneCount": 1,
+    "clipCount": 0,
+    "materialCount": 1
+  },
+  "rigId": "bone_0",
+  "clipSetId": "props/car_display_platform_clips",
+  "materialPolicy": "pbr_v1",
+  "generatedAt": "2026-02-19T09:16:01.358Z"
+}
