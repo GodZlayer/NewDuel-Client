@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "assetCount": 590,
+  "validCount": 590,
+  "failureCount": 0,
+  "renderableCount": 578,
+  "supportOnlyCount": 12,
+  "totals": {
+    "vertices": 3784451,
+    "indices": 4535076,
+    "materials": 11725,
+    "sections": 11456,
+    "textures": 10553,
+    "trailingBytes": 27444564
+  },
+  "failures": []
+}

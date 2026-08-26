@@ -1,0 +1,4098 @@
+{
+  "schemaVersion": 1,
+  "source": "converted-zitem-metadata",
+  "items": [
+    {
+      "itemId": 1,
+      "meshName": "dagger01",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 2,
+      "meshName": "katana01",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 6,
+      "meshName": "dagger02",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 7,
+      "meshName": "dagger03",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 8,
+      "meshName": "dagger12",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 12,
+      "meshName": "katana02",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 15,
+      "meshName": "katana04",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 16,
+      "meshName": "katana06",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 17,
+      "meshName": "katana03",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 31,
+      "meshName": "blade02",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 32,
+      "meshName": "blade01",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 33,
+      "meshName": "blade06",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 34,
+      "meshName": "blade05",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 35,
+      "meshName": "blade09",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 39,
+      "meshName": "dagger_wood",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 40,
+      "meshName": "katana_wood",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 41,
+      "meshName": "blade_wood",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 67,
+      "meshName": "sword_wood",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 89,
+      "meshName": "katana_abys",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 101,
+      "meshName": "eq_head_school",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 102,
+      "meshName": "eq_head_school",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 103,
+      "meshName": "eq_chest_school",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 104,
+      "meshName": "eq_chest_school",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 105,
+      "meshName": "eq_hands_school",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 106,
+      "meshName": "eq_hands_school",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 107,
+      "meshName": "eq_legs_school",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 108,
+      "meshName": "eq_legs_school",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 109,
+      "meshName": "eq_feets_school",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 110,
+      "meshName": "eq_feet_school",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 115,
+      "meshName": "eq_head_angel",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 116,
+      "meshName": "eq_chest_angel",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 117,
+      "meshName": "eq_hands_angel",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 118,
+      "meshName": "eq_legs_angel",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 119,
+      "meshName": "eq_feet_angel",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 120,
+      "meshName": "eq_head_clan_yohawk",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 121,
+      "meshName": "eq_chest_clan_yohawk",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 122,
+      "meshName": "eq_hands_clan_yohawk",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 123,
+      "meshName": "eq_legs_clan_yohawk",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 124,
+      "meshName": "eq_feet_clan_yohawk",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 125,
+      "meshName": "eq_head_yohawk",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 126,
+      "meshName": "eq_chest_yohawk",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 127,
+      "meshName": "eq_hands_yohawk",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 128,
+      "meshName": "eq_legs_yohawk",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 129,
+      "meshName": "eq_feet_yohawk",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 130,
+      "meshName": "eq_head_US_Navy_Costume",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 131,
+      "meshName": "eq_chest_US_Navy_Costume",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 132,
+      "meshName": "eq_hands_US_Navy_Costume",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 133,
+      "meshName": "eq_legs_US_Navy_Costume",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 134,
+      "meshName": "eq_feet_US_Navy_Costume",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 135,
+      "meshName": "eq_head_US_Navy_Costume",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 136,
+      "meshName": "eq_chest_US_Navy_Costume",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 137,
+      "meshName": "eq_hands_US_Navy_Costume",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 138,
+      "meshName": "eq_legs_US_Navy_Costume",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 139,
+      "meshName": "eq_feet_US_Navy_Costume",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 141,
+      "meshName": "eq_head_hanbok",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 142,
+      "meshName": "eq_chest_hanbok",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 143,
+      "meshName": "eq_hands_hanbok",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 144,
+      "meshName": "eq_legs_hanbok",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 145,
+      "meshName": "eq_feets_hanbok",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 146,
+      "meshName": "eq_head_hanbok",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 147,
+      "meshName": "eq_chest_hanbok",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 148,
+      "meshName": "eq_hands_hanbok",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 149,
+      "meshName": "eq_legs_hanbok",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 150,
+      "meshName": "eq_feet_hanbok",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 151,
+      "meshName": "eq_head_axium_high",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 152,
+      "meshName": "eq_chest_axium_high",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 153,
+      "meshName": "eq_hands_axium_high",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 154,
+      "meshName": "eq_legs_axium_high",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 155,
+      "meshName": "eq_feet_axium_high",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 156,
+      "meshName": "eq_head_axium_high",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 157,
+      "meshName": "eq_chest_axium_high",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 158,
+      "meshName": "eq_hands_axium_high",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 159,
+      "meshName": "eq_legs_axium_high",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 160,
+      "meshName": "eq_feet_axium_high",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 161,
+      "meshName": "eq_head_eola",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 162,
+      "meshName": "eq_chest_eola",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 163,
+      "meshName": "eq_hands_eola",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 164,
+      "meshName": "eq_legs_eola",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 165,
+      "meshName": "eq_feet_eola",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 166,
+      "meshName": "eq_head_eola",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 167,
+      "meshName": "eq_chest_eola",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 168,
+      "meshName": "eq_hands_eola",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 169,
+      "meshName": "eq_legs_eola",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 170,
+      "meshName": "eq_feet_eola",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 171,
+      "meshName": "eq_head_axium_uniform",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 172,
+      "meshName": "eq_chest_axium_uniform",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 173,
+      "meshName": "eq_hands_axium_uniform",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 174,
+      "meshName": "eq_legs_axium_uniform",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 175,
+      "meshName": "eq_feet_axium_uniform",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 176,
+      "meshName": "eq_head_axium_uniform",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 177,
+      "meshName": "eq_chest_axium_uniform",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 178,
+      "meshName": "eq_hands_axium_uniform",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 179,
+      "meshName": "eq_legs_axium_uniform",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 180,
+      "meshName": "eq_feet_axium_uniform",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 181,
+      "meshName": "eq_head_32",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 182,
+      "meshName": "eq_chest_32",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 183,
+      "meshName": "eq_hands_32",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 184,
+      "meshName": "eq_legs_32",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 185,
+      "meshName": "eq_feet_32",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 186,
+      "meshName": "eq_head_32",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 187,
+      "meshName": "eq_chest_32",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 188,
+      "meshName": "eq_hands_32",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 189,
+      "meshName": "eq_legs_32",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 190,
+      "meshName": "eq_feet_32",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 192,
+      "meshName": "eq_head_06",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 1112,
+      "meshName": "eq_head_crown",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 1113,
+      "meshName": "eq_head_crown",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 4002,
+      "meshName": "pistol01x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 4004,
+      "meshName": "pistol02x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 4006,
+      "meshName": "pistol07x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 4012,
+      "meshName": "pistol05x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 4022,
+      "meshName": "pistol06x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 4024,
+      "meshName": "pistol01x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 4502,
+      "meshName": "pistol12x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 4506,
+      "meshName": "pistol10x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 4514,
+      "meshName": "pistol08x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 4516,
+      "meshName": "pistol19x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 4519,
+      "meshName": "pistol07x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 5002,
+      "meshName": "smg01x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 5004,
+      "meshName": "smg02x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 5006,
+      "meshName": "smg05x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 5014,
+      "meshName": "smg03x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 5020,
+      "meshName": "smg04x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 5022,
+      "meshName": "smg01x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 6002,
+      "meshName": "shotgun01",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 6004,
+      "meshName": "shotgun03",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 6007,
+      "meshName": "shotgun07",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 6008,
+      "meshName": "shotgun02",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 6010,
+      "meshName": "shotgun11",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 6011,
+      "meshName": "doube_barrel_short",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 6013,
+      "meshName": "doube_barrel_long",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 6020,
+      "meshName": "shotgun01",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 7001,
+      "meshName": "rifle03",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 7002,
+      "meshName": "rifle01",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 7004,
+      "meshName": "rifle04",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 7008,
+      "meshName": "rifle02",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 7009,
+      "meshName": "rifle06",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 7020,
+      "meshName": "rifle01",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 8001,
+      "meshName": "machinegun01",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 8003,
+      "meshName": "machinegun02",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 8004,
+      "meshName": "machinegun06",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 8007,
+      "meshName": "machinegun01",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 8500,
+      "meshName": "rocketlauncher",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 8501,
+      "meshName": "pink",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 8502,
+      "meshName": "green",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 8503,
+      "meshName": "blue",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 9001,
+      "meshName": "rocketlauncher",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 9004,
+      "meshName": "rocketlauncher02",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 9005,
+      "meshName": "rocketlauncher03",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 9007,
+      "meshName": "rocketlauncher08",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 9010,
+      "meshName": "rocketlauncher03",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 9011,
+      "meshName": "rocketlauncher02",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 9012,
+      "meshName": "rocketlauncher06",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 9013,
+      "meshName": "shotgun01",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 9015,
+      "meshName": "grenade01",
+      "slot": "custom",
+      "sex": "a"
+    },
+    {
+      "itemId": 9016,
+      "meshName": "katana_abys",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 9017,
+      "meshName": "dagger07",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 9022,
+      "meshName": "woman_bazooka",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 9023,
+      "meshName": "tensazan",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 9024,
+      "meshName": "Shield",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 12996,
+      "meshName": "eq_head_wedding",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 12997,
+      "meshName": "eq_chest_wedding",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 12998,
+      "meshName": "eq_hands_wedding",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 13000,
+      "meshName": "eq_feet_wedding",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 13001,
+      "meshName": "eq_head_wedding",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 13002,
+      "meshName": "eq_chest_wedding",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 13003,
+      "meshName": "eq_hands_wedding",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 13004,
+      "meshName": "eq_legs_wedding",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 13005,
+      "meshName": "eq_feet_wedding",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 13006,
+      "meshName": "eq_head_royal_children",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 13007,
+      "meshName": "eq_chest_royal_children",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 13008,
+      "meshName": "eq_hands_royal_children",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 13009,
+      "meshName": "eq_legs_royal_children",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 13010,
+      "meshName": "eq_feet_royal_children",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 13011,
+      "meshName": "eq_head_royal_children",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 13012,
+      "meshName": "eq_chest_royal_children",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 13013,
+      "meshName": "eq_hands_royal_children",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 13014,
+      "meshName": "eq_legs_royal_children",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 13015,
+      "meshName": "eq_feet_royal_children",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 13016,
+      "meshName": "eq_head_judgement",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 13017,
+      "meshName": "eq_chest_judgement",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 13018,
+      "meshName": "eq_hands_judgement",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 13019,
+      "meshName": "eq_legs_judgement",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 13020,
+      "meshName": "eq_feet_judgement",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 13021,
+      "meshName": "eq_head_judgement",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 13022,
+      "meshName": "eq_chest_judgement",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 13023,
+      "meshName": "eq_hands_judgement",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 13024,
+      "meshName": "eq_legs_judgement",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 13025,
+      "meshName": "eq_feet_judgement",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 21001,
+      "meshName": "eq_chest_12",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 21002,
+      "meshName": "eq_chest_06",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 21003,
+      "meshName": "eq_chest_13",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 21004,
+      "meshName": "eq_chest_01",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 21005,
+      "meshName": "eq_chest_03",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 21006,
+      "meshName": "eq_chest_a001",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 21007,
+      "meshName": "eq_chest_07_1",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 21008,
+      "meshName": "eq_chest_21",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 21501,
+      "meshName": "eq_chest_05",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 21502,
+      "meshName": "eq_chest_n013",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 21503,
+      "meshName": "eq_chest_p001",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 21504,
+      "meshName": "eq_chest_c001",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 21505,
+      "meshName": "eq_chest_long001",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 21506,
+      "meshName": "eq_chest_07",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 21507,
+      "meshName": "eq_chest_long004",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 21508,
+      "meshName": "eq_chest_21",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 22001,
+      "meshName": "eq_hands_a001",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 22002,
+      "meshName": "eq_hands_01",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 22003,
+      "meshName": "eq_hands_02",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 22004,
+      "meshName": "eq_hands_04",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 22005,
+      "meshName": "eq_hands_21",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 22501,
+      "meshName": "eq_hands_07",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 22502,
+      "meshName": "eq_hands_leather04",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 22503,
+      "meshName": "eq_hands_02",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 22504,
+      "meshName": "eq_hands_leather02",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 22505,
+      "meshName": "eq_hands_21",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 23001,
+      "meshName": "eq_legs_01",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 23002,
+      "meshName": "eq_legs_02",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 23003,
+      "meshName": "eq_legs_04",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 23004,
+      "meshName": "eq_legs_13",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 23005,
+      "meshName": "eq_legs_a001",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 23006,
+      "meshName": "eq_legs_12",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 23007,
+      "meshName": "eq_legs_21",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 23501,
+      "meshName": "eq_legs_g002",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 23502,
+      "meshName": "eq_legs_j001",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 23503,
+      "meshName": "eq_legs_c001",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 23504,
+      "meshName": "eq_legs_ge001",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 23505,
+      "meshName": "eq_legs_j001",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 23506,
+      "meshName": "eq_legs_c001",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 23507,
+      "meshName": "eq_legs_ge001",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 23508,
+      "meshName": "eq_legs_007",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 23509,
+      "meshName": "eq_legs_c002",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 23510,
+      "meshName": "eq_legs_21",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 24001,
+      "meshName": "eq_feet_a001",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 24002,
+      "meshName": "eq_feet_05",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 24003,
+      "meshName": "eq_feet_04",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 24004,
+      "meshName": "eq_feet_02",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 24005,
+      "meshName": "eq_feet_09",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 24006,
+      "meshName": "eq_feet_21",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 24501,
+      "meshName": "eq_feets_leather003",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 24502,
+      "meshName": "eq_feets_07",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 24503,
+      "meshName": "eq_feets_leather007",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 24504,
+      "meshName": "eq_feets_p002",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 24505,
+      "meshName": "eq_feets_leather008",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 24506,
+      "meshName": "eq_feet_21",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 30205,
+      "meshName": "flashbang01",
+      "slot": "custom",
+      "sex": "a"
+    },
+    {
+      "itemId": 30304,
+      "meshName": "grenade01",
+      "slot": "custom",
+      "sex": "a"
+    },
+    {
+      "itemId": 30306,
+      "meshName": "grenade01",
+      "slot": "custom",
+      "sex": "a"
+    },
+    {
+      "itemId": 30405,
+      "meshName": "smoke01",
+      "slot": "custom",
+      "sex": "a"
+    },
+    {
+      "itemId": 30930,
+      "meshName": "eq_head_kungfu",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 30931,
+      "meshName": "eq_chest_kungfu",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 30932,
+      "meshName": "eq_hands_kungfu",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 30933,
+      "meshName": "eq_legs_kungfu",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 30934,
+      "meshName": "eq_feet_kungfu",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 30935,
+      "meshName": "eq_head_kungfu",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 30936,
+      "meshName": "eq_chest_kungfu",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 30937,
+      "meshName": "eq_hands_kungfu",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 30938,
+      "meshName": "eq_legs_kungfu",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 30939,
+      "meshName": "eq_feet_kungfu",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 30940,
+      "meshName": "eq_head_heavymetal",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 30941,
+      "meshName": "eq_chest_heavymetal",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 30942,
+      "meshName": "eq_hands_heavymetal",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 30943,
+      "meshName": "eq_legs_heavymetal",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 30944,
+      "meshName": "eq_feet_heavymetal",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 30945,
+      "meshName": "eq_head_heavymetal",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 30946,
+      "meshName": "eq_chest_heavymetal",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 30947,
+      "meshName": "eq_hands_heavymetal",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 30948,
+      "meshName": "eq_legs_heavymetal",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 30949,
+      "meshName": "eq_feet_heavymetal",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 31001,
+      "meshName": "dagger06",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 31002,
+      "meshName": "dagger05",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 31003,
+      "meshName": "dagger04",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 31004,
+      "meshName": "dagger11",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 31005,
+      "meshName": "dagger10",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 31006,
+      "meshName": "dagger08",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 31007,
+      "meshName": "dagger09",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 31008,
+      "meshName": "dagger07",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 32001,
+      "meshName": "katana05",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 32002,
+      "meshName": "katana07",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 32003,
+      "meshName": "katana08",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 32004,
+      "meshName": "katana15",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 32005,
+      "meshName": "katana16",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 32007,
+      "meshName": "katana12",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 32008,
+      "meshName": "katana11",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 32009,
+      "meshName": "katana10",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 32010,
+      "meshName": "katana09",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 33001,
+      "meshName": "eq_blade_wing",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 33002,
+      "meshName": "blade04",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 33003,
+      "meshName": "blade07",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 33004,
+      "meshName": "blade03",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 33005,
+      "meshName": "blade08",
+      "slot": "melee",
+      "sex": "a"
+    },
+    {
+      "itemId": 34001,
+      "meshName": "pistol18x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 34002,
+      "meshName": "pistol20x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 34003,
+      "meshName": "pistol04x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 34004,
+      "meshName": "pistol13x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 34005,
+      "meshName": "pistol03x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 34007,
+      "meshName": "pistol16x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 34501,
+      "meshName": "pistol09x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 34502,
+      "meshName": "pistol17x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 34503,
+      "meshName": "pistol15x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 34505,
+      "meshName": "pistol11x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 35001,
+      "meshName": "smg06x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 35002,
+      "meshName": "smg08x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 35003,
+      "meshName": "smg07x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 35005,
+      "meshName": "smg09x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 35006,
+      "meshName": "smg11x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 35007,
+      "meshName": "smg10x2",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 35501,
+      "meshName": "shotgun08",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 35502,
+      "meshName": "shotgun09",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 35503,
+      "meshName": "shotgun10_1",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 35504,
+      "meshName": "shotgun06",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 35505,
+      "meshName": "shotgun05",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 35507,
+      "meshName": "shotgun04",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 35508,
+      "meshName": "shotgun10",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 36501,
+      "meshName": "rifle10",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 36502,
+      "meshName": "rifle15",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 36503,
+      "meshName": "rifle09",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 36504,
+      "meshName": "rifle08",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 36505,
+      "meshName": "rifle11",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 36506,
+      "meshName": "rifle13",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 36507,
+      "meshName": "rifle16",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 36508,
+      "meshName": "rifle07",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 36510,
+      "meshName": "rifle05",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 37001,
+      "meshName": "rocketlauncher04",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 37002,
+      "meshName": "rocketlauncher06",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 37003,
+      "meshName": "rocketlauncher05",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 37501,
+      "meshName": "machinegun03",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 37502,
+      "meshName": "machinegun04",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 37504,
+      "meshName": "machinegun05",
+      "slot": "range",
+      "sex": "a"
+    },
+    {
+      "itemId": 40001,
+      "meshName": "eq_head_a001",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40002,
+      "meshName": "eq_head_12",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40003,
+      "meshName": "eq_head_07",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40004,
+      "meshName": "eq_head_04",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40005,
+      "meshName": "eq_head_13",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40006,
+      "meshName": "eq_head_15",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40007,
+      "meshName": "eq_head_14",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40008,
+      "meshName": "eq_head_10",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40009,
+      "meshName": "eq_head_16",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40010,
+      "meshName": "eq_head_20",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40011,
+      "meshName": "eq_head_21",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40012,
+      "meshName": "eq_head_23",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40013,
+      "meshName": "eq_head_santa",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40014,
+      "meshName": "eq_head_24",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40015,
+      "meshName": "eq_head_22",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40016,
+      "meshName": "eq_head_19",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40017,
+      "meshName": "eq_head_11",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40018,
+      "meshName": "eq_head_bigi",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40020,
+      "meshName": "eq_head_26",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40021,
+      "meshName": "eq_head_25",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40022,
+      "meshName": "eq_head_korea",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40023,
+      "meshName": "eq_head_brazil",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40024,
+      "meshName": "eq_head_japan",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40025,
+      "meshName": "eq_head_visor",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40026,
+      "meshName": "eq_head_musketeer3",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40027,
+      "meshName": "eq_head_zeus",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40028,
+      "meshName": "eq_head_pumpkin",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40029,
+      "meshName": "eq_head_29",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40030,
+      "meshName": "eq_head_33",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40031,
+      "meshName": "eq_head_34",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40032,
+      "meshName": "eq_head_36",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40033,
+      "meshName": "eq_head_rabbit",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40034,
+      "meshName": "eq_head_cat",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40035,
+      "meshName": "eq_head_35",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 40501,
+      "meshName": "eq_head_04",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40502,
+      "meshName": "eq_head_05",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40503,
+      "meshName": "eq_head_06",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40504,
+      "meshName": "eq_head_07",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40505,
+      "meshName": "eq_head_10",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40506,
+      "meshName": "eq_head_11",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40507,
+      "meshName": "eq_head_12",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40508,
+      "meshName": "eq_head_08",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40509,
+      "meshName": "eq_head_13",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40510,
+      "meshName": "eq_head_01",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40511,
+      "meshName": "eq_head_20",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40512,
+      "meshName": "eq_head_23",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40513,
+      "meshName": "eq_head_santa",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40514,
+      "meshName": "eq_head_24",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40515,
+      "meshName": "eq_head_22",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40516,
+      "meshName": "eq_head_18",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40517,
+      "meshName": "eq_head_26",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40518,
+      "meshName": "eq_head_bigi",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40520,
+      "meshName": "eq_head_27",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40521,
+      "meshName": "eq_head_25",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40522,
+      "meshName": "eq_head_korea",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40523,
+      "meshName": "eq_head_brazil",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40524,
+      "meshName": "eq_head_japan",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40525,
+      "meshName": "eq_head_visor",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40526,
+      "meshName": "eq_head_hat",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40527,
+      "meshName": "eq_head_zeus",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40528,
+      "meshName": "eq_head_pumpkin",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40529,
+      "meshName": "eq_head_30",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40530,
+      "meshName": "eq_head_33",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40531,
+      "meshName": "eq_head_34",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40532,
+      "meshName": "eq_head_35",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40533,
+      "meshName": "eq_head_rabbit",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40534,
+      "meshName": "eq_head_cat",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 40535,
+      "meshName": "eq_head_36",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 41001,
+      "meshName": "eq_chest_16",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41002,
+      "meshName": "eq_chest_04",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41003,
+      "meshName": "eq_chest_17",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41004,
+      "meshName": "eq_chest_10",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41005,
+      "meshName": "eq_chest_09",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41006,
+      "meshName": "eq_chest_20",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41007,
+      "meshName": "eq_chest_23",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41008,
+      "meshName": "eq_chest_santa",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41009,
+      "meshName": "eq_chest_24",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41010,
+      "meshName": "eq_chest_22",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41011,
+      "meshName": "eq_chest_19",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41012,
+      "meshName": "eq_chest_18",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41013,
+      "meshName": "eq_chest_bigi",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41014,
+      "meshName": "eq_chest_27",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41016,
+      "meshName": "eq_chest_26",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41017,
+      "meshName": "eq_chest_25",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41018,
+      "meshName": "eq_chest_korea",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41019,
+      "meshName": "eq_chest_brazil",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41020,
+      "meshName": "eq_chest_japan",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41021,
+      "meshName": "eq_chest_14",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41022,
+      "meshName": "eq_chest_zeus",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41023,
+      "meshName": "eq_chest_29",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41024,
+      "meshName": "eq_chest_33",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41025,
+      "meshName": "eq_chest_34",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41026,
+      "meshName": "eq_chest_36",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41027,
+      "meshName": "eq_chest_35",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 41501,
+      "meshName": "eq_chest_long002",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41502,
+      "meshName": "eq_chest_17",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41503,
+      "meshName": "eq_chest_19",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41504,
+      "meshName": "eq_chest_14",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41505,
+      "meshName": "eq_chest_08",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41506,
+      "meshName": "eq_chest_20",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41507,
+      "meshName": "eq_chest_023",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41508,
+      "meshName": "eq_chest_santa",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41509,
+      "meshName": "eq_chest_024",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41510,
+      "meshName": "eq_chest_22",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41511,
+      "meshName": "eq_chest_18",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41512,
+      "meshName": "eq_chest_026",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41513,
+      "meshName": "eq_chest_bigi",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41514,
+      "meshName": "eq_chest_28",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41516,
+      "meshName": "eq_chest_027",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41517,
+      "meshName": "eq_chest_025",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41518,
+      "meshName": "eq_chest_korea",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41519,
+      "meshName": "eq_chest_brazil",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41520,
+      "meshName": "eq_chest_japan",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41521,
+      "meshName": "eq_chest_15",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41522,
+      "meshName": "eq_chest_zeus",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41523,
+      "meshName": "eq_chest_30",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41524,
+      "meshName": "eq_chest_33",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41525,
+      "meshName": "eq_chest_34",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41526,
+      "meshName": "eq_chest_35",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 41527,
+      "meshName": "eq_chest_36",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 42001,
+      "meshName": "eq_hands_17",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42002,
+      "meshName": "eq_hands_07",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42003,
+      "meshName": "eq_hands_15",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42004,
+      "meshName": "eq_hands_09",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42005,
+      "meshName": "eq_hands_08",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42006,
+      "meshName": "eq_hands_20",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42007,
+      "meshName": "eq_hands_23",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42008,
+      "meshName": "eq_hands_santa",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42009,
+      "meshName": "eq_hands_24",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42010,
+      "meshName": "eq_hands_22",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42011,
+      "meshName": "eq_hands_19",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42012,
+      "meshName": "eq_hands_18",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42013,
+      "meshName": "eq_hands_27",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42015,
+      "meshName": "eq_hands_26",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42016,
+      "meshName": "eq_hands_25",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42017,
+      "meshName": "eq_hands_14",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42018,
+      "meshName": "eq_hands_29",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42019,
+      "meshName": "eq_hands_33",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42020,
+      "meshName": "eq_hands_34",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42021,
+      "meshName": "eq_hands_36",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42022,
+      "meshName": "eq_hands_35",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 42501,
+      "meshName": "eq_hands_leather001",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42502,
+      "meshName": "eq_hands_17",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42503,
+      "meshName": "eq_hands_19",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42504,
+      "meshName": "eq_hands_05",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42505,
+      "meshName": "eq_hands_08",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42506,
+      "meshName": "eq_hands_20",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42507,
+      "meshName": "eq_hands_23",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42508,
+      "meshName": "eq_hands_santa",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42509,
+      "meshName": "eq_hands_24",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42510,
+      "meshName": "eq_hands_22",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42511,
+      "meshName": "eq_hands_18",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42512,
+      "meshName": "eq_hands_26",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42513,
+      "meshName": "eq_hands_28",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42515,
+      "meshName": "eq_hands_27",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42516,
+      "meshName": "eq_hands_25",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42517,
+      "meshName": "eq_hands_15",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42518,
+      "meshName": "eq_hands_30",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42519,
+      "meshName": "eq_hands_33",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42520,
+      "meshName": "eq_hands_34",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42521,
+      "meshName": "eq_hands_35",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 42522,
+      "meshName": "eq_hands_36",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 43001,
+      "meshName": "eq_legs_16",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43002,
+      "meshName": "eq_legs_05",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43003,
+      "meshName": "eq_legs_17",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43004,
+      "meshName": "eq_legs_07",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43005,
+      "meshName": "eq_legs_09",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43006,
+      "meshName": "eq_legs_20",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43007,
+      "meshName": "eq_legs_23",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43008,
+      "meshName": "eq_legs_santa",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43009,
+      "meshName": "eq_legs_24",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43010,
+      "meshName": "eq_legs_22",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43011,
+      "meshName": "eq_legs_19",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43012,
+      "meshName": "eq_legs_18",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43013,
+      "meshName": "eq_legs_27",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43015,
+      "meshName": "eq_legs_26",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43016,
+      "meshName": "eq_legs_25",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43017,
+      "meshName": "eq_legs_korea",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43018,
+      "meshName": "eq_legs_brazil",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43019,
+      "meshName": "eq_legs_japan",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43020,
+      "meshName": "eq_legs_14",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43021,
+      "meshName": "eq_legs_29",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43022,
+      "meshName": "eq_legs_33",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43023,
+      "meshName": "eq_legs_34",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43024,
+      "meshName": "eq_legs_36",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43025,
+      "meshName": "eq_legs_35",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 43501,
+      "meshName": "eq_legs_014",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43502,
+      "meshName": "eq_legs_017",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43503,
+      "meshName": "eq_legs_019",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43504,
+      "meshName": "eq_legs_006",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43505,
+      "meshName": "eq_legs_008",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43506,
+      "meshName": "eq_legs_20",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43507,
+      "meshName": "eq_legs_23",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43508,
+      "meshName": "eq_legs_santa",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43509,
+      "meshName": "eq_legs_24",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43510,
+      "meshName": "eq_legs_22",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43511,
+      "meshName": "eq_legs_018",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43512,
+      "meshName": "eq_legs_26",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43513,
+      "meshName": "eq_legs_28",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43515,
+      "meshName": "eq_legs_27",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43516,
+      "meshName": "eq_legs_25",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43517,
+      "meshName": "eq_legs_korea",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43518,
+      "meshName": "eq_legs_brazil",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43519,
+      "meshName": "eq_legs_japan",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43520,
+      "meshName": "eq_legs_015",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43521,
+      "meshName": "eq_legs_30",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43522,
+      "meshName": "eq_legs_33",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43523,
+      "meshName": "eq_legs_34",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43524,
+      "meshName": "eq_legs_35",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 43525,
+      "meshName": "eq_legs_36",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 44001,
+      "meshName": "eq_feet_16",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44002,
+      "meshName": "eq_feet_06",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44003,
+      "meshName": "eq_feet_17",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44004,
+      "meshName": "eq_feet_08",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44005,
+      "meshName": "eq_feet_11",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44006,
+      "meshName": "eq_feet_20",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44007,
+      "meshName": "eq_feet_23",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44008,
+      "meshName": "eq_feet_santa",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44009,
+      "meshName": "eq_feet_24",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44010,
+      "meshName": "eq_feet_22",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44011,
+      "meshName": "eq_feet_19",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44012,
+      "meshName": "eq_feet_18",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44013,
+      "meshName": "eq_feet_27",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44015,
+      "meshName": "eq_feet_26",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44016,
+      "meshName": "eq_feet_25",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44017,
+      "meshName": "eq_feet_korea",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44018,
+      "meshName": "eq_feet_brazil",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44019,
+      "meshName": "eq_feet_japan",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44020,
+      "meshName": "eq_feet_14",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44021,
+      "meshName": "eq_feet_29",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44022,
+      "meshName": "eq_feet_33",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44023,
+      "meshName": "eq_feet_34",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44024,
+      "meshName": "eq_feet_36",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44025,
+      "meshName": "eq_feet_35",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 44501,
+      "meshName": "eq_feets_014",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44502,
+      "meshName": "eq_feet_017",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44503,
+      "meshName": "eq_feet_019",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44504,
+      "meshName": "eq_feets_006",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44505,
+      "meshName": "eq_feet_005",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44506,
+      "meshName": "eq_feet_20",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44507,
+      "meshName": "eq_feet_23",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44508,
+      "meshName": "eq_feet_santa",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44509,
+      "meshName": "eq_feet_24",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44510,
+      "meshName": "eq_feet_22",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44511,
+      "meshName": "eq_feet_018",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44512,
+      "meshName": "eq_feet_26",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44513,
+      "meshName": "eq_feet_28",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44515,
+      "meshName": "eq_feet_27",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44516,
+      "meshName": "eq_feet_25",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44517,
+      "meshName": "eq_feets_korea",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44518,
+      "meshName": "eq_feets_brazil",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44519,
+      "meshName": "eq_feets_japan",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44520,
+      "meshName": "eq_feet_015",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44521,
+      "meshName": "eq_feets_30",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44522,
+      "meshName": "eq_feet_33",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44523,
+      "meshName": "eq_feet_34",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44524,
+      "meshName": "eq_feet_35",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 44525,
+      "meshName": "eq_feet_36",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 48001,
+      "meshName": "eq_head_valkyrie",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 48002,
+      "meshName": "eq_head_valkyrie",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 48003,
+      "meshName": "eq_chest_valkyrie",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 48004,
+      "meshName": "eq_chest_valkyrie",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 48005,
+      "meshName": "eq_hands_valkyrie",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 48006,
+      "meshName": "eq_hands_valkyrie",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 48007,
+      "meshName": "eq_legs_valkyrie",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 48008,
+      "meshName": "eq_legs_valkyrie",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 48009,
+      "meshName": "eq_feet_valkyrie",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 48010,
+      "meshName": "eq_feet_valkyrie",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 48011,
+      "meshName": "eq_head_magician",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 48012,
+      "meshName": "eq_chest_magician",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 48013,
+      "meshName": "eq_hands_magician",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 48014,
+      "meshName": "eq_legs_magician",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 48015,
+      "meshName": "eq_feet_magician",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 48016,
+      "meshName": "eq_head_magician",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 48017,
+      "meshName": "eq_chest_magician",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 48018,
+      "meshName": "eq_hands_magician",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 48019,
+      "meshName": "eq_legs_magician",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 48020,
+      "meshName": "eq_feet_magician",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 48021,
+      "meshName": "eq_head_halem",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 48022,
+      "meshName": "eq_chest_halem",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 48023,
+      "meshName": "eq_hands_halem",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 48024,
+      "meshName": "eq_legs_halem",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 48025,
+      "meshName": "eq_feet_halem",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 48026,
+      "meshName": "eq_head_halem",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 48027,
+      "meshName": "eq_chest_halem",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 48028,
+      "meshName": "eq_hands_halem",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 48029,
+      "meshName": "eq_legs_halem",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 48030,
+      "meshName": "eq_feet_halem",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 48031,
+      "meshName": "eq_head_jhunter",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 48032,
+      "meshName": "eq_chest_jhunter",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 48033,
+      "meshName": "eq_hands_jhunter",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 48034,
+      "meshName": "eq_legs_jhunter",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 48035,
+      "meshName": "eq_feet_jhunter",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 48036,
+      "meshName": "eq_head_jhunter",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 48037,
+      "meshName": "eq_chest_jhunter",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 48038,
+      "meshName": "eq_hands_jhunter",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 48039,
+      "meshName": "eq_legs_jhunter",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 48040,
+      "meshName": "eq_feet_jhunter",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 48051,
+      "meshName": "eq_head_pirate",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 48052,
+      "meshName": "eq_chest_pirate",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 48053,
+      "meshName": "eq_hands_pirate",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 48054,
+      "meshName": "eq_legs_pirate",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 48055,
+      "meshName": "eq_feet_pirate",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 48056,
+      "meshName": "eq_head_pirate",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 48057,
+      "meshName": "eq_chest_pirate",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 48058,
+      "meshName": "eq_hands_pirate",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 48059,
+      "meshName": "eq_legs_pirate",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 48060,
+      "meshName": "eq_feet_pirate",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 48062,
+      "meshName": "eq_chest_blackdragon",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 48063,
+      "meshName": "eq_hands_blackdragon",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 48065,
+      "meshName": "eq_feet_blackdragon",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 48066,
+      "meshName": "eq_head_blackdragon",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 48067,
+      "meshName": "eq_chest_blackdragon",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 48068,
+      "meshName": "eq_hands_blackdragon",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 48069,
+      "meshName": "eq_legs_blackdragon",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 48070,
+      "meshName": "eq_feet_blackdragon",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 48071,
+      "meshName": "eq_head_crusader",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 48072,
+      "meshName": "eq_chest_crusader",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 48073,
+      "meshName": "eq_hands_crusader",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 48074,
+      "meshName": "eq_legs_crusader",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 48075,
+      "meshName": "eq_feet_crusader",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 48076,
+      "meshName": "eq_head_crusader",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 48077,
+      "meshName": "eq_chest_crusader",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 48078,
+      "meshName": "eq_hands_crusader",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 48079,
+      "meshName": "eq_legs_crusader",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 48080,
+      "meshName": "eq_feet_crusader",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 48081,
+      "meshName": "eq_head_ninja",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 48082,
+      "meshName": "eq_chest_ninja",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 48083,
+      "meshName": "eq_hands_ninja",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 48084,
+      "meshName": "eq_legs_ninja",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 48085,
+      "meshName": "eq_feet_ninja",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 48086,
+      "meshName": "eq_head_ninja",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 48087,
+      "meshName": "eq_chest_ninja",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 48088,
+      "meshName": "eq_hands_ninja",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 48089,
+      "meshName": "eq_legs_ninja",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 48090,
+      "meshName": "eq_feet_ninja",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 49001,
+      "meshName": "eq_head_Assassin",
+      "slot": "head",
+      "sex": "m"
+    },
+    {
+      "itemId": 49002,
+      "meshName": "eq_chest_Assassin",
+      "slot": "chest",
+      "sex": "m"
+    },
+    {
+      "itemId": 49003,
+      "meshName": "eq_hands_Assassin",
+      "slot": "hands",
+      "sex": "m"
+    },
+    {
+      "itemId": 49004,
+      "meshName": "eq_legs_Assassin",
+      "slot": "legs",
+      "sex": "m"
+    },
+    {
+      "itemId": 49005,
+      "meshName": "eq_feet_Assassin",
+      "slot": "feet",
+      "sex": "m"
+    },
+    {
+      "itemId": 49006,
+      "meshName": "eq_head_Assassin",
+      "slot": "head",
+      "sex": "f"
+    },
+    {
+      "itemId": 49007,
+      "meshName": "eq_chest_Assassin",
+      "slot": "chest",
+      "sex": "f"
+    },
+    {
+      "itemId": 49008,
+      "meshName": "eq_hands_Assassin",
+      "slot": "hands",
+      "sex": "f"
+    },
+    {
+      "itemId": 49009,
+      "meshName": "eq_legs_Assassin",
+      "slot": "legs",
+      "sex": "f"
+    },
+    {
+      "itemId": 49010,
+      "meshName": "eq_feet_Assassin",
+      "slot": "feet",
+      "sex": "f"
+    },
+    {
+      "itemId": 52511,
+      "meshName": "chocobar",
+      "slot": "custom",
+      "sex": "a"
+    },
+    {
+      "itemId": 52601,
+      "meshName": "bulletkit",
+      "slot": "custom",
+      "sex": "a"
+    },
+    {
+      "itemId": 52702,
+      "meshName": "medickit_rx",
+      "slot": "custom",
+      "sex": "a"
+    },
+    {
+      "itemId": 52802,
+      "meshName": "repairkit_rx",
+      "slot": "custom",
+      "sex": "a"
+    },
+    {
+      "itemId": 400007,
+      "meshName": "samgak01",
+      "slot": "custom",
+      "sex": "a"
+    },
+    {
+      "itemId": 400010,
+      "meshName": "candy",
+      "slot": "custom",
+      "sex": "a"
+    },
+    {
+      "itemId": 400013,
+      "meshName": "medickit_turkey",
+      "slot": "custom",
+      "sex": "a"
+    },
+    {
+      "itemId": 400014,
+      "meshName": "medickit_icecream",
+      "slot": "custom",
+      "sex": "a"
+    }
+  ]
+}

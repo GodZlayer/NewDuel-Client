@@ -1,0 +1,1036 @@
+{
+  "schemaVersion": 1,
+  "sourceSha256": "6d03b63c9baf3f6a6d61a61624da1b235048a95a4ebf7484c18c2f62dde315cf",
+  "sourceEffectCount": 104,
+  "convertedEffectCount": 104,
+  "modelReferenceCount": 104,
+  "animationReferenceCount": 96,
+  "failureCount": 0,
+  "effects": [
+    {
+      "id": "effect:water_splash",
+      "name": "water_splash",
+      "models": [
+        "ef_effect004.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_effect004.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:empty_cartridge1",
+      "name": "empty_cartridge1",
+      "models": [
+        "empty_cartridge01.ndfmesh"
+      ],
+      "animations": []
+    },
+    {
+      "id": "effect:empty_cartridge2",
+      "name": "empty_cartridge2",
+      "models": [
+        "empty_cartridge02.ndfmesh"
+      ],
+      "animations": []
+    },
+    {
+      "id": "effect:sword_damage1",
+      "name": "sword_damage1",
+      "models": [
+        "ef_sworddam01.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_sworddam01.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:sword_damage2",
+      "name": "sword_damage2",
+      "models": [
+        "ef_sworddam02.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_sworddam02.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:sword_damage3",
+      "name": "sword_damage3",
+      "models": [
+        "ef_sworddam03.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_sworddam03.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:sword_damage4",
+      "name": "sword_damage4",
+      "models": [
+        "ef_sworddam04.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_sworddam04.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:sword_glaze",
+      "name": "sword_glaze",
+      "models": [
+        "swordglaze.ndfmesh"
+      ],
+      "animations": [
+        "sfx/swordglaze.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:dash_effect",
+      "name": "dash_effect",
+      "models": [
+        "ef_dash.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_dash.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:grenade_effect",
+      "name": "grenade_effect",
+      "models": [
+        "ef_grenade01.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_grenade01.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:rocket_effect",
+      "name": "rocket_effect",
+      "models": [
+        "ef_rocket_fire.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_rocket_fire.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:sword_defence_effect",
+      "name": "sword_defence_effect",
+      "models": [
+        "ef_effect003c.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_effect003c.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:sword_defence_effect2",
+      "name": "sword_defence_effect2",
+      "models": [
+        "ef_effect003b.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_effect003b.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:sword_defence_effect3",
+      "name": "sword_defence_effect3",
+      "models": [
+        "ef_effect003.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_effect003.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:sword_wave_effect",
+      "name": "sword_wave_effect",
+      "models": [
+        "ef_wave.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_wave.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:sword_slash_effect",
+      "name": "sword_slash_effect",
+      "models": [
+        "ef_slash.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_slash.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:pink_massive",
+      "name": "pink_massive",
+      "models": [
+        "pink_massive.ndfmesh"
+      ],
+      "animations": [
+        "sfx/pink_massive.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:green_massive",
+      "name": "green_massive",
+      "models": [
+        "green_massive.ndfmesh"
+      ],
+      "animations": [
+        "sfx/green_massive.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:blue_massive",
+      "name": "blue_massive",
+      "models": [
+        "blue_massive.ndfmesh"
+      ],
+      "animations": [
+        "sfx/blue_massive.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:sword_uppercut_effect",
+      "name": "sword_uppercut_effect",
+      "models": [
+        "ef_uppercut.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_uppercut.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:sword_uppercut_damage_effect",
+      "name": "sword_uppercut_damage_effect",
+      "models": [
+        "ef_uppercut_damage.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_uppercut_damage.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_dagger_upper",
+      "name": "ef_dagger_upper",
+      "models": [
+        "ef_daggerupper.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_daggerupper.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:rebirth",
+      "name": "rebirth",
+      "models": [
+        "ef_rebirth.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_rebirth.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:levelup",
+      "name": "levelup",
+      "models": [
+        "ef_levelup.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_levelup.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:levelup01",
+      "name": "levelup01",
+      "models": [
+        "ef_levelup01.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_levelup01.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_effect001.elu",
+      "name": "ef_effect001.elu",
+      "models": [
+        "ef_effect001.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_effect001.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_effect002.elu",
+      "name": "ef_effect002.elu",
+      "models": [
+        "ef_effect002.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_effect002.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:flame_rifle",
+      "name": "flame_rifle",
+      "models": [
+        "ef_flame_rifle.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_flame_rifle.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:flame_mg",
+      "name": "flame_mg",
+      "models": [
+        "ef_flame_mg.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_flame_mg.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:flame_shotgun",
+      "name": "flame_shotgun",
+      "models": [
+        "ef_flame_shotgun.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_flame_shotgun.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:flame_pistol",
+      "name": "flame_pistol",
+      "models": [
+        "ef_flame_pistol.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_flame_pistol.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_heal",
+      "name": "ef_heal",
+      "models": [
+        "ef_heal.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_heal.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_repair",
+      "name": "ef_repair",
+      "models": [
+        "ef_repair.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_repair.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_ammunition",
+      "name": "ef_ammunition",
+      "models": [
+        "ef_ammunition.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_ammunition.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_gre_ex",
+      "name": "ef_gre_ex",
+      "models": [
+        "ef_gre_ex.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_gre_ex.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_sword_fire",
+      "name": "ef_sword_fire",
+      "models": [
+        "ef_sword_fire.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_sword_fire.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_sword_ice",
+      "name": "ef_sword_ice",
+      "models": [
+        "ef_sword_ice.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_sword_ice.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_sword_flash",
+      "name": "ef_sword_flash",
+      "models": [
+        "ef_sword_flash.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_sword_flash.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_sword_poison",
+      "name": "ef_sword_poison",
+      "models": [
+        "ef_sword_poison.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_sword_poison.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_sworddam_fire",
+      "name": "ef_sworddam_fire",
+      "models": [
+        "ef_sworddam_fire.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_sworddam_fire.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_sworddam_ice",
+      "name": "ef_sworddam_ice",
+      "models": [
+        "ef_sworddam_ice.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_sworddam_ice.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_sworddam_ice",
+      "name": "ef_sworddam_ice",
+      "models": [
+        "ef_sworddam_ice.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_sworddam_ice.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_sworddam_flash",
+      "name": "ef_sworddam_flash",
+      "models": [
+        "ef_sworddam_flash.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_sworddam_flash.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_sworddam_poison",
+      "name": "ef_sworddam_poison",
+      "models": [
+        "ef_sworddam_poison.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_sworddam_poison.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:fragment01",
+      "name": "fragment01",
+      "models": [
+        "fragment01.ndfmesh"
+      ],
+      "animations": []
+    },
+    {
+      "id": "effect:fragment02",
+      "name": "fragment02",
+      "models": [
+        "fragment02.ndfmesh"
+      ],
+      "animations": []
+    },
+    {
+      "id": "effect:fragment03",
+      "name": "fragment03",
+      "models": [
+        "fragment03.ndfmesh"
+      ],
+      "animations": []
+    },
+    {
+      "id": "effect:fragment04",
+      "name": "fragment04",
+      "models": [
+        "fragment04.ndfmesh"
+      ],
+      "animations": []
+    },
+    {
+      "id": "effect:fragment05",
+      "name": "fragment05",
+      "models": [
+        "fragment05.ndfmesh"
+      ],
+      "animations": []
+    },
+    {
+      "id": "effect:fragment06",
+      "name": "fragment06",
+      "models": [
+        "fragment06.ndfmesh"
+      ],
+      "animations": []
+    },
+    {
+      "id": "effect:ef_eatitem",
+      "name": "ef_eatitem",
+      "models": [
+        "ef_eatitem.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_eatitem.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_pre_all.elu",
+      "name": "ef_pre_all.elu",
+      "models": [
+        "ef_pre_all.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_pre_all.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_pre_exe.elu",
+      "name": "ef_pre_exe.elu",
+      "models": [
+        "ef_pre_exe.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_pre_exe.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_pre_fan.elu",
+      "name": "ef_pre_fan.elu",
+      "models": [
+        "ef_pre_fan.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_pre_fan.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_pre_head.elu",
+      "name": "ef_pre_head.elu",
+      "models": [
+        "ef_pre_head.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_pre_head.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_pre_un.elu",
+      "name": "ef_pre_un.elu",
+      "models": [
+        "ef_pre_un.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_pre_un.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:blue_commander",
+      "name": "blue_commander",
+      "models": [
+        "ef_vip_blue.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_vip_blue.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:red_commander",
+      "name": "red_commander",
+      "models": [
+        "ef_vip_red.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_vip_red.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_lostcon.elu",
+      "name": "ef_lostcon.elu",
+      "models": [
+        "ef_lostcon.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_lostcon.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_chat.elu",
+      "name": "ef_chat.elu",
+      "models": [
+        "ef_chat.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_chat.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_damage01.elu",
+      "name": "ef_damage01.elu",
+      "models": [
+        "ef_damage01.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_damage01.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_damage02.elu",
+      "name": "ef_damage02.elu",
+      "models": [
+        "ef_damage02.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_damage02.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_damage03.elu",
+      "name": "ef_damage03.elu",
+      "models": [
+        "ef_damage03.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_damage03.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_damage04.elu",
+      "name": "ef_damage04.elu",
+      "models": [
+        "ef_damage04.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_damage04.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_damage05.elu",
+      "name": "ef_damage05.elu",
+      "models": [
+        "ef_damage05.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_damage05.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_damage06.elu",
+      "name": "ef_damage06.elu",
+      "models": [
+        "ef_damage06.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_damage06.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_spirits.elu",
+      "name": "ef_spirits.elu",
+      "models": [
+        "ef_spirits.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_spirits.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:pink_massive_charging",
+      "name": "pink_massive_charging",
+      "models": [
+        "pink_massive_charging.ndfmesh"
+      ],
+      "animations": [
+        "sfx/pink_massive_charging.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:green_massive_charging",
+      "name": "green_massive_charging",
+      "models": [
+        "green_massive_charging.ndfmesh"
+      ],
+      "animations": [
+        "sfx/green_massive_charging.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:blue_massive_charging",
+      "name": "blue_massive_charging",
+      "models": [
+        "blue_massive_charging.ndfmesh"
+      ],
+      "animations": [
+        "sfx/blue_massive_charging.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_spirits.elu_1.elu",
+      "name": "ef_spirits.elu_1.elu",
+      "models": [
+        "ef_spirits.elu_1.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_spirits.elu_1.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:pink_massive_charged",
+      "name": "pink_massive_charged",
+      "models": [
+        "pink_massive_charged.ndfmesh"
+      ],
+      "animations": [
+        "sfx/pink_massive_charged.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:green_massive_charged",
+      "name": "green_massive_charged",
+      "models": [
+        "green_massive_charged.ndfmesh"
+      ],
+      "animations": [
+        "sfx/green_massive_charged.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:blue_massive_charged",
+      "name": "blue_massive_charged",
+      "models": [
+        "blue_massive_charged.ndfmesh"
+      ],
+      "animations": [
+        "sfx/blue_massive_charged.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_daggerupper.elu",
+      "name": "ef_daggerupper.elu",
+      "models": [
+        "ef_daggerupper.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_daggerupper.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:event_ongame_jjang",
+      "name": "event_ongame_jjang",
+      "models": [
+        "ef_event_ongame_jjang.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_event_ongame_jjang.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:massive_swing",
+      "name": "massive_swing",
+      "models": [
+        "ef_massive_swing.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_massive_swing.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:fireball",
+      "name": "fireball",
+      "models": [
+        "ef_fireball.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_fireball.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:icemissile",
+      "name": "icemissile",
+      "models": [
+        "ef_icemissile.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_icemissile.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:magicmissile",
+      "name": "magicmissile",
+      "models": [
+        "ef_magicmissile.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_magicmissile.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:magicmissile_damage",
+      "name": "magicmissile_damage",
+      "models": [
+        "ef_magicmissile_damage.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_magicmissile_damage.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:magicmissile_wall",
+      "name": "magicmissile_wall",
+      "models": [
+        "ef_magicmissile_wall.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_magicmissile_wall.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:icemissile_wall",
+      "name": "icemissile_wall",
+      "models": [
+        "ef_icemissile_wall.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_icemissile_wall.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:fireball_work_wall",
+      "name": "fireball_work_wall",
+      "models": [
+        "ef_fireball_wall.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_fireball_wall.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_blizzard",
+      "name": "ef_blizzard",
+      "models": [
+        "ef_blizzard.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_blizzard.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_lightening",
+      "name": "ef_lightening",
+      "models": [
+        "ef_lightening.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_lightening.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_lighteningball",
+      "name": "ef_lighteningball",
+      "models": [
+        "ef_lighteningball.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_lighteningball.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_poisonball",
+      "name": "ef_poisonball",
+      "models": [
+        "ef_poisonball.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_poisonball.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_poisonball2",
+      "name": "ef_poisonball2",
+      "models": [
+        "ef_poisonball1.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_poisonball1.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_poisonball_cast",
+      "name": "ef_poisonball_cast",
+      "models": [
+        "ef_poisonball_cast.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_poisonball_cast.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_poisonstorm",
+      "name": "ef_poisonstorm",
+      "models": [
+        "ef_poisonstorm.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_poisonstorm.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_healing",
+      "name": "ef_healing",
+      "models": [
+        "ef_healing.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_healing.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_lesser healing",
+      "name": "ef_Lesser Healing",
+      "models": [
+        "ef_Lesser Healing.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_Lesser Healing.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_slow",
+      "name": "ef_slow",
+      "models": [
+        "ef_slow.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_slow.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_slow_dam",
+      "name": "ef_slow_dam",
+      "models": [
+        "ef_slow_dam.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_slow_dam.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_eatbox",
+      "name": "ef_eatbox",
+      "models": [
+        "ef_eatbox.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_eatbox.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_death",
+      "name": "ef_death",
+      "models": [
+        "ef_death.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_death.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_stun",
+      "name": "ef_stun",
+      "models": [
+        "ef_stun.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_stun.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_lightening_cast",
+      "name": "ef_lightening_cast",
+      "models": [
+        "ef_lightening_cast.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_lightening_cast.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_methor",
+      "name": "ef_methor",
+      "models": [
+        "ef_methor.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_methor.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_blizzard_cast",
+      "name": "ef_blizzard_cast",
+      "models": [
+        "ef_blizzard_cast.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_blizzard_cast.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_slugs",
+      "name": "ef_slugs",
+      "models": [
+        "ef_slugs.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_slugs.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_berserker",
+      "name": "ef_berserker",
+      "models": [
+        "ef_berserker.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_berserker.elu.ani.ndfanim"
+      ]
+    },
+    {
+      "id": "effect:ef_stunfist_dam",
+      "name": "ef_stunfist_dam",
+      "models": [
+        "ef_stunfist_dam.ndfmesh"
+      ],
+      "animations": [
+        "sfx/ef_stunfist_dam.elu.ani.ndfanim"
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,3873 @@
+{
+  "schemaVersion": 1,
+  "sourceCount": 483,
+  "convertedCount": 483,
+  "failureCount": 0,
+  "assets": [
+    {
+      "path": "Maps/login/Login.ndfmap",
+      "sourceSha256": "04734d86f08b0de2e7820332febb14a5cb4b4d28d20f4f8d8ed635d0d795cdb2",
+      "outputSha256": "04734d86f08b0de2e7820332febb14a5cb4b4d28d20f4f8d8ed635d0d795cdb2",
+      "convertedTextures": 0,
+      "ddsTextures": 27,
+      "emptyMaterials": 5
+    },
+    {
+      "path": "Maps/pvp/[CHRIS]_SkillGalaxy.ndfmap",
+      "sourceSha256": "0ef8ae66bb64f0130986fc224f0f2fdaceee0054ec7aa15539c4df0f4b3bf8cd",
+      "outputSha256": "844bdb0e206070dda7be3f87d741ab09bc001ce1980cd59ccd3c37b6bf2bf3f8",
+      "convertedTextures": 2,
+      "ddsTextures": 1,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/A2Z-Maze.ndfmap",
+      "sourceSha256": "285637a126792d177d21841a1c1e769bab4db23db4f98c1fcd93413e9edc8c7d",
+      "outputSha256": "1fd511599d49d5427f3f23103826b9f663f42a8cfffc2232d38997d33253c131",
+      "convertedTextures": 7,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Arena.ndfmap",
+      "sourceSha256": "ec39dcb9a64b4885b7db669a089f794ca1a5c91ca8c6448b8db8359c90277db5",
+      "outputSha256": "e1e9b8f41298826ada8c16a478e5ab68ed3d9ffde3e50d340da3a6d1132b989f",
+      "convertedTextures": 5,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Basak.ndfmap",
+      "sourceSha256": "d9146afb5b381b66c014d6f71f036bec26c242faf9b84270ac426047587918e5",
+      "outputSha256": "c2a0c2ef931e82a1a1d2c87855d545eaeeeac2789f1fa0fd8f76fbf19ccfc9cf",
+      "convertedTextures": 15,
+      "ddsTextures": 0,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/Basak2.ndfmap",
+      "sourceSha256": "4345ef25c5c860ac1da0b8295137a96c247566a5b2e81e7b10206d786722d06f",
+      "outputSha256": "564ea3c0f4a5e980f1bea9bc93e8ae176df64c219267858556b4ee778dea66d6",
+      "convertedTextures": 24,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/Battle Arena.ndfmap",
+      "sourceSha256": "564a6e1057683be64e140ea144710d897ecf8abf645948011a564314ae1e4d90",
+      "outputSha256": "564a6e1057683be64e140ea144710d897ecf8abf645948011a564314ae1e4d90",
+      "convertedTextures": 0,
+      "ddsTextures": 22,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/BlackSkillZ_V1.ndfmap",
+      "sourceSha256": "9ee837c884e0acff5f29dd21fd3eb6ea49d0611afe00d043796ba2a818e84f87",
+      "outputSha256": "5513558b2dfdaec0b9fef8cbdaa03961ca09d502bab73e2f0272bbdaba3c3ab6",
+      "convertedTextures": 4,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Castle.ndfmap",
+      "sourceSha256": "c2040d9914db04ae13fa9f0ee82a9219e7a3ff0d5b091385936bbe4aaeb29d20",
+      "outputSha256": "c2040d9914db04ae13fa9f0ee82a9219e7a3ff0d5b091385936bbe4aaeb29d20",
+      "convertedTextures": 0,
+      "ddsTextures": 16,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/Catacomb.ndfmap",
+      "sourceSha256": "aa3c68ffc0d671cbf0b16ae8cbd3adc6141b922009c899f3997798381216fc6b",
+      "outputSha256": "aa3c68ffc0d671cbf0b16ae8cbd3adc6141b922009c899f3997798381216fc6b",
+      "convertedTextures": 0,
+      "ddsTextures": 6,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Crafting.ndfmap",
+      "sourceSha256": "6dbd40b5b9410f866a5a36a11375153b55961b906a3bba7cf8c2fe3c32d29d83",
+      "outputSha256": "fac477dfa3cfd2c9c4a3087c6dc8e5fd2cf28ab5d7130ab3d67e48cfa71b9893",
+      "convertedTextures": 43,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/cs_assault.ndfmap",
+      "sourceSha256": "8ffa71006018eafe15c2b8ead56897b9c4e716883ada085b7dfd8d859230aaad",
+      "outputSha256": "18ce880e4949d50c7afdd7b2a33c72f07e70b5419f4a483ac1505e41523f4a2a",
+      "convertedTextures": 112,
+      "ddsTextures": 0,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/cs_assaultV2.ndfmap",
+      "sourceSha256": "262d473f58fadcc78bb67a492f77bf2fb93ae9fb2c2cae761d71e36b16efaaea",
+      "outputSha256": "78dc2606bea29f6fa903340b2de354bce4f56961582e6d1bb52019b4fedeeb80",
+      "convertedTextures": 83,
+      "ddsTextures": 0,
+      "emptyMaterials": 3
+    },
+    {
+      "path": "Maps/pvp/cs_assaultV3.ndfmap",
+      "sourceSha256": "b8212aaf45379a25039fd98485a886a48a4c0df7310bcb2373e8549a6ed1aaba",
+      "outputSha256": "7df1f38a68fcdc18c65d27585f442cd26099fc7960bec882453f1e840c11d5e6",
+      "convertedTextures": 87,
+      "ddsTextures": 0,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/DBZ.ndfmap",
+      "sourceSha256": "70f46439a2d5f5ad19612c38f8be932993a6f4df55908e2f4a04b3c8820531f2",
+      "outputSha256": "f3441c500edb26b00124f2f5540cf0895680add8ccb17401c0f381090fe8fefc",
+      "convertedTextures": 14,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Dice-SLv1.ndfmap",
+      "sourceSha256": "bd7da1ef617655ab98f39bd70f713c3f0d8c33269257aa85c841304edcbcf7b7",
+      "outputSha256": "72ebede5edbccbb050b370917ddd192e890814036bd3b659db137cc2c9a5382f",
+      "convertedTextures": 9,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/DiceV2_SF.ndfmap",
+      "sourceSha256": "2e55fac96ec118e0441d631958ab8b05036d41f0761edd1109035aa43a6b95a2",
+      "outputSha256": "c7b0c77b0c0b8d3fc1d745de87e29712f85bce6ba050d5f9b037d6b9d15c7301",
+      "convertedTextures": 27,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Dojo.ndfmap",
+      "sourceSha256": "346a5e61f08c9a6ffcd099b14db95b5a3bc616fb0afb5558c6abc807de69dfdc",
+      "outputSha256": "d857ac0826efc866a326175c8ea3c0b54df4840778a617197ba17da1a29109d6",
+      "convertedTextures": 9,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/DramaSkillTrail V1.ndfmap",
+      "sourceSha256": "0e089ab110c3133e1897f8049199c3e99896c3960920eed47912dedf99f6e642",
+      "outputSha256": "fc5bf19d13e2ffeaf573870c1938555477aa335110182920ad64ada6ab0bc9b1",
+      "convertedTextures": 2,
+      "ddsTextures": 0,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/Dungeon II.ndfmap",
+      "sourceSha256": "d23e65fd5a1b191e57f260e3d894b2b00eb4ab0b31dc764e768e79d8cafd87a6",
+      "outputSha256": "d23e65fd5a1b191e57f260e3d894b2b00eb4ab0b31dc764e768e79d8cafd87a6",
+      "convertedTextures": 0,
+      "ddsTextures": 19,
+      "emptyMaterials": 5
+    },
+    {
+      "path": "Maps/pvp/Dungeon.ndfmap",
+      "sourceSha256": "ca52811002d109dcbe6ff24c272c23fae7b2e303c0b6e64f90034a7053a2783b",
+      "outputSha256": "ca52811002d109dcbe6ff24c272c23fae7b2e303c0b6e64f90034a7053a2783b",
+      "convertedTextures": 0,
+      "ddsTextures": 16,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/DusteRSkillTrail_V3fix.ndfmap",
+      "sourceSha256": "23f64ac692929709d357e5937cbceaae127042fdda858068d5b819c9ceff70c3",
+      "outputSha256": "91871ebd96b175f608e2d0602802070ab44244d318b2680511563626cb26fa10",
+      "convertedTextures": 13,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/DusteRSkillTrailV1.ndfmap",
+      "sourceSha256": "3ffeacf58495d0c593fc07ebe7eac54acfcf1b297dc2b5cfa401edf613247ef5",
+      "outputSha256": "88bfb4710b0c35c0c584c727ff82c433b6bdda383444fa58981c565a0e2dcf3a",
+      "convertedTextures": 20,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Factory.ndfmap",
+      "sourceSha256": "95392888d4fdc6241fcb156004facf58c64faae76eba1e9579f3c0d5050ee942",
+      "outputSha256": "95392888d4fdc6241fcb156004facf58c64faae76eba1e9579f3c0d5050ee942",
+      "convertedTextures": 0,
+      "ddsTextures": 54,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/FinishLine.ndfmap",
+      "sourceSha256": "1fea4f8bab71da215bc3f7eb7d88564679f75dc5d306d868c513fa3b3bca4c1e",
+      "outputSha256": "f1b9268171a08e172291f27fcf19a842b885702ee31c9f1b693dd4f4a84db9b6",
+      "convertedTextures": 55,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/firstmap.ndfmap",
+      "sourceSha256": "1cb2b3e393b393e3c3adb2f7d6a3a394ff8c5f1f529af5f403f21a0198502320",
+      "outputSha256": "ec0c41ec1f88b6a337007865f283271b8a403c59069cb8df83718048d29d8296",
+      "convertedTextures": 5,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Garden.ndfmap",
+      "sourceSha256": "59331a47fd399ceb018ad92ff0e0b4838e885981fdca59530c8e0240d54ef2c9",
+      "outputSha256": "59331a47fd399ceb018ad92ff0e0b4838e885981fdca59530c8e0240d54ef2c9",
+      "convertedTextures": 0,
+      "ddsTextures": 41,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Hall.ndfmap",
+      "sourceSha256": "93c5789b3fda9e67033c0a8a0073bb1187bff42cdc6505684294423f6aa48fb9",
+      "outputSha256": "93c5789b3fda9e67033c0a8a0073bb1187bff42cdc6505684294423f6aa48fb9",
+      "convertedTextures": 0,
+      "ddsTextures": 13,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/House_Simpsons2.ndfmap",
+      "sourceSha256": "287afc113f64a9dd66134d3d5dc4ff7e3d17cac7ef3256cad79effa00cd76420",
+      "outputSha256": "c4fd966e4637e2dd2f0bbc3228db9de83e76e6757c4a984d3bb8cda05c63a1b4",
+      "convertedTextures": 49,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Island.ndfmap",
+      "sourceSha256": "2e674646864a0bf8ed3be30166d670227b2df1ed8a773cad26cedc8a8e71fc79",
+      "outputSha256": "2e674646864a0bf8ed3be30166d670227b2df1ed8a773cad26cedc8a8e71fc79",
+      "convertedTextures": 0,
+      "ddsTextures": 45,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/Jail.ndfmap",
+      "sourceSha256": "4c68a65ff82076675841900cab7fb12a024d2b822c7a9f7c6d3d81b6ecec9464",
+      "outputSha256": "4c68a65ff82076675841900cab7fb12a024d2b822c7a9f7c6d3d81b6ecec9464",
+      "convertedTextures": 0,
+      "ddsTextures": 15,
+      "emptyMaterials": 6
+    },
+    {
+      "path": "Maps/pvp/lalalal.ndfmap",
+      "sourceSha256": "69699133386533123f8494e09cd7429e7ccd73da9e042e8347eb22d21644b21b",
+      "outputSha256": "41870b0bb5e58b5852e1f050da14faed49be746a13f29ccfef3d45f7eea9076e",
+      "convertedTextures": 2,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Lost Shrine.ndfmap",
+      "sourceSha256": "17796ffd7d4e1df099157f990c0611f157e2611c23452e4827b2084e5ec5a4b6",
+      "outputSha256": "17796ffd7d4e1df099157f990c0611f157e2611c23452e4827b2084e5ec5a4b6",
+      "convertedTextures": 0,
+      "ddsTextures": 12,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/mansion.ndfmap",
+      "sourceSha256": "8ee3bb53b70b68ac39863789389be7c75af3dfe0ec79841d5fe937b662a53ba1",
+      "outputSha256": "8ee3bb53b70b68ac39863789389be7c75af3dfe0ec79841d5fe937b662a53ba1",
+      "convertedTextures": 0,
+      "ddsTextures": 53,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/MarioCastle.ndfmap",
+      "sourceSha256": "fb4be4831616cf747ca6230b57c4af980ca87d4b8d60af24f1b49037138ae631",
+      "outputSha256": "5632dd48d855098d37c89bc797649e2b439c4a2afba13f7d0770bfb88f8da6d5",
+      "convertedTextures": 55,
+      "ddsTextures": 0,
+      "emptyMaterials": 4
+    },
+    {
+      "path": "Maps/pvp/Master_Skiller.ndfmap",
+      "sourceSha256": "6120f34b1dbb7a33bf8982467d637e59d4869e6c4d6fd9cfc0ecade7e4e837b7",
+      "outputSha256": "43a41fb3d857124048ad6cba384fcc25fc37fa15e5aae6989653001599a160bf",
+      "convertedTextures": 14,
+      "ddsTextures": 5,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/MasterSkillerV2.ndfmap",
+      "sourceSha256": "6d39d61c7df31e5222d89ced99f2b04a81c00ddb957e54fcfb7949f7d8a92418",
+      "outputSha256": "ddfec6fe1186cd8a7c90bdf38912a45332bf9a90c7541273f474e235d0d1a380",
+      "convertedTextures": 16,
+      "ddsTextures": 7,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/MasterskillV1.ndfmap",
+      "sourceSha256": "53df62e11294f85ba93d299b90839f3d714f2978254c40e0c450ff79af4c9178",
+      "outputSha256": "ceb09572fc08fa30d7b4eb2b3aa13c10529942cdb85ad409d579e5a02db01a12",
+      "convertedTextures": 21,
+      "ddsTextures": 0,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/MasterSkillV2.ndfmap",
+      "sourceSha256": "18363565215ea7153cc4b824a930966ba453a889b6b73dff4e97b36963537415",
+      "outputSha256": "a8aafde246b6f5774ab283f277ed5b6f8abf22d09f73f5419bf8e619fe2ba4ce",
+      "convertedTextures": 7,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Mithlond.ndfmap",
+      "sourceSha256": "c829a3276e5be389c8a163a91a15a8fc7bed956090d449c1e9194dbf94eda3fc",
+      "outputSha256": "d2a5c2cc076469b8806456f1eb0b6aee4e59b8072d7e42f5260369195453473b",
+      "convertedTextures": 6,
+      "ddsTextures": 0,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/Mountain Fort.ndfmap",
+      "sourceSha256": "2f6209df926927aae36652b1cc20b76ad3cf73aef0f55314c385931a1f628e57",
+      "outputSha256": "5e097f2a99d73dc49b9fd9739698b0eb4a4c4d5338eb8fd1f391d6fff9e7ebfb",
+      "convertedTextures": 9,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/New York.ndfmap",
+      "sourceSha256": "93c917bf3247f21f6960cbab099932cf06e018005d615fa848252030874ce1a2",
+      "outputSha256": "93c917bf3247f21f6960cbab099932cf06e018005d615fa848252030874ce1a2",
+      "convertedTextures": 0,
+      "ddsTextures": 53,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/Night Arena.ndfmap",
+      "sourceSha256": "02790223f6a9c1be58e916cb64fdaf22dfcc9d785eb7f57e70fa04d3e3a63f5b",
+      "outputSha256": "02790223f6a9c1be58e916cb64fdaf22dfcc9d785eb7f57e70fa04d3e3a63f5b",
+      "convertedTextures": 0,
+      "ddsTextures": 22,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/ObstacleCourse.ndfmap",
+      "sourceSha256": "0f19ccef75c44703d0f179e5b30f0b66bf554bdddb8936fcd39638cae3d3fe73",
+      "outputSha256": "fd96d19e677ad7bf3a32b0aca4d3d648c209f7575def96825a8c3731b696a79f",
+      "convertedTextures": 25,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/pirate docks.ndfmap",
+      "sourceSha256": "86652b3f97caca6f2daa368ff3e42ca8d8aa6afdb9a77d166f847ec6063b35eb",
+      "outputSha256": "86652b3f97caca6f2daa368ff3e42ca8d8aa6afdb9a77d166f847ec6063b35eb",
+      "convertedTextures": 0,
+      "ddsTextures": 51,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Port.ndfmap",
+      "sourceSha256": "7a77ce92df1f71d1cf2ee2988dc309d9bd21f61746ffdff6208cb8b7c7043f1e",
+      "outputSha256": "7a77ce92df1f71d1cf2ee2988dc309d9bd21f61746ffdff6208cb8b7c7043f1e",
+      "convertedTextures": 0,
+      "ddsTextures": 51,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/prison II.ndfmap",
+      "sourceSha256": "da9ed53f5e979c6dc68cd2b9a51e77f2214b5fb1d20180ce242aba29a373a545",
+      "outputSha256": "da9ed53f5e979c6dc68cd2b9a51e77f2214b5fb1d20180ce242aba29a373a545",
+      "convertedTextures": 0,
+      "ddsTextures": 29,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/prison.ndfmap",
+      "sourceSha256": "e2e2bef6ea740c1dccc4dd105c8263d82925c4536a4331a171d96311729d4e3f",
+      "outputSha256": "e2e2bef6ea740c1dccc4dd105c8263d82925c4536a4331a171d96311729d4e3f",
+      "convertedTextures": 0,
+      "ddsTextures": 29,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/ReflectSkillZ.ndfmap",
+      "sourceSha256": "ee84cb2cfdeb80fc423b545355b1b46da30bb97762be1a27eced5b4835c2f665",
+      "outputSha256": "0127df62525c8434bfd632cac2a65f4afaff3be3b46ee863cbaa17c094c36f8f",
+      "convertedTextures": 24,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Ringer.ndfmap",
+      "sourceSha256": "f034a0fd67367019d18df2539bc83721342612410d8d1585e57ed326b7a28fa6",
+      "outputSha256": "a6aeec85800634f9b632797638f13f60538a01d611058344f11602dbd151bf4d",
+      "convertedTextures": 4,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/RoF.ndfmap",
+      "sourceSha256": "98b30b5589f86f593c1a3bc2effe8a2bb9784bbe9f5721aff3412d4da6ba3294",
+      "outputSha256": "2112cc12aa6617c0a04d10c7b232ff10d16b96b95100a9d852b5b6cfc77d4f07",
+      "convertedTextures": 57,
+      "ddsTextures": 4,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Ruin.ndfmap",
+      "sourceSha256": "34410046e51d7cb49cdb6a0d6ee0b4dbfad74ba4afefb613fa7a3a552c709ccf",
+      "outputSha256": "34410046e51d7cb49cdb6a0d6ee0b4dbfad74ba4afefb613fa7a3a552c709ccf",
+      "convertedTextures": 0,
+      "ddsTextures": 21,
+      "emptyMaterials": 3
+    },
+    {
+      "path": "Maps/pvp/Shaolin_Duel.ndfmap",
+      "sourceSha256": "3ea8633a87e31d2e40861714227268b4935ed8c7439993b19ee5f5880c0850a6",
+      "outputSha256": "80b9ef1ad8178964b2d3f9e50af7e03f48ded44ba545a4f966418bff4c5dba57",
+      "convertedTextures": 26,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Shaolin_Temp.ndfmap",
+      "sourceSha256": "bca9f26af4a3aaec3596a5206fa790544baefff0e888923280cdaa808fbc1183",
+      "outputSha256": "db9937e6aabd1bb8859f06299538cecf2a8294d6962338887e8bf5f1f4a5ffcc",
+      "convertedTextures": 28,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Shower Room.ndfmap",
+      "sourceSha256": "40a45009e4894e3b4757eadc416228eb24aaf094149ca7771e39709dae4c0f52",
+      "outputSha256": "40a45009e4894e3b4757eadc416228eb24aaf094149ca7771e39709dae4c0f52",
+      "convertedTextures": 0,
+      "ddsTextures": 15,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Showoff.ndfmap",
+      "sourceSha256": "396fee897633ddab44d789d15475fa05f87eb12588dddf670476a70d53ed76c7",
+      "outputSha256": "ad7ffb989054ae0edc3870e73d071d443b2a113225b08b584dbef531524944e7",
+      "convertedTextures": 11,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Silly.ndfmap",
+      "sourceSha256": "1479a54087c24bd82246efca6a19737c80b6b0c7ca0e4c0189b15d81a2c059c9",
+      "outputSha256": "a81aecfa07f08453653a0a8699c5ca380e236128b372faec4bd23e48e6eff0f3",
+      "convertedTextures": 1,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Skill King.ndfmap",
+      "sourceSha256": "da3f8354fce270827849bf4f504251ac0968e292af5e88bb963cf1b65bcf0dd5",
+      "outputSha256": "623e9b6e5d0aafed80fb5bb904ffe6ba929e0cf9db79f2c389b52204b8088593",
+      "convertedTextures": 6,
+      "ddsTextures": 5,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Skill-Test.ndfmap",
+      "sourceSha256": "eb5a077e3a1137b9944eec8dc058716404ce297445df7ef6e128e02d9a140e0e",
+      "outputSha256": "d3da7ed2603af75bb72230b36a9541d16004c3a394a41be823aa8c4313663fc4",
+      "convertedTextures": 9,
+      "ddsTextures": 10,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/SkillCityMap.ndfmap",
+      "sourceSha256": "ff7b996482c382178d475bb57a8158004c324d47183f57b0f2869a858add402c",
+      "outputSha256": "9c42fcc99a59966348131ca6ad24ee44b1d9a0208238d552a78b6ff698e77304",
+      "convertedTextures": 29,
+      "ddsTextures": 0,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/SkillFutureMap.ndfmap",
+      "sourceSha256": "17bdb00f55c27589e40bb4772b63131eb930830ce51eb6ee55692437495412b4",
+      "outputSha256": "fbbeb4537a0d7e127292325ab70509fa61f5b98ed3952c72556dff3f7962a9e2",
+      "convertedTextures": 34,
+      "ddsTextures": 0,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/SkillGalaxyV2.ndfmap",
+      "sourceSha256": "0293d4382b7d3992bf648564ce0f409cff976eefcd302c5efbd2149dfa874699",
+      "outputSha256": "84d13087a9b735099b708db1cf7ae0ab96dcd747df500ffb101d5c1f41ee85ef",
+      "convertedTextures": 15,
+      "ddsTextures": 3,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/SkillIceMap.ndfmap",
+      "sourceSha256": "0b9bdb4fcbed3b33366f0204cc1e53ba815b965a3ac9873927cf6cbffcc93959",
+      "outputSha256": "499772dad746eb967c5560e1d732e11033fc5a226dc8b010c0e1a8dff4525e8e",
+      "convertedTextures": 24,
+      "ddsTextures": 1,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Skillmap.ndfmap",
+      "sourceSha256": "e3fcb4f9bfe03754f04f5981eae48b0b6c9bd8d026ed94d3cd930f0cf8add0e8",
+      "outputSha256": "c8b28944519395d15019ca42f1cca475810ce115641908490f61b1084bccaca7",
+      "convertedTextures": 12,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/SkillMapDigital.ndfmap",
+      "sourceSha256": "ee003853a09f2d70f6975349346b890f84a2e34763c7e65677655ee12041bf19",
+      "outputSha256": "a0dfcf2209f35165323f589178f5981a3a2d824ef8ca3a2b354601339aca4745",
+      "convertedTextures": 17,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/SkillMapGold.ndfmap",
+      "sourceSha256": "86df2257fcb22659e578428f795b4fbbda6cada4e0c243dc59de01dfc25775a4",
+      "outputSha256": "3da72a49349ee32b7b30e2c73f6fd3b8d72350d194eb50fda669557faff31df1",
+      "convertedTextures": 32,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/SkillMapSG Basic.ndfmap",
+      "sourceSha256": "7a052d33fbbf356620c569abfb9f9e04b86b0817412f2ac28185f8f0a965560d",
+      "outputSha256": "35d1033c876568458093d9f15360fdff489396cff4d40eb8f3692f48c8a3ef62",
+      "convertedTextures": 4,
+      "ddsTextures": 13,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/SkillMapSG V1.ndfmap",
+      "sourceSha256": "c3af40131d13e54840cd129431010a607fc06814d0ad3e84a45f7f7ea63f4cad",
+      "outputSha256": "578f3cc6ee82482e5134bb0693c75616c1045ad5ffd274d2e3786661027c5177",
+      "convertedTextures": 5,
+      "ddsTextures": 6,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/SkillMapSG V2.ndfmap",
+      "sourceSha256": "78047e23ec322962bae4b82d161e0e4dd2ced042eb90c956691d84b51e918ed7",
+      "outputSha256": "6b8c317f4e361c2788dd07d8d5f9b23f83b3cf197061d1c30b1c23dd3e3e19ad",
+      "convertedTextures": 4,
+      "ddsTextures": 0,
+      "emptyMaterials": 13
+    },
+    {
+      "path": "Maps/pvp/SkillMapSG V3.ndfmap",
+      "sourceSha256": "35b09c77870fae8c39984d5b877908958dd2b4d47557ce55b00ee8b9f8c00d29",
+      "outputSha256": "24bae0c0fe7327d27fb8ac54a75129f1dc3da5960b4b343b4d8ee004013b18d0",
+      "convertedTextures": 7,
+      "ddsTextures": 0,
+      "emptyMaterials": 12
+    },
+    {
+      "path": "Maps/pvp/skillmapv2.ndfmap",
+      "sourceSha256": "466b73cb4fd2f332b1438b1f40e242e631cd8faa3f0cf49dcdc78b72b5f6efe2",
+      "outputSha256": "1f6ae65d0f8b279c80bb8242a2d6826ba50a4f88eb60c958a54727e9ffdcf526",
+      "convertedTextures": 13,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/skillmapv3.ndfmap",
+      "sourceSha256": "7f1287616e976c84cb540bbb19b1d4adc305ae7edf895ae02591ba1cd3f05007",
+      "outputSha256": "b97b7124be6dcbc5d7a6810c279399e7659ba47d2fe5db936b171c05910bad9a",
+      "convertedTextures": 22,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/SkillmapV4.ndfmap",
+      "sourceSha256": "0bb0ba9f9239c345071a425b83b72e02856e24439016c116cfa13fca744dd786",
+      "outputSha256": "28fb1933966c1a9ba17f4f9d06e7a20a6aa497a3e2dfafddef64dc5b556a6239",
+      "convertedTextures": 9,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/SkillMapV5.ndfmap",
+      "sourceSha256": "213203e90c0d04ef13f6254f6bedfa3a0bbfbf88a0f1f396bb149f4e5f6b625f",
+      "outputSha256": "1052368e336b130630cad61b3a0d2a8ac9a227c746e1b437320fe161becf99eb",
+      "convertedTextures": 8,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/SkillmapV6.ndfmap",
+      "sourceSha256": "ab11fda1c371e898eda1f27746673f0095e89692e507e1232d54e47e1a4e9664",
+      "outputSha256": "dacda209eadef231f39218ad4d1ab856372bd52f8093ce8f2a8833a8c93cdb64",
+      "convertedTextures": 10,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/SkillMapV7.ndfmap",
+      "sourceSha256": "f002fd3bc5732b9c25424fdb3b2f0bc17e4b183f602bd225849c5856e5fdded1",
+      "outputSha256": "a569711f077550b22751fe0fcbda6f81d5049849cb146e3507eb10d48435f853",
+      "convertedTextures": 12,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/SkillMapV8.ndfmap",
+      "sourceSha256": "29dbf26c457542526f1d1ebace7749ed5d6d73c20132e78cad072daa97e22974",
+      "outputSha256": "11ee31fff17eca966b7294c34b03c93cab76f3c20beb2b3813bd4eb58908a764",
+      "convertedTextures": 8,
+      "ddsTextures": 11,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/SkillmapVirtual.ndfmap",
+      "sourceSha256": "41956734ac07698df48648717d9dc23ff87bf4be8853bc0d548e666b9d179fa9",
+      "outputSha256": "d6a99121b242de4f72caaf05ce07e499b3086eef286f36db189081ef2c9dbdfa",
+      "convertedTextures": 15,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/SkillTronic.ndfmap",
+      "sourceSha256": "404895e88844b4bdbc1421f96c25ec0d228abd397d51e12f01d5cafc2f8c569e",
+      "outputSha256": "5f632f754445a66f3a16535c3d536e86fb874cb3239350af4e06937e0116e1ae",
+      "convertedTextures": 11,
+      "ddsTextures": 2,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Skyline.ndfmap",
+      "sourceSha256": "c889dfc3cf1eaffcc53119e3a4b5de7f6ea00df9d2b71bd37e1e143aff8f301a",
+      "outputSha256": "7a482719344ec46d7bb2a92a9de28b19b42537e645809b6736f3644a99e6c224",
+      "convertedTextures": 19,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/Snow_Town.ndfmap",
+      "sourceSha256": "fc5e25a59e8f4c597ecae6e645bb577d6a3dfa9069326f6b28b90c28b5244e2b",
+      "outputSha256": "fc5e25a59e8f4c597ecae6e645bb577d6a3dfa9069326f6b28b90c28b5244e2b",
+      "convertedTextures": 0,
+      "ddsTextures": 53,
+      "emptyMaterials": 3
+    },
+    {
+      "path": "Maps/pvp/Stairway.ndfmap",
+      "sourceSha256": "1246f12ebc8b1db6833ffeecdd313ebddd544be60168348731c57841e7b806d7",
+      "outputSha256": "1246f12ebc8b1db6833ffeecdd313ebddd544be60168348731c57841e7b806d7",
+      "convertedTextures": 0,
+      "ddsTextures": 4,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Star_Race.ndfmap",
+      "sourceSha256": "2f89c1783750fa591c7f44e699c06d572ae751ec3c1e2e59a3776125d686761a",
+      "outputSha256": "5ef681dfdb2c46aecc9485a082d50ff45e2c5e1bbbdc5164582b1569325a6b68",
+      "convertedTextures": 24,
+      "ddsTextures": 4,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/station.ndfmap",
+      "sourceSha256": "5f520286cb90b26cf7af8552f06aeeb192c6d5e164a1250572091d7d54dbe34c",
+      "outputSha256": "5f520286cb90b26cf7af8552f06aeeb192c6d5e164a1250572091d7d54dbe34c",
+      "convertedTextures": 0,
+      "ddsTextures": 47,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/Street_Duel.ndfmap",
+      "sourceSha256": "0c292d637ebe726c6163c2c7a8ba708470addea3c000402db574b635f32fa463",
+      "outputSha256": "7a4e4fd213c81e2c15adf35ec408f69899d67ef854e2e4fa5d99839e16eb2363",
+      "convertedTextures": 36,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Superflip.ndfmap",
+      "sourceSha256": "cd197859484b059bd673804a053557820445403d330b37bda1da82f3fb9f0621",
+      "outputSha256": "7ac63f6fa0a147048506c8dfb95833cee22728a06b4181bdee3c269f1f42d626",
+      "convertedTextures": 39,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/SuperMario3.ndfmap",
+      "sourceSha256": "2d40b7622122e53faed0826d079bce4062212fa2c064ca84c1500c29972eb1eb",
+      "outputSha256": "eeca096b5414e830562fe0cbeee279d3743eee260676dc48462dbfad80feaa7c",
+      "convertedTextures": 51,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/ThePillar.ndfmap",
+      "sourceSha256": "0eadc7613be796669bee50bc3967794ea1a5aacef226e3f455ba023367358a14",
+      "outputSha256": "aa86b0acf571f603bf041a2d79da2d69d77e9384bcfac37dafb3988e749c8c7a",
+      "convertedTextures": 3,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/pvp/Town.ndfmap",
+      "sourceSha256": "5b9b1c7bf48b904cb86d0a2674a1d97098ab6b435f8ac533594f37b910608886",
+      "outputSha256": "5b9b1c7bf48b904cb86d0a2674a1d97098ab6b435f8ac533594f37b910608886",
+      "convertedTextures": 0,
+      "ddsTextures": 51,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Maps/pvp/triboss.ndfmap",
+      "sourceSha256": "655fc9b31fd12e2df016b6425017045d64a860c580650b1d77783d2323935c20",
+      "outputSha256": "a4e1d2c3c2f1a15bd04109bb3faf9d785cd6d7b11f2ef51eca8d71dc68c21b0b",
+      "convertedTextures": 4,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Maps/quests/Dungeon_cavern1.ndfmap",
+      "sourceSha256": "5567b5e9facbdb44e1c35127bb34908a9bb7860a5976e6c9eb81e43083990325",
+      "outputSha256": "5567b5e9facbdb44e1c35127bb34908a9bb7860a5976e6c9eb81e43083990325",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 6
+    },
+    {
+      "path": "Maps/quests/Dungeon_cavern2.ndfmap",
+      "sourceSha256": "501da8a2fc934d0c5b59f70c9d88853300463336a4fa710a4d6924bfe34a9c5e",
+      "outputSha256": "501da8a2fc934d0c5b59f70c9d88853300463336a4fa710a4d6924bfe34a9c5e",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 13
+    },
+    {
+      "path": "Maps/quests/Dungeon_cavern3.ndfmap",
+      "sourceSha256": "d01e2bdfd91d078c5456ab5046ff11e2d1e83fc3064ff26701e771f12f31bcc5",
+      "outputSha256": "d01e2bdfd91d078c5456ab5046ff11e2d1e83fc3064ff26701e771f12f31bcc5",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 7
+    },
+    {
+      "path": "Maps/quests/Dungeon_nest1.ndfmap",
+      "sourceSha256": "c04b657395ec4fe562cd7b882b14389eb2460b674f452b363030ea67b6c8ea74",
+      "outputSha256": "c04b657395ec4fe562cd7b882b14389eb2460b674f452b363030ea67b6c8ea74",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 15
+    },
+    {
+      "path": "Maps/quests/Dungeon_nest2.ndfmap",
+      "sourceSha256": "844bc717a143b446d9ea916a9aa4bc373f28d00b8fec8853be8a8b2eedac088f",
+      "outputSha256": "844bc717a143b446d9ea916a9aa4bc373f28d00b8fec8853be8a8b2eedac088f",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 11
+    },
+    {
+      "path": "Maps/quests/Dungeon_nest3.ndfmap",
+      "sourceSha256": "023cac73a6bc7e69f5d6939bd556b69d31a91bda87867825bf6ddced723f3bde",
+      "outputSha256": "023cac73a6bc7e69f5d6939bd556b69d31a91bda87867825bf6ddced723f3bde",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 7
+    },
+    {
+      "path": "Maps/quests/Dungeon_passage1.ndfmap",
+      "sourceSha256": "8e481ab5bfdf31a15bc908627b3cfcc9775b21260eaa7e07b1dc7caaecda7c62",
+      "outputSha256": "8e481ab5bfdf31a15bc908627b3cfcc9775b21260eaa7e07b1dc7caaecda7c62",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 11
+    },
+    {
+      "path": "Maps/quests/Dungeon_passage2.ndfmap",
+      "sourceSha256": "96697e4e1f18e51eaaa41267dbb81cecc60d888b83e076f5a36d69799d85079f",
+      "outputSha256": "96697e4e1f18e51eaaa41267dbb81cecc60d888b83e076f5a36d69799d85079f",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 11
+    },
+    {
+      "path": "Maps/quests/Dungeon_passage3.ndfmap",
+      "sourceSha256": "fe02f685425f8c0a3f4330b124894e41a3a9cedd39efc76ac7493a80f935ead2",
+      "outputSha256": "fe02f685425f8c0a3f4330b124894e41a3a9cedd39efc76ac7493a80f935ead2",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 12
+    },
+    {
+      "path": "Maps/quests/Mansion_hall1.ndfmap",
+      "sourceSha256": "7fa9360df6e534cfe4f8770a018464afbe2dd9bb328aa416b8ae971cad750fd4",
+      "outputSha256": "7fa9360df6e534cfe4f8770a018464afbe2dd9bb328aa416b8ae971cad750fd4",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 21
+    },
+    {
+      "path": "Maps/quests/Mansion_hall2.ndfmap",
+      "sourceSha256": "478a1719f5e89a984bc2b3fe596aafe1138b62bce1e1f59d46bf5465dcb4a3ab",
+      "outputSha256": "478a1719f5e89a984bc2b3fe596aafe1138b62bce1e1f59d46bf5465dcb4a3ab",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 14
+    },
+    {
+      "path": "Maps/quests/Mansion_hall3.ndfmap",
+      "sourceSha256": "0a0169530301a72200381aef4310bbd9e49ea58faadf08bf0d56d3254d74c5cd",
+      "outputSha256": "0a0169530301a72200381aef4310bbd9e49ea58faadf08bf0d56d3254d74c5cd",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 32
+    },
+    {
+      "path": "Maps/quests/Mansion_passage1.ndfmap",
+      "sourceSha256": "012aaeb389d101a6ea8a0729b4fdb0ba7571797a09a40e6244432112112127a2",
+      "outputSha256": "012aaeb389d101a6ea8a0729b4fdb0ba7571797a09a40e6244432112112127a2",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 12
+    },
+    {
+      "path": "Maps/quests/Mansion_passage2.ndfmap",
+      "sourceSha256": "bde31712e1691fc087115c7e265317a99f4129914f33455d099f4e4e351fb53c",
+      "outputSha256": "bde31712e1691fc087115c7e265317a99f4129914f33455d099f4e4e351fb53c",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 11
+    },
+    {
+      "path": "Maps/quests/Mansion_passage3.ndfmap",
+      "sourceSha256": "bafbd63af79f0d4aa288eb8909521002c79573680e631132735de664ba9d9891",
+      "outputSha256": "bafbd63af79f0d4aa288eb8909521002c79573680e631132735de664ba9d9891",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 12
+    },
+    {
+      "path": "Maps/quests/Mansion_room1.ndfmap",
+      "sourceSha256": "327e6066a626917a47795f3130f8356a178ef1a65896754d80e9d746cb48e3c5",
+      "outputSha256": "327e6066a626917a47795f3130f8356a178ef1a65896754d80e9d746cb48e3c5",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 18
+    },
+    {
+      "path": "Maps/quests/Mansion_room2.ndfmap",
+      "sourceSha256": "7b7fee22ce7f4ec0985da029a17a2ac233d86872231cbb17a3ad9f4790449c62",
+      "outputSha256": "7b7fee22ce7f4ec0985da029a17a2ac233d86872231cbb17a3ad9f4790449c62",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 19
+    },
+    {
+      "path": "Maps/quests/Mansion_room3.ndfmap",
+      "sourceSha256": "794b6b8d6015d8c4946613f5b54f45071d024e8810ed2a4c6c51342a666f6c92",
+      "outputSha256": "794b6b8d6015d8c4946613f5b54f45071d024e8810ed2a4c6c51342a666f6c92",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 6
+    },
+    {
+      "path": "Maps/quests/Prison_drainage1.ndfmap",
+      "sourceSha256": "109f7e82d2bb3d4ab77efb2b6a6cb33ab1535ba3cf0db8c5d3f5c0ffeaae3768",
+      "outputSha256": "109f7e82d2bb3d4ab77efb2b6a6cb33ab1535ba3cf0db8c5d3f5c0ffeaae3768",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 16
+    },
+    {
+      "path": "Maps/quests/Prison_drainage2.ndfmap",
+      "sourceSha256": "5bd5f2d4a39b6671a4be581965c7d1397723aff29f2ded5a4f4dd8015e217e5e",
+      "outputSha256": "5bd5f2d4a39b6671a4be581965c7d1397723aff29f2ded5a4f4dd8015e217e5e",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 8
+    },
+    {
+      "path": "Maps/quests/Prison_hall1.ndfmap",
+      "sourceSha256": "677e989d8644fb0aa38fed265bbdf87cc94cbe0a8eac887778ecb1bd8b6a0f23",
+      "outputSha256": "677e989d8644fb0aa38fed265bbdf87cc94cbe0a8eac887778ecb1bd8b6a0f23",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 12
+    },
+    {
+      "path": "Maps/quests/Prison_hall2.ndfmap",
+      "sourceSha256": "cf449312eb1b9d90fa14b5ca114d22844ccf02de0393412e9c340ab5e255e745",
+      "outputSha256": "cf449312eb1b9d90fa14b5ca114d22844ccf02de0393412e9c340ab5e255e745",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 16
+    },
+    {
+      "path": "Maps/quests/Prison_passage1.ndfmap",
+      "sourceSha256": "3017d3a572787a4da4557f32af8ce6a111c1ebad2e44eaf55cbe7bb043914129",
+      "outputSha256": "3017d3a572787a4da4557f32af8ce6a111c1ebad2e44eaf55cbe7bb043914129",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 12
+    },
+    {
+      "path": "Maps/quests/Prison_passage2.ndfmap",
+      "sourceSha256": "6d7da5f0ca76a530198357e5b4bea56264de20b00fcef6b9e825170d8e1e4d65",
+      "outputSha256": "6d7da5f0ca76a530198357e5b4bea56264de20b00fcef6b9e825170d8e1e4d65",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 8
+    },
+    {
+      "path": "Maps/quests/Prison_passage3.ndfmap",
+      "sourceSha256": "35d6bdeb634cdfa993d7778ceb4a0a5ec070dd4cd6d0410888832bf84502d463",
+      "outputSha256": "35d6bdeb634cdfa993d7778ceb4a0a5ec070dd4cd6d0410888832bf84502d463",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 11
+    },
+    {
+      "path": "Maps/quests/Prison_prison.ndfmap",
+      "sourceSha256": "0020eda6c1f88628406e25e54f3fd91f01676d35b0f85e38e66b7cae6bcc3a10",
+      "outputSha256": "0020eda6c1f88628406e25e54f3fd91f01676d35b0f85e38e66b7cae6bcc3a10",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 14
+    },
+    {
+      "path": "Maps/quests/Prison_shower_room.ndfmap",
+      "sourceSha256": "dc788d26f6bb395dd52f4f808e4933633f6f37a781f86fad6d9b60416ff1b800",
+      "outputSha256": "dc788d26f6bb395dd52f4f808e4933633f6f37a781f86fad6d9b60416ff1b800",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 16
+    },
+    {
+      "path": "Model/lo/man_lo01.ndfmesh",
+      "sourceSha256": "2b75ae30bb5a3ecddf567542c07861cf6e794e6b2d923796e7844fe424ef8914",
+      "outputSha256": "2b75ae30bb5a3ecddf567542c07861cf6e794e6b2d923796e7844fe424ef8914",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 84
+    },
+    {
+      "path": "Model/lo/man_lo02.ndfmesh",
+      "sourceSha256": "286e86b2ce34408c9a4779b4f5debe69a876ba1120b645559d3f1673554f7dc3",
+      "outputSha256": "286e86b2ce34408c9a4779b4f5debe69a876ba1120b645559d3f1673554f7dc3",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 85
+    },
+    {
+      "path": "Model/man/man-parts00.ndfmesh",
+      "sourceSha256": "7fe96d7ebc311f3dcf99251180bd666d91526d25cd60af340e665d8b052997fe",
+      "outputSha256": "7fe96d7ebc311f3dcf99251180bd666d91526d25cd60af340e665d8b052997fe",
+      "convertedTextures": 0,
+      "ddsTextures": 47,
+      "emptyMaterials": 44
+    },
+    {
+      "path": "Model/man/man-parts01.ndfmesh",
+      "sourceSha256": "686e065aae0a85a4f8ca8f89ce1442519024c0166554dc18f18ff880acd546c6",
+      "outputSha256": "686e065aae0a85a4f8ca8f89ce1442519024c0166554dc18f18ff880acd546c6",
+      "convertedTextures": 0,
+      "ddsTextures": 34,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts02.ndfmesh",
+      "sourceSha256": "0286bf92d5b61c63ca51072fca0c8864aedcda008c149c0770b136fb72a9b239",
+      "outputSha256": "0286bf92d5b61c63ca51072fca0c8864aedcda008c149c0770b136fb72a9b239",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 35
+    },
+    {
+      "path": "Model/man/man-parts03.ndfmesh",
+      "sourceSha256": "883e7813d954d303faf435009d1d54c7be868917feafd520e7f70265083337ab",
+      "outputSha256": "883e7813d954d303faf435009d1d54c7be868917feafd520e7f70265083337ab",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts04.ndfmesh",
+      "sourceSha256": "43ad7b7f5f66fc8b42660364213b55a888f1e55e2fb1c7c0ba249e09ee7a9de7",
+      "outputSha256": "43ad7b7f5f66fc8b42660364213b55a888f1e55e2fb1c7c0ba249e09ee7a9de7",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts05.ndfmesh",
+      "sourceSha256": "2140b54c751291bfea1e880847b192453f5a3786b1fb55cbea6c4776d2866be6",
+      "outputSha256": "2140b54c751291bfea1e880847b192453f5a3786b1fb55cbea6c4776d2866be6",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts06.ndfmesh",
+      "sourceSha256": "55f233fd19b5255ef9e16a6aaedf5215bcb76c1af44660846b922f307b4e7dbb",
+      "outputSha256": "55f233fd19b5255ef9e16a6aaedf5215bcb76c1af44660846b922f307b4e7dbb",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts06_1.ndfmesh",
+      "sourceSha256": "1523b45955565f85f059e585108e0309389426a9ff3a7ea590b7bbb5c5f3ec30",
+      "outputSha256": "1523b45955565f85f059e585108e0309389426a9ff3a7ea590b7bbb5c5f3ec30",
+      "convertedTextures": 0,
+      "ddsTextures": 29,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts07.ndfmesh",
+      "sourceSha256": "1b0c5ab8f69e8a65d6176755cd2ed834b44fad62eff3ddd5a32c03baa10ec7b7",
+      "outputSha256": "1b0c5ab8f69e8a65d6176755cd2ed834b44fad62eff3ddd5a32c03baa10ec7b7",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts08.ndfmesh",
+      "sourceSha256": "c3630058f26dd2712ce4050c89ca681667b4f73632f258aa287f5544fffba127",
+      "outputSha256": "c3630058f26dd2712ce4050c89ca681667b4f73632f258aa287f5544fffba127",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts09.ndfmesh",
+      "sourceSha256": "e1c85f60af34c2e762d0ef2dafc0d77fed22cd83fc32fafde001b164ff492dd7",
+      "outputSha256": "e1c85f60af34c2e762d0ef2dafc0d77fed22cd83fc32fafde001b164ff492dd7",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts10.ndfmesh",
+      "sourceSha256": "967f3c2da6514438dfde8db87884d918ff2493e6a0fb4b2e081ec4788f059f3d",
+      "outputSha256": "967f3c2da6514438dfde8db87884d918ff2493e6a0fb4b2e081ec4788f059f3d",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts12.ndfmesh",
+      "sourceSha256": "70418108dcb47209305596e3eab6338ba012b9da948275524361c3fc8e8b53d9",
+      "outputSha256": "70418108dcb47209305596e3eab6338ba012b9da948275524361c3fc8e8b53d9",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts13.ndfmesh",
+      "sourceSha256": "b649e15db34402b4e6a5c5560d35daf5f320276f456e9f16df827d4410c03a71",
+      "outputSha256": "b649e15db34402b4e6a5c5560d35daf5f320276f456e9f16df827d4410c03a71",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts14.ndfmesh",
+      "sourceSha256": "9d8c93b9a7dd18eb83dbc6e4c7e1bd269c6dddf5e53e5a82b5980e17d52166df",
+      "outputSha256": "9d8c93b9a7dd18eb83dbc6e4c7e1bd269c6dddf5e53e5a82b5980e17d52166df",
+      "convertedTextures": 0,
+      "ddsTextures": 42,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts15.ndfmesh",
+      "sourceSha256": "88e00de0eed55098a5b2fadebe2d0f0c33f629bf13ef808b2155ce40e25dfdbe",
+      "outputSha256": "88e00de0eed55098a5b2fadebe2d0f0c33f629bf13ef808b2155ce40e25dfdbe",
+      "convertedTextures": 0,
+      "ddsTextures": 34,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts16.ndfmesh",
+      "sourceSha256": "af8866e31fabedea19892900590518f0f3314a8cd85edffdd7fb94aefb9b9a5a",
+      "outputSha256": "af8866e31fabedea19892900590518f0f3314a8cd85edffdd7fb94aefb9b9a5a",
+      "convertedTextures": 0,
+      "ddsTextures": 34,
+      "emptyMaterials": 3
+    },
+    {
+      "path": "Model/man/man-parts17.ndfmesh",
+      "sourceSha256": "8a15dd2c2edd7e8e9e7e7e011444a0ef40711011ac1d0a4b3b39c4132c136465",
+      "outputSha256": "8a15dd2c2edd7e8e9e7e7e011444a0ef40711011ac1d0a4b3b39c4132c136465",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts18.ndfmesh",
+      "sourceSha256": "f83de90f0ca7f8903ba36d08745c9431dd82bab96684a73efc45b2cc6b246a54",
+      "outputSha256": "f83de90f0ca7f8903ba36d08745c9431dd82bab96684a73efc45b2cc6b246a54",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts19.ndfmesh",
+      "sourceSha256": "cc4eb42d74ad753a02b63c3412f54668a3fc1878a50e9293a63a08a69f0740b1",
+      "outputSha256": "cc4eb42d74ad753a02b63c3412f54668a3fc1878a50e9293a63a08a69f0740b1",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts20.ndfmesh",
+      "sourceSha256": "bd8f9e8d2a844ae6f55576160fda30a1038a6d6711194f01a981b4db5d13596c",
+      "outputSha256": "bd8f9e8d2a844ae6f55576160fda30a1038a6d6711194f01a981b4db5d13596c",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts21.ndfmesh",
+      "sourceSha256": "79f27a428d43bdf49bee424d1906c01d242a21e51c9696040ad952f5d5d4ba65",
+      "outputSha256": "79f27a428d43bdf49bee424d1906c01d242a21e51c9696040ad952f5d5d4ba65",
+      "convertedTextures": 0,
+      "ddsTextures": 34,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts22.ndfmesh",
+      "sourceSha256": "ae7c995d65a19972c537f6197d56ee4aef7f2ded6100e2b087843ac3a89f63d5",
+      "outputSha256": "ae7c995d65a19972c537f6197d56ee4aef7f2ded6100e2b087843ac3a89f63d5",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts23.ndfmesh",
+      "sourceSha256": "c1b8743a4636e92c42fcdc9d9ede2c114c9b7bc837442e142dcb1c07f399f20d",
+      "outputSha256": "c1b8743a4636e92c42fcdc9d9ede2c114c9b7bc837442e142dcb1c07f399f20d",
+      "convertedTextures": 0,
+      "ddsTextures": 32,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts24.ndfmesh",
+      "sourceSha256": "5cd12d0a9dbb50e0e38a8235d575c6ee710280a6eabcf80192e456c55195cda7",
+      "outputSha256": "5cd12d0a9dbb50e0e38a8235d575c6ee710280a6eabcf80192e456c55195cda7",
+      "convertedTextures": 0,
+      "ddsTextures": 32,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts25.ndfmesh",
+      "sourceSha256": "2755bd167029951b7f14aef3925c8576656486bbddf9d9d02107fa13873a6a81",
+      "outputSha256": "2755bd167029951b7f14aef3925c8576656486bbddf9d9d02107fa13873a6a81",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts26.ndfmesh",
+      "sourceSha256": "54e54c8d23a57f42c3aee646bf4dfaf74fb10ac05e4f86e3e6ba083943630be4",
+      "outputSha256": "54e54c8d23a57f42c3aee646bf4dfaf74fb10ac05e4f86e3e6ba083943630be4",
+      "convertedTextures": 0,
+      "ddsTextures": 34,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts27.ndfmesh",
+      "sourceSha256": "7c89e05d6050507828870879b4d0df962da8f7b8cfcb3dc32a59a3dfa980365d",
+      "outputSha256": "7c89e05d6050507828870879b4d0df962da8f7b8cfcb3dc32a59a3dfa980365d",
+      "convertedTextures": 0,
+      "ddsTextures": 30,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts28.ndfmesh",
+      "sourceSha256": "3574cf2b00239eed19e4b17dcd259b48c03a378451f38826f9884b65d3aa60c9",
+      "outputSha256": "3574cf2b00239eed19e4b17dcd259b48c03a378451f38826f9884b65d3aa60c9",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts29.ndfmesh",
+      "sourceSha256": "38f647958fd30dcfd1daec800c7d709fcf8b33c698ba09bddf077bad2acea9ff",
+      "outputSha256": "38f647958fd30dcfd1daec800c7d709fcf8b33c698ba09bddf077bad2acea9ff",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts30.ndfmesh",
+      "sourceSha256": "6cdab39232f4d2ec3679348681d760e1673a3db59e6dcd5d2cfb514dac7ef2ef",
+      "outputSha256": "6cdab39232f4d2ec3679348681d760e1673a3db59e6dcd5d2cfb514dac7ef2ef",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts31.ndfmesh",
+      "sourceSha256": "4e835a5961ef269557e646c51facb6138456b9a6842cece0a9132f9436aea057",
+      "outputSha256": "4e835a5961ef269557e646c51facb6138456b9a6842cece0a9132f9436aea057",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts32.ndfmesh",
+      "sourceSha256": "75281ec905f043ce63a9e3a1aa30f9c3e16226ffc3bd9215a313abd2d9468453",
+      "outputSha256": "75281ec905f043ce63a9e3a1aa30f9c3e16226ffc3bd9215a313abd2d9468453",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts33.ndfmesh",
+      "sourceSha256": "40fb364e7573fd638b095cea90c869ccae7f4a13b91b9931402078eab844f876",
+      "outputSha256": "40fb364e7573fd638b095cea90c869ccae7f4a13b91b9931402078eab844f876",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts33_white.ndfmesh",
+      "sourceSha256": "2bcc51f54ebae738739467fee48da1c340e22846adf999bcea322d67a62b8221",
+      "outputSha256": "2bcc51f54ebae738739467fee48da1c340e22846adf999bcea322d67a62b8221",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts34.ndfmesh",
+      "sourceSha256": "8bc93545b062fe3d0035f61fa36c5025e3076b4f70ca10105ba43e922b9866f7",
+      "outputSha256": "8bc93545b062fe3d0035f61fa36c5025e3076b4f70ca10105ba43e922b9866f7",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts35.ndfmesh",
+      "sourceSha256": "41a0e58fc223209b674ad3952488314633adc27e3ed76f5c1e07b7a7beea6f6d",
+      "outputSha256": "41a0e58fc223209b674ad3952488314633adc27e3ed76f5c1e07b7a7beea6f6d",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_assassin.ndfmesh",
+      "sourceSha256": "fe827d506d24b6ae9fb93d3ad99bcc0f2723c7f838e6ad06f55b2714187a41b6",
+      "outputSha256": "fe827d506d24b6ae9fb93d3ad99bcc0f2723c7f838e6ad06f55b2714187a41b6",
+      "convertedTextures": 0,
+      "ddsTextures": 31,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_aura.ndfmesh",
+      "sourceSha256": "830742b42dc17c5267547b3b7f8d4ebe653055f9dd70b6c7ed96efd982cb9e75",
+      "outputSha256": "830742b42dc17c5267547b3b7f8d4ebe653055f9dd70b6c7ed96efd982cb9e75",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_axium_high.ndfmesh",
+      "sourceSha256": "e1f127001d2437272e3307baaa7e22c1314e9a3228eb93869691f71218df1489",
+      "outputSha256": "e1f127001d2437272e3307baaa7e22c1314e9a3228eb93869691f71218df1489",
+      "convertedTextures": 0,
+      "ddsTextures": 33,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_axium_uniform.ndfmesh",
+      "sourceSha256": "f489069e010c874b04eb3acb2d17f99441a020a0dfa331f96656a06d9d56f73c",
+      "outputSha256": "f489069e010c874b04eb3acb2d17f99441a020a0dfa331f96656a06d9d56f73c",
+      "convertedTextures": 0,
+      "ddsTextures": 31,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_bigi.ndfmesh",
+      "sourceSha256": "b37d97ebdbc2ae97676e173bf662afa8207328ff70de4b7ef4e137a830e0ba3e",
+      "outputSha256": "b37d97ebdbc2ae97676e173bf662afa8207328ff70de4b7ef4e137a830e0ba3e",
+      "convertedTextures": 0,
+      "ddsTextures": 28,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_blackdragon.ndfmesh",
+      "sourceSha256": "f267fdb6a0848b2a337fd397a5399a6349ec52ff32a3e75a19b7dc26ddffe058",
+      "outputSha256": "f267fdb6a0848b2a337fd397a5399a6349ec52ff32a3e75a19b7dc26ddffe058",
+      "convertedTextures": 0,
+      "ddsTextures": 32,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_cat.ndfmesh",
+      "sourceSha256": "61214bf16adc43973929b1624fd3908cf6f63cd151f64d2713a47dab391ffae3",
+      "outputSha256": "61214bf16adc43973929b1624fd3908cf6f63cd151f64d2713a47dab391ffae3",
+      "convertedTextures": 0,
+      "ddsTextures": 27,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_ce.ndfmesh",
+      "sourceSha256": "d998834a8cc1d033b61204fd985667298e0ce145ea0e94779fe57f9382c02b9a",
+      "outputSha256": "d998834a8cc1d033b61204fd985667298e0ce145ea0e94779fe57f9382c02b9a",
+      "convertedTextures": 0,
+      "ddsTextures": 27,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_clanmaster.ndfmesh",
+      "sourceSha256": "881085e653710a5a2b38120d419cb85a6ec8d2c1b7ab4b3adc4c697324a17e87",
+      "outputSha256": "881085e653710a5a2b38120d419cb85a6ec8d2c1b7ab4b3adc4c697324a17e87",
+      "convertedTextures": 0,
+      "ddsTextures": 27,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_crown.ndfmesh",
+      "sourceSha256": "218bb66ac66edf11c6669f62e8b7d96e3416c5bee3495772aaf8eeafa9275ebf",
+      "outputSha256": "218bb66ac66edf11c6669f62e8b7d96e3416c5bee3495772aaf8eeafa9275ebf",
+      "convertedTextures": 0,
+      "ddsTextures": 27,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_crusader.ndfmesh",
+      "sourceSha256": "34a1893c6c82085f6226a338fdd0b03bb73d67ca7dfdbb4382a67af268a03b77",
+      "outputSha256": "34a1893c6c82085f6226a338fdd0b03bb73d67ca7dfdbb4382a67af268a03b77",
+      "convertedTextures": 0,
+      "ddsTextures": 33,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_designercoat.ndfmesh",
+      "sourceSha256": "11e593cc4428d24d11a5214ccc750ad3960ee0d0c08b955a542cbeee182d56af",
+      "outputSha256": "11e593cc4428d24d11a5214ccc750ad3960ee0d0c08b955a542cbeee182d56af",
+      "convertedTextures": 0,
+      "ddsTextures": 27,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_devil.ndfmesh",
+      "sourceSha256": "5af9be1ace3dde50fc36b5bdb6875e2ec5c8700916289d9312a74c730f7b5576",
+      "outputSha256": "5af9be1ace3dde50fc36b5bdb6875e2ec5c8700916289d9312a74c730f7b5576",
+      "convertedTextures": 0,
+      "ddsTextures": 34,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/man/man-parts_eola.ndfmesh",
+      "sourceSha256": "76d8f76fce818b4746f2ba6c03ae4210bf106845416b9bad6508207c394af83d",
+      "outputSha256": "76d8f76fce818b4746f2ba6c03ae4210bf106845416b9bad6508207c394af83d",
+      "convertedTextures": 0,
+      "ddsTextures": 32,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_event08.ndfmesh",
+      "sourceSha256": "aa0015fb6b911e7fd075025d867efff26051095e2f566fc3b53d3735af9e960d",
+      "outputSha256": "aa0015fb6b911e7fd075025d867efff26051095e2f566fc3b53d3735af9e960d",
+      "convertedTextures": 0,
+      "ddsTextures": 30,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_face.ndfmesh",
+      "sourceSha256": "fc77668594ed2940b63e11dad140dde6247b6a80b680593df8420097094abe41",
+      "outputSha256": "fc77668594ed2940b63e11dad140dde6247b6a80b680593df8420097094abe41",
+      "convertedTextures": 0,
+      "ddsTextures": 46,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Model/man/man-parts_fenrir.ndfmesh",
+      "sourceSha256": "a5c0f89a9cebc0366b43b9eeea6a5c6ff57d4ad0b14a6ea8b91b3011abcd8436",
+      "outputSha256": "a5c0f89a9cebc0366b43b9eeea6a5c6ff57d4ad0b14a6ea8b91b3011abcd8436",
+      "convertedTextures": 0,
+      "ddsTextures": 34,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_gm.ndfmesh",
+      "sourceSha256": "b2dbe209f34099037e97745e52b4406ab50b4b957c0639a4024a6bed5fb34bed",
+      "outputSha256": "b2dbe209f34099037e97745e52b4406ab50b4b957c0639a4024a6bed5fb34bed",
+      "convertedTextures": 0,
+      "ddsTextures": 27,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_guard.ndfmesh",
+      "sourceSha256": "be0a2442fae225451d2b86050865089a68e0c6d033a064040528086cee8309ce",
+      "outputSha256": "be0a2442fae225451d2b86050865089a68e0c6d033a064040528086cee8309ce",
+      "convertedTextures": 0,
+      "ddsTextures": 31,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_halem.ndfmesh",
+      "sourceSha256": "84cd0b9ee1036f4a966c36f230a8e363261113feeaad53b8ac6625f0a2331653",
+      "outputSha256": "84cd0b9ee1036f4a966c36f230a8e363261113feeaad53b8ac6625f0a2331653",
+      "convertedTextures": 0,
+      "ddsTextures": 34,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_hanbok.ndfmesh",
+      "sourceSha256": "a5ffb07b4f3ed689a1fdb3813ab016d58a7b4e5d25065295fc41b0423eda7c00",
+      "outputSha256": "a5ffb07b4f3ed689a1fdb3813ab016d58a7b4e5d25065295fc41b0423eda7c00",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_hat.ndfmesh",
+      "sourceSha256": "16d76a5818b3630e7f8a4a3f3de8a006ea8cd94e54857e9e5571bc087bab4247",
+      "outputSha256": "16d76a5818b3630e7f8a4a3f3de8a006ea8cd94e54857e9e5571bc087bab4247",
+      "convertedTextures": 0,
+      "ddsTextures": 29,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_heavy.ndfmesh",
+      "sourceSha256": "fcbfc5d82a0b9e7e0fd82f2540325fc3e7e33d2dcd83ec9526d925de01f374bb",
+      "outputSha256": "fcbfc5d82a0b9e7e0fd82f2540325fc3e7e33d2dcd83ec9526d925de01f374bb",
+      "convertedTextures": 0,
+      "ddsTextures": 33,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_jhunter.ndfmesh",
+      "sourceSha256": "cdc4e93111edd60ead7b1579b8869269317087869e64573e1e61032a66842123",
+      "outputSha256": "cdc4e93111edd60ead7b1579b8869269317087869e64573e1e61032a66842123",
+      "convertedTextures": 0,
+      "ddsTextures": 33,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_judge.ndfmesh",
+      "sourceSha256": "d586409e2dd6033eda47ea56ae61c7bf2338c3c7ccca9d20e2d2ef288cf5e486",
+      "outputSha256": "d586409e2dd6033eda47ea56ae61c7bf2338c3c7ccca9d20e2d2ef288cf5e486",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_kungfu.ndfmesh",
+      "sourceSha256": "cf09b382cb19eca33e067ada8dcde671deb5e91cb51838c0ff937f0f557ead2b",
+      "outputSha256": "cf09b382cb19eca33e067ada8dcde671deb5e91cb51838c0ff937f0f557ead2b",
+      "convertedTextures": 0,
+      "ddsTextures": 33,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_magic.ndfmesh",
+      "sourceSha256": "bc3de3ef5d506bfe462c619ff8966b4869132fb85007ef146190b27573acd6ee",
+      "outputSha256": "bc3de3ef5d506bfe462c619ff8966b4869132fb85007ef146190b27573acd6ee",
+      "convertedTextures": 0,
+      "ddsTextures": 32,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_navy.ndfmesh",
+      "sourceSha256": "9035e5a7ae15953fa77d4dfe4a169026a890ed49aeed907155df1aa74a63d5df",
+      "outputSha256": "9035e5a7ae15953fa77d4dfe4a169026a890ed49aeed907155df1aa74a63d5df",
+      "convertedTextures": 0,
+      "ddsTextures": 31,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_ninja.ndfmesh",
+      "sourceSha256": "7278885d6ff3dd0eadd52d14400080821328f0f39c3a5b3035af37bed08e70a4",
+      "outputSha256": "7278885d6ff3dd0eadd52d14400080821328f0f39c3a5b3035af37bed08e70a4",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_pirate.ndfmesh",
+      "sourceSha256": "fd7d17d710f8451a99bdd5800586a3c2ca6192a5182b1452bff7bf29e8c44e09",
+      "outputSha256": "fd7d17d710f8451a99bdd5800586a3c2ca6192a5182b1452bff7bf29e8c44e09",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_police.ndfmesh",
+      "sourceSha256": "729826bb6435453e4f3e36d5ffcc8f350bcec5861bbe846ac886b6c57522b89e",
+      "outputSha256": "729826bb6435453e4f3e36d5ffcc8f350bcec5861bbe846ac886b6c57522b89e",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_pumpkin.ndfmesh",
+      "sourceSha256": "696aa792fe0e61fa37be742870cb28983ad5dd93b1d4994e97ee61f245ac8ae2",
+      "outputSha256": "696aa792fe0e61fa37be742870cb28983ad5dd93b1d4994e97ee61f245ac8ae2",
+      "convertedTextures": 0,
+      "ddsTextures": 27,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_quest.ndfmesh",
+      "sourceSha256": "2c2717ad4322069f0d3eacdeb1d46e250414dd9203e14a485826caf978f9b298",
+      "outputSha256": "2c2717ad4322069f0d3eacdeb1d46e250414dd9203e14a485826caf978f9b298",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/man/man-parts_quest_gold.ndfmesh",
+      "sourceSha256": "fc39652f2f42b3057b0c150ecf1a19516fd3450b1b4584ecc72f427001042c87",
+      "outputSha256": "fc39652f2f42b3057b0c150ecf1a19516fd3450b1b4584ecc72f427001042c87",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 3
+    },
+    {
+      "path": "Model/man/man-parts_quest_lizard.ndfmesh",
+      "sourceSha256": "615fb00a353a8f48fcbf766e479f1bc30eae22d9819700a3d202b063cb010c35",
+      "outputSha256": "615fb00a353a8f48fcbf766e479f1bc30eae22d9819700a3d202b063cb010c35",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_rabbit.ndfmesh",
+      "sourceSha256": "1bf9c4f7b091ec06532173eb8ed1ff6b0ee585119c0179f76dc05921e8355103",
+      "outputSha256": "1bf9c4f7b091ec06532173eb8ed1ff6b0ee585119c0179f76dc05921e8355103",
+      "convertedTextures": 0,
+      "ddsTextures": 27,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_royal.ndfmesh",
+      "sourceSha256": "9ede803a7f03e5ca7b38356cafd86a8cc3d037247b98c3a04ece61a59b0fc67a",
+      "outputSha256": "9ede803a7f03e5ca7b38356cafd86a8cc3d037247b98c3a04ece61a59b0fc67a",
+      "convertedTextures": 0,
+      "ddsTextures": 32,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_santa.ndfmesh",
+      "sourceSha256": "ec262a873cb4704d50fe20e3c8d583fe935185a3ae5c518eae785c70ba8a3721",
+      "outputSha256": "ec262a873cb4704d50fe20e3c8d583fe935185a3ae5c518eae785c70ba8a3721",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_school.ndfmesh",
+      "sourceSha256": "f5ce14ee67144d7741495a116cd9799b33eae83eeacc4c66c029e2a72004d255",
+      "outputSha256": "f5ce14ee67144d7741495a116cd9799b33eae83eeacc4c66c029e2a72004d255",
+      "convertedTextures": 0,
+      "ddsTextures": 34,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_shadow.ndfmesh",
+      "sourceSha256": "df198370eea971896bf1485e3c650ee27a5a5d07865d3cff88ed4a08c456a8df",
+      "outputSha256": "df198370eea971896bf1485e3c650ee27a5a5d07865d3cff88ed4a08c456a8df",
+      "convertedTextures": 0,
+      "ddsTextures": 31,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_staff.ndfmesh",
+      "sourceSha256": "a367385e66c4c04f45693702157c1df255b0f7e064e397ab545fbc31010e0625",
+      "outputSha256": "a367385e66c4c04f45693702157c1df255b0f7e064e397ab545fbc31010e0625",
+      "convertedTextures": 0,
+      "ddsTextures": 27,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_sum08.ndfmesh",
+      "sourceSha256": "119b82664339e0f64f69e5ab73c740abda865ad93969fe907e6907e2f205bc0b",
+      "outputSha256": "119b82664339e0f64f69e5ab73c740abda865ad93969fe907e6907e2f205bc0b",
+      "convertedTextures": 0,
+      "ddsTextures": 30,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_swat.ndfmesh",
+      "sourceSha256": "b34b35ffb4f34bc0990859277ac4e5389dca2bf1b6e292b3c96887b42df0ec01",
+      "outputSha256": "b34b35ffb4f34bc0990859277ac4e5389dca2bf1b6e292b3c96887b42df0ec01",
+      "convertedTextures": 0,
+      "ddsTextures": 47,
+      "emptyMaterials": 44
+    },
+    {
+      "path": "Model/man/man-parts_swim.ndfmesh",
+      "sourceSha256": "cd6e348a4738120d00742bf56529d368bc620ad773a64ed4124f599b271d9081",
+      "outputSha256": "cd6e348a4738120d00742bf56529d368bc620ad773a64ed4124f599b271d9081",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_valkyrie.ndfmesh",
+      "sourceSha256": "56cd917fd1709a55c516be895cefe58c1c42cf5e5711c10e289f6e471dd566da",
+      "outputSha256": "56cd917fd1709a55c516be895cefe58c1c42cf5e5711c10e289f6e471dd566da",
+      "convertedTextures": 0,
+      "ddsTextures": 33,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_vamp.ndfmesh",
+      "sourceSha256": "6e4d34e080fcd1931f8c6cd6560a18a974d66e374caf02e4b64be18bff642477",
+      "outputSha256": "6e4d34e080fcd1931f8c6cd6560a18a974d66e374caf02e4b64be18bff642477",
+      "convertedTextures": 0,
+      "ddsTextures": 4,
+      "emptyMaterials": 30
+    },
+    {
+      "path": "Model/man/man-parts_wed.ndfmesh",
+      "sourceSha256": "ecd2771c606b3121370b806e03148a245f2d7c376b23768a49fdbfdf4b36255b",
+      "outputSha256": "ecd2771c606b3121370b806e03148a245f2d7c376b23768a49fdbfdf4b36255b",
+      "convertedTextures": 0,
+      "ddsTextures": 34,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_winter.ndfmesh",
+      "sourceSha256": "e654a2e836855c16474eafac95ce178fe671b215dd49621ff3951bb34c76cef6",
+      "outputSha256": "e654a2e836855c16474eafac95ce178fe671b215dd49621ff3951bb34c76cef6",
+      "convertedTextures": 0,
+      "ddsTextures": 33,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_worldcup.ndfmesh",
+      "sourceSha256": "5be3242a7e6163123c77a919c453dc4ab7d8eb0f63de37d78d74ef1e6f10987d",
+      "outputSha256": "5be3242a7e6163123c77a919c453dc4ab7d8eb0f63de37d78d74ef1e6f10987d",
+      "convertedTextures": 0,
+      "ddsTextures": 45,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_yohawk.ndfmesh",
+      "sourceSha256": "d9ba4977eab91f63f66d985255cbb11bdf2836e0539e32843a44e689454d7ff5",
+      "outputSha256": "d9ba4977eab91f63f66d985255cbb11bdf2836e0539e32843a44e689454d7ff5",
+      "convertedTextures": 0,
+      "ddsTextures": 31,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man-parts_zeus.ndfmesh",
+      "sourceSha256": "0bbc966006ea304c93f7639184cefaaa09cb053f6d84435a2de19efd22863318",
+      "outputSha256": "0bbc966006ea304c93f7639184cefaaa09cb053f6d84435a2de19efd22863318",
+      "convertedTextures": 0,
+      "ddsTextures": 29,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/man/man_lo01.ndfmesh",
+      "sourceSha256": "cf88ba5da053c9d608abe5b5d7f0374e1b174d2a60cfb61872422c24790ace2f",
+      "outputSha256": "cf88ba5da053c9d608abe5b5d7f0374e1b174d2a60cfb61872422c24790ace2f",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 73
+    },
+    {
+      "path": "Model/man/man_lo02.ndfmesh",
+      "sourceSha256": "d21f05099c195dd34bbd0deacd5f9e993c56df64eb899cb82c75e98e7f1011c1",
+      "outputSha256": "d21f05099c195dd34bbd0deacd5f9e993c56df64eb899cb82c75e98e7f1011c1",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 72
+    },
+    {
+      "path": "Model/NPC/goblin/goblin.ndfmesh",
+      "sourceSha256": "462820021a9703743eb4fee8676114915dfb702614288f868e593c9c353379d7",
+      "outputSha256": "462820021a9703743eb4fee8676114915dfb702614288f868e593c9c353379d7",
+      "convertedTextures": 0,
+      "ddsTextures": 31,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/goblin/goblin_chief.ndfmesh",
+      "sourceSha256": "c7dd68fcbffa17c3317f04ba7be9376c0d2edfa000dfee3a37f37121298e5291",
+      "outputSha256": "c7dd68fcbffa17c3317f04ba7be9376c0d2edfa000dfee3a37f37121298e5291",
+      "convertedTextures": 0,
+      "ddsTextures": 34,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/goblin/goblin_head.ndfmesh",
+      "sourceSha256": "985947fdb2ac9d06bf766ae5a801f177edc94fb7b3f1cf3fdf1b32bbfc1d5fcc",
+      "outputSha256": "985947fdb2ac9d06bf766ae5a801f177edc94fb7b3f1cf3fdf1b32bbfc1d5fcc",
+      "convertedTextures": 0,
+      "ddsTextures": 31,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/goblin/goblin_king.ndfmesh",
+      "sourceSha256": "c50ab6be7ee88a51142fb21b6bae7a7445b492be45d4d4bfc5afab0ba45e89c3",
+      "outputSha256": "c50ab6be7ee88a51142fb21b6bae7a7445b492be45d4d4bfc5afab0ba45e89c3",
+      "convertedTextures": 0,
+      "ddsTextures": 31,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/goblin/goblin_king_b.ndfmesh",
+      "sourceSha256": "96143a1795f64884c10d70c69ae6c18ffeeb115b74634b01e347fc81795d3aeb",
+      "outputSha256": "96143a1795f64884c10d70c69ae6c18ffeeb115b74634b01e347fc81795d3aeb",
+      "convertedTextures": 0,
+      "ddsTextures": 31,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/goblin/goblin_santa.ndfmesh",
+      "sourceSha256": "bae38cedcbedd53a0b63ebef314c2388d6a33e906d1e2d51c077df5fbb7cac3f",
+      "outputSha256": "bae38cedcbedd53a0b63ebef314c2388d6a33e906d1e2d51c077df5fbb7cac3f",
+      "convertedTextures": 0,
+      "ddsTextures": 33,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/goblin/goblin_wizard.ndfmesh",
+      "sourceSha256": "b83f645e3f25d4523cd0ae570d81113a401281562fb427940d5f204bf432151b",
+      "outputSha256": "b83f645e3f25d4523cd0ae570d81113a401281562fb427940d5f204bf432151b",
+      "convertedTextures": 0,
+      "ddsTextures": 30,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/goblin/goblinG.ndfmesh",
+      "sourceSha256": "58ca769c44bc5127527a94492c67accb34e964ec376c67dcb71a9298d2e2ce57",
+      "outputSha256": "58ca769c44bc5127527a94492c67accb34e964ec376c67dcb71a9298d2e2ce57",
+      "convertedTextures": 0,
+      "ddsTextures": 32,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/golem/golem.ndfmesh",
+      "sourceSha256": "93560df1968d168e0c54167e44ae3855df5e0c1f097f0e4991238a32fbc00c16",
+      "outputSha256": "93560df1968d168e0c54167e44ae3855df5e0c1f097f0e4991238a32fbc00c16",
+      "convertedTextures": 0,
+      "ddsTextures": 45,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/Kobolt/kobold_shaman.ndfmesh",
+      "sourceSha256": "20ed80b1e809cd76c83a33b5373ae584f895b23c4c95b551890b93e6f83478cb",
+      "outputSha256": "20ed80b1e809cd76c83a33b5373ae584f895b23c4c95b551890b93e6f83478cb",
+      "convertedTextures": 0,
+      "ddsTextures": 30,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/Kobolt/kobolt.ndfmesh",
+      "sourceSha256": "f9ee120d71186256320af24da57306c20a2c1df0cd329fd242302aec57ac57d2",
+      "outputSha256": "f9ee120d71186256320af24da57306c20a2c1df0cd329fd242302aec57ac57d2",
+      "convertedTextures": 0,
+      "ddsTextures": 31,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/Kobolt/kobolt_chief.ndfmesh",
+      "sourceSha256": "d7c63feffc1067a4e40dfc3b726f55c8f888280ae9fae5e9ad127580d9ee1a44",
+      "outputSha256": "d7c63feffc1067a4e40dfc3b726f55c8f888280ae9fae5e9ad127580d9ee1a44",
+      "convertedTextures": 0,
+      "ddsTextures": 31,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/Kobolt/kobolt_king.ndfmesh",
+      "sourceSha256": "22bee8c6c8cd880a394f082823301d05acd2d31641f71f6b647a28f8fb0520ac",
+      "outputSha256": "22bee8c6c8cd880a394f082823301d05acd2d31641f71f6b647a28f8fb0520ac",
+      "convertedTextures": 0,
+      "ddsTextures": 34,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/Palmpoa/Palmpoa.ndfmesh",
+      "sourceSha256": "6ed7a8e55c6064e5b36d21caa991d1bd2c0a621de40ef0a36c038f496b9b3655",
+      "outputSha256": "6ed7a8e55c6064e5b36d21caa991d1bd2c0a621de40ef0a36c038f496b9b3655",
+      "convertedTextures": 0,
+      "ddsTextures": 25,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/Palmpoa/Palmpoa_cursed.ndfmesh",
+      "sourceSha256": "a4e428cef7d895617a83e2dcbb5d5c0cd505684c53f226c6c85c758f23a82788",
+      "outputSha256": "a4e428cef7d895617a83e2dcbb5d5c0cd505684c53f226c6c85c758f23a82788",
+      "convertedTextures": 0,
+      "ddsTextures": 26,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/Palmpoa/Palmpoa_head.ndfmesh",
+      "sourceSha256": "02342fdaab0695caad11770951c6acbbe3bf0bb4b139973f976515509b8131ca",
+      "outputSha256": "02342fdaab0695caad11770951c6acbbe3bf0bb4b139973f976515509b8131ca",
+      "convertedTextures": 0,
+      "ddsTextures": 25,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/Palmpoa/palmpoaH_jump_down.ndfmesh",
+      "sourceSha256": "47b64275d88ca16f2082f35007a710635fb96e70a523e1b6165540d159514b0c",
+      "outputSha256": "47b64275d88ca16f2082f35007a710635fb96e70a523e1b6165540d159514b0c",
+      "convertedTextures": 0,
+      "ddsTextures": 25,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/Palmpoa/Palmpou.ndfmesh",
+      "sourceSha256": "d0c1787c53dc5b917d3de6bf75a26b2aa6a8110dc8fbeca854d2e76602d13554",
+      "outputSha256": "d0c1787c53dc5b917d3de6bf75a26b2aa6a8110dc8fbeca854d2e76602d13554",
+      "convertedTextures": 0,
+      "ddsTextures": 25,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/Palmpoa/Palmpou_baby.ndfmesh",
+      "sourceSha256": "5c225b33afd27ffcc6ede0acf92257d855d57f6e575384782eaf4224dc0bf3e3",
+      "outputSha256": "5c225b33afd27ffcc6ede0acf92257d855d57f6e575384782eaf4224dc0bf3e3",
+      "convertedTextures": 0,
+      "ddsTextures": 23,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/Skeleton/Lich.ndfmesh",
+      "sourceSha256": "c9028834160db1d4ef7fda07f63c3297d575eca3969c84fc14dc54b422f598f4",
+      "outputSha256": "c9028834160db1d4ef7fda07f63c3297d575eca3969c84fc14dc54b422f598f4",
+      "convertedTextures": 0,
+      "ddsTextures": 53,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/Skeleton/skeleton.ndfmesh",
+      "sourceSha256": "aafacc4aabe4e20fdb5b8146497c70255e3d50b2c748328d8ad534e7e14970ae",
+      "outputSha256": "aafacc4aabe4e20fdb5b8146497c70255e3d50b2c748328d8ad534e7e14970ae",
+      "convertedTextures": 0,
+      "ddsTextures": 29,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/Skeleton/skeleton_big.ndfmesh",
+      "sourceSha256": "c21e672f48b229aac48366fa9d79f195297fff7b0e27795dac2c223dabe23d12",
+      "outputSha256": "c21e672f48b229aac48366fa9d79f195297fff7b0e27795dac2c223dabe23d12",
+      "convertedTextures": 0,
+      "ddsTextures": 29,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/Skeleton/skeleton_commander.ndfmesh",
+      "sourceSha256": "b94920e98f40087883191cd901ad054119e71f8a98a29e534723375b3f5c6d3f",
+      "outputSha256": "b94920e98f40087883191cd901ad054119e71f8a98a29e534723375b3f5c6d3f",
+      "convertedTextures": 0,
+      "ddsTextures": 28,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/Skeleton/skeleton_mage.ndfmesh",
+      "sourceSha256": "3c2a18add0ee217ec786047d80935fb0a48511195c1f28b37d1c96652db17def",
+      "outputSha256": "3c2a18add0ee217ec786047d80935fb0a48511195c1f28b37d1c96652db17def",
+      "convertedTextures": 0,
+      "ddsTextures": 33,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/NPC/Skeleton/theunholy.ndfmesh",
+      "sourceSha256": "eb41ae97596cce50a49b919da39d03cbf323915150c1ade9d50809d344452b44",
+      "outputSha256": "eb41ae97596cce50a49b919da39d03cbf323915150c1ade9d50809d344452b44",
+      "convertedTextures": 0,
+      "ddsTextures": 104,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/abys/katana_abys.ndfmesh",
+      "sourceSha256": "d8774026cd6e299a11ce0bcb8dda21133bfefc6c3f25e49ed360946a9c6f9a28",
+      "outputSha256": "d8774026cd6e299a11ce0bcb8dda21133bfefc6c3f25e49ed360946a9c6f9a28",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/blade/blade01.ndfmesh",
+      "sourceSha256": "1b6604031e787ba6ee27e92e1ba14c9947051c950a042ff114f1799f92eefd67",
+      "outputSha256": "1b6604031e787ba6ee27e92e1ba14c9947051c950a042ff114f1799f92eefd67",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/blade/blade02.ndfmesh",
+      "sourceSha256": "510208d4e337374b71c0831e9b7a6876fa469ef28e70cdf9931c69cc12586af0",
+      "outputSha256": "510208d4e337374b71c0831e9b7a6876fa469ef28e70cdf9931c69cc12586af0",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/blade/blade03.ndfmesh",
+      "sourceSha256": "a79d29a670aec5d10050b59bcbb336bb8c835ddc14535a858a0f431e7c81138e",
+      "outputSha256": "a79d29a670aec5d10050b59bcbb336bb8c835ddc14535a858a0f431e7c81138e",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/blade/blade04.ndfmesh",
+      "sourceSha256": "6c3d03c5d73f2f045302ea5822c72af68985079c4b2df4017b0a34a270247f5a",
+      "outputSha256": "6c3d03c5d73f2f045302ea5822c72af68985079c4b2df4017b0a34a270247f5a",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/blade/blade05.ndfmesh",
+      "sourceSha256": "b148037049d026772fadf4689ccff0494a9b3b7ff3140c058f477e2e5dedf308",
+      "outputSha256": "b148037049d026772fadf4689ccff0494a9b3b7ff3140c058f477e2e5dedf308",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/blade/blade06.ndfmesh",
+      "sourceSha256": "b9a60d7d045886fd4f73abd92b4cde3efbce21dac00eeb62a35ac2536953e5c7",
+      "outputSha256": "b9a60d7d045886fd4f73abd92b4cde3efbce21dac00eeb62a35ac2536953e5c7",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/blade/blade07.ndfmesh",
+      "sourceSha256": "6e297440cfcdfaba5d814b5065165f71ad7ddbf100198a6cf902363ffd5d127e",
+      "outputSha256": "6e297440cfcdfaba5d814b5065165f71ad7ddbf100198a6cf902363ffd5d127e",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/blade/blade08.ndfmesh",
+      "sourceSha256": "2869f5052d0c656108a8dadbbdb54ac37fbad902a17c3aa4ab087f8d0b206abc",
+      "outputSha256": "2869f5052d0c656108a8dadbbdb54ac37fbad902a17c3aa4ab087f8d0b206abc",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/blade/blade09.ndfmesh",
+      "sourceSha256": "3ad35a561f31aa40f767001adcd5f738e5c3b36b3bbc3d4c5693f1afead2aad6",
+      "outputSha256": "3ad35a561f31aa40f767001adcd5f738e5c3b36b3bbc3d4c5693f1afead2aad6",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/blade/blade_gdk.ndfmesh",
+      "sourceSha256": "cecc20f465efe91cd14d7b076c4e5076f9741087d5fd2441d6c2db2680be170b",
+      "outputSha256": "cecc20f465efe91cd14d7b076c4e5076f9741087d5fd2441d6c2db2680be170b",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/blade/blade_wing.ndfmesh",
+      "sourceSha256": "c3f90758a02a28962761f0c2fc1b0673dfcd07d612a11c198f1c09e87f46a240",
+      "outputSha256": "c3f90758a02a28962761f0c2fc1b0673dfcd07d612a11c198f1c09e87f46a240",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/blade/blade_wood.ndfmesh",
+      "sourceSha256": "635fcbdd066e1478c13a894cb6353cf66ca1b9078f87ba6d116d0755f59b1ccd",
+      "outputSha256": "635fcbdd066e1478c13a894cb6353cf66ca1b9078f87ba6d116d0755f59b1ccd",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/dagger/dagger01.ndfmesh",
+      "sourceSha256": "37abc27485bb4be97b9b741c3be661adc10a340a504199b44c04d053c8f78b79",
+      "outputSha256": "37abc27485bb4be97b9b741c3be661adc10a340a504199b44c04d053c8f78b79",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/dagger/dagger02.ndfmesh",
+      "sourceSha256": "4b08b6cb1bb47f0728f41ffd5a5ce66ee510553b89cc3865f4ab6e2740c10c12",
+      "outputSha256": "4b08b6cb1bb47f0728f41ffd5a5ce66ee510553b89cc3865f4ab6e2740c10c12",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/dagger/dagger03.ndfmesh",
+      "sourceSha256": "9e81baf410f8d17e372481a5a4f9d83f2b7009813c70ab95701ae561f663b3b0",
+      "outputSha256": "9e81baf410f8d17e372481a5a4f9d83f2b7009813c70ab95701ae561f663b3b0",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/dagger/dagger04.ndfmesh",
+      "sourceSha256": "73734a383ddb05b0bd844ca43ec8125621f65e1a4a06454104a84881e02d9db5",
+      "outputSha256": "73734a383ddb05b0bd844ca43ec8125621f65e1a4a06454104a84881e02d9db5",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/dagger/dagger05.ndfmesh",
+      "sourceSha256": "a07e82d021656b231378f0395361e8bac1a7dbd0de91529e857d1d82f068b5f8",
+      "outputSha256": "a07e82d021656b231378f0395361e8bac1a7dbd0de91529e857d1d82f068b5f8",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/dagger/dagger06.ndfmesh",
+      "sourceSha256": "786a2c4cd788639a8ea2545f9be7dc576fbb2e474c5348e028e7ad40702fe23b",
+      "outputSha256": "786a2c4cd788639a8ea2545f9be7dc576fbb2e474c5348e028e7ad40702fe23b",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/dagger/dagger07.ndfmesh",
+      "sourceSha256": "e8312db742317b8e01f56adca10246a8d9928032dc3919c881b8bda2b16488d9",
+      "outputSha256": "e8312db742317b8e01f56adca10246a8d9928032dc3919c881b8bda2b16488d9",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/dagger/dagger08.ndfmesh",
+      "sourceSha256": "7b4f12dc19b3a8b08ba6bbc44de51bb7ec06dd119c8770c075478339e0b8ebba",
+      "outputSha256": "7b4f12dc19b3a8b08ba6bbc44de51bb7ec06dd119c8770c075478339e0b8ebba",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/dagger/dagger09.ndfmesh",
+      "sourceSha256": "a666468a4eb1e58aae109aa2b2bd6546bc3f3a11b17effd5e02aadd91a7c9d76",
+      "outputSha256": "a666468a4eb1e58aae109aa2b2bd6546bc3f3a11b17effd5e02aadd91a7c9d76",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/dagger/dagger10.ndfmesh",
+      "sourceSha256": "951fc4d6bac74b117c2942de047a82db0cbfa38a43f511352e8de3da4c74f8e3",
+      "outputSha256": "951fc4d6bac74b117c2942de047a82db0cbfa38a43f511352e8de3da4c74f8e3",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/dagger/dagger11.ndfmesh",
+      "sourceSha256": "5fa27f855bbd1de612400ae8d1b3fd0385311814abaf1a5ac2b09f3c5fe7ba27",
+      "outputSha256": "5fa27f855bbd1de612400ae8d1b3fd0385311814abaf1a5ac2b09f3c5fe7ba27",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/dagger/dagger12.ndfmesh",
+      "sourceSha256": "e948e1466aea4c26137a2dd0bc627d72f0e8d95e545db7afbeae25852ee2edad",
+      "outputSha256": "e948e1466aea4c26137a2dd0bc627d72f0e8d95e545db7afbeae25852ee2edad",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/dagger/dagger_cakram.ndfmesh",
+      "sourceSha256": "b9c89bdd512588c605c6a41972b9cc348660f5d02f0bb0dae5d52835cc1940dc",
+      "outputSha256": "b9c89bdd512588c605c6a41972b9cc348660f5d02f0bb0dae5d52835cc1940dc",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/dagger/dagger_wood.ndfmesh",
+      "sourceSha256": "7d3a2cb8e5d8caae5231b8c5fe1136ec38c5660460c11e2decfca6200984d4f4",
+      "outputSha256": "7d3a2cb8e5d8caae5231b8c5fe1136ec38c5660460c11e2decfca6200984d4f4",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/grenade/flashbang01.ndfmesh",
+      "sourceSha256": "e2a7237306dd0871ed8143bbecddc79f417435ff6569b0ea0b2b5b3ad2239267",
+      "outputSha256": "e2a7237306dd0871ed8143bbecddc79f417435ff6569b0ea0b2b5b3ad2239267",
+      "convertedTextures": 0,
+      "ddsTextures": 4,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/grenade/grenade01.ndfmesh",
+      "sourceSha256": "27762a41b36feceb3ac987ec551f21e02352e9645a31863ee116f55279ca1c3a",
+      "outputSha256": "27762a41b36feceb3ac987ec551f21e02352e9645a31863ee116f55279ca1c3a",
+      "convertedTextures": 0,
+      "ddsTextures": 3,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/grenade/smoke01.ndfmesh",
+      "sourceSha256": "b8a57271265d93042f41ef7f549ecf5d2dd6d2fe64e4f85a816fdb3e17e5e986",
+      "outputSha256": "b8a57271265d93042f41ef7f549ecf5d2dd6d2fe64e4f85a816fdb3e17e5e986",
+      "convertedTextures": 0,
+      "ddsTextures": 3,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/item/luckybag.ndfmesh",
+      "sourceSha256": "8a5a043c45f20d3ffd2fcc2660f272a85c09bb17ae779aa542087450d028413f",
+      "outputSha256": "8a5a043c45f20d3ffd2fcc2660f272a85c09bb17ae779aa542087450d028413f",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/item/magazine.ndfmesh",
+      "sourceSha256": "0b8eae2d08edd0d6d529a00a9659b9d29138a06dbeca24fa23cf9ce191b31fc6",
+      "outputSha256": "0b8eae2d08edd0d6d529a00a9659b9d29138a06dbeca24fa23cf9ce191b31fc6",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/item/medickit_candy.ndfmesh",
+      "sourceSha256": "7bacd372555a72e3330f0bbce9b9be108c565a9feb4e15413ffce85c6f9fd863",
+      "outputSha256": "7bacd372555a72e3330f0bbce9b9be108c565a9feb4e15413ffce85c6f9fd863",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/item/medickit_choco.ndfmesh",
+      "sourceSha256": "55a748d81ce17f12fdab561b6310db362f34ff491018c2c3106b3887c79e1074",
+      "outputSha256": "55a748d81ce17f12fdab561b6310db362f34ff491018c2c3106b3887c79e1074",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/item/medickit_icecream.ndfmesh",
+      "sourceSha256": "e0f62f507886ba6c56dcea25bcb61221e12c4d6d2df227388e02a096d8ace726",
+      "outputSha256": "e0f62f507886ba6c56dcea25bcb61221e12c4d6d2df227388e02a096d8ace726",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/item/medickit_rx.ndfmesh",
+      "sourceSha256": "134b7f58aac5d54d937280c1c6b822c06c4f7946eb5803769e8d7ac39cfc15f2",
+      "outputSha256": "134b7f58aac5d54d937280c1c6b822c06c4f7946eb5803769e8d7ac39cfc15f2",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/item/medickit_samgak01.ndfmesh",
+      "sourceSha256": "34a72ed12ce6161b1cd9cd25d160d4a6464b957ba2dc1a8d9ef6b7ff531152e1",
+      "outputSha256": "34a72ed12ce6161b1cd9cd25d160d4a6464b957ba2dc1a8d9ef6b7ff531152e1",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/item/medickit_turkey.ndfmesh",
+      "sourceSha256": "6e3b4db2b23012359d60654aa5d647d0b0566ea3867312ef0300074f856631b8",
+      "outputSha256": "6e3b4db2b23012359d60654aa5d647d0b0566ea3867312ef0300074f856631b8",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/item/medikit.ndfmesh",
+      "sourceSha256": "95284201110af274afdd0beb02dbf0785e6fe6c44255d1136a6b837f010fa9e7",
+      "outputSha256": "95284201110af274afdd0beb02dbf0785e6fe6c44255d1136a6b837f010fa9e7",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/item/repairkit.ndfmesh",
+      "sourceSha256": "42a26db174076952b359dd656db9bfd4ebeac9b4ea58a47550b56999e93b5328",
+      "outputSha256": "42a26db174076952b359dd656db9bfd4ebeac9b4ea58a47550b56999e93b5328",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/item/repairkit_rx.ndfmesh",
+      "sourceSha256": "68bcea7f86b97c23339091edf8c1184bc5fd2545a5b35704b34304dc12534dba",
+      "outputSha256": "68bcea7f86b97c23339091edf8c1184bc5fd2545a5b35704b34304dc12534dba",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/blue.ndfmesh",
+      "sourceSha256": "c8b472a4552ed5921e0b40efd601b3e8a6691722b8805a310dbf43612952df76",
+      "outputSha256": "c8b472a4552ed5921e0b40efd601b3e8a6691722b8805a310dbf43612952df76",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/devils_orgasm.ndfmesh",
+      "sourceSha256": "a92f8afcf1418587822a6485f4fce654dffea955db4473e7f29fa4cf1bef8588",
+      "outputSha256": "a92f8afcf1418587822a6485f4fce654dffea955db4473e7f29fa4cf1bef8588",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/green.ndfmesh",
+      "sourceSha256": "b763184e09e0661de7a3987f18acfb13ef192450f79310d1e38d25d91e28489f",
+      "outputSha256": "b763184e09e0661de7a3987f18acfb13ef192450f79310d1e38d25d91e28489f",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana01.ndfmesh",
+      "sourceSha256": "02dfd82c96cc1ce0bc2c26b109319e05b52ea5a352e2da240e7a4a441e77047b",
+      "outputSha256": "02dfd82c96cc1ce0bc2c26b109319e05b52ea5a352e2da240e7a4a441e77047b",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana02.ndfmesh",
+      "sourceSha256": "b0388d83f8b8db036fbca168694ccdf36b91c4833a2ddc3a331b0ac255fc1c3e",
+      "outputSha256": "b0388d83f8b8db036fbca168694ccdf36b91c4833a2ddc3a331b0ac255fc1c3e",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana03.ndfmesh",
+      "sourceSha256": "8b5f129f8bf748a406f285f5120397b5480b92973e1b068ac9905ce8d3c68a33",
+      "outputSha256": "8b5f129f8bf748a406f285f5120397b5480b92973e1b068ac9905ce8d3c68a33",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana04.ndfmesh",
+      "sourceSha256": "824da05752dc96ae4558751d68ebe22cfa3db009d85f432d6968f8aae8dd2108",
+      "outputSha256": "824da05752dc96ae4558751d68ebe22cfa3db009d85f432d6968f8aae8dd2108",
+      "convertedTextures": 0,
+      "ddsTextures": 3,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana05.ndfmesh",
+      "sourceSha256": "c5703f36f494d63570b7955db9fb2f4fa97daffecf6b394549da47f9b8bedb69",
+      "outputSha256": "c5703f36f494d63570b7955db9fb2f4fa97daffecf6b394549da47f9b8bedb69",
+      "convertedTextures": 0,
+      "ddsTextures": 3,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana06.ndfmesh",
+      "sourceSha256": "f15fdc54ee020238712bd23efcb97bf47f7371c4f2915676cfd2d2460477fb5d",
+      "outputSha256": "f15fdc54ee020238712bd23efcb97bf47f7371c4f2915676cfd2d2460477fb5d",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana07.ndfmesh",
+      "sourceSha256": "01820b6405adc09e8a00d4f6d294945a4fbde1f0588d14dae9a56ba92ffe5946",
+      "outputSha256": "01820b6405adc09e8a00d4f6d294945a4fbde1f0588d14dae9a56ba92ffe5946",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana08.ndfmesh",
+      "sourceSha256": "0bdd40be08dbbe4ae60bf070d694594608249a45e33b91a7d0c1ec0df1637db1",
+      "outputSha256": "0bdd40be08dbbe4ae60bf070d694594608249a45e33b91a7d0c1ec0df1637db1",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana09.ndfmesh",
+      "sourceSha256": "d6f92df4e1c2ade9ea38e50c8224e15d454714e7f5da51e8a4df6762b540b51e",
+      "outputSha256": "d6f92df4e1c2ade9ea38e50c8224e15d454714e7f5da51e8a4df6762b540b51e",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana10.ndfmesh",
+      "sourceSha256": "c87664ba596368081f741eda83f681e6ed0b336851bf7c027633f9729ea33159",
+      "outputSha256": "c87664ba596368081f741eda83f681e6ed0b336851bf7c027633f9729ea33159",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana11.ndfmesh",
+      "sourceSha256": "c5596716e22913e2176e3d6c74a719af770b7bb605f951c9104b39f3cecacc23",
+      "outputSha256": "c5596716e22913e2176e3d6c74a719af770b7bb605f951c9104b39f3cecacc23",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana12.ndfmesh",
+      "sourceSha256": "6d0a544111d4a500db800238da3c36928ce1f5341ee8cc36f3709a453d902031",
+      "outputSha256": "6d0a544111d4a500db800238da3c36928ce1f5341ee8cc36f3709a453d902031",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana13.ndfmesh",
+      "sourceSha256": "6366599a567e95a06d3fc1744f6ae726a232e165a0b7ec7ecad740d8023c5d95",
+      "outputSha256": "6366599a567e95a06d3fc1744f6ae726a232e165a0b7ec7ecad740d8023c5d95",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana14.ndfmesh",
+      "sourceSha256": "af201b1def66427f0efa500f9235f9252637438759f2b5e302e51d2496fe9e3c",
+      "outputSha256": "af201b1def66427f0efa500f9235f9252637438759f2b5e302e51d2496fe9e3c",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana15.ndfmesh",
+      "sourceSha256": "3560e847d736d3b5a4c30ef308398e95b5c5a33e2769d2ff75f5b1a318ad9a0b",
+      "outputSha256": "3560e847d736d3b5a4c30ef308398e95b5c5a33e2769d2ff75f5b1a318ad9a0b",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana17.ndfmesh",
+      "sourceSha256": "950ab42a75c09c96d99dee18258113fbc748ceeaf50198d6a49ef1aef088cd2b",
+      "outputSha256": "950ab42a75c09c96d99dee18258113fbc748ceeaf50198d6a49ef1aef088cd2b",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana18.ndfmesh",
+      "sourceSha256": "cec8ffd73f26d02b4c80eeb555cb6b8cf9d8f4f9f561ab5c1bbf5dee28d3ea36",
+      "outputSha256": "cec8ffd73f26d02b4c80eeb555cb6b8cf9d8f4f9f561ab5c1bbf5dee28d3ea36",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Model/weapon/katana/katana_plunger.ndfmesh",
+      "sourceSha256": "11bf866adb4ce004d66c1e9f50a95406015218696eaed025d7b571c4c53ab83b",
+      "outputSha256": "11bf866adb4ce004d66c1e9f50a95406015218696eaed025d7b571c4c53ab83b",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana_skel.ndfmesh",
+      "sourceSha256": "d0ceaaeabaa3a8c8cac2e09ba5c64b00d427772ba63d3719df57547658ec0e27",
+      "outputSha256": "d0ceaaeabaa3a8c8cac2e09ba5c64b00d427772ba63d3719df57547658ec0e27",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana_thunder.ndfmesh",
+      "sourceSha256": "c18de424b22b7a216e5c2cd90ad6605e70928243b53c91ecb228eafab036c69b",
+      "outputSha256": "c18de424b22b7a216e5c2cd90ad6605e70928243b53c91ecb228eafab036c69b",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/katana_wood.ndfmesh",
+      "sourceSha256": "c20af3a2477fe30b2265febea977284ae91bed9c33533962e43833e923ffeb35",
+      "outputSha256": "c20af3a2477fe30b2265febea977284ae91bed9c33533962e43833e923ffeb35",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/pink.ndfmesh",
+      "sourceSha256": "7e880e07e0e1205b6154981e82a28215b876ebdd2488ac9b022de4e9ebbacbf7",
+      "outputSha256": "7e880e07e0e1205b6154981e82a28215b876ebdd2488ac9b022de4e9ebbacbf7",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/redqueen2it.ndfmesh",
+      "sourceSha256": "17ae92bbd37e71cbb26e117910ed9fdd645701972634783bb1f32653ce2571a1",
+      "outputSha256": "17ae92bbd37e71cbb26e117910ed9fdd645701972634783bb1f32653ce2571a1",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/Shield.ndfmesh",
+      "sourceSha256": "31a84ad212085a0fc8aa452a89c347aaeb704788c6fb9891610e623235d4f02c",
+      "outputSha256": "31a84ad212085a0fc8aa452a89c347aaeb704788c6fb9891610e623235d4f02c",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/tensazan.ndfmesh",
+      "sourceSha256": "0abcf30d6f2c8cc72ef4077180367cff895d5367086e8bdd0036a41f92dc992e",
+      "outputSha256": "0abcf30d6f2c8cc72ef4077180367cff895d5367086e8bdd0036a41f92dc992e",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/katana/uhfullshield.ndfmesh",
+      "sourceSha256": "e9f7f77e86e162a1e919182a78211f554f27be90e885413875d4cd2c21352789",
+      "outputSha256": "e9f7f77e86e162a1e919182a78211f554f27be90e885413875d4cd2c21352789",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/pistol/pistol01.ndfmesh",
+      "sourceSha256": "2e6ddf84de994e131b7a78a3dc044f2f923c93184e00b6396a5442ec9e7ee4bc",
+      "outputSha256": "2e6ddf84de994e131b7a78a3dc044f2f923c93184e00b6396a5442ec9e7ee4bc",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/pistol/pistol02.ndfmesh",
+      "sourceSha256": "5bd3f04e84c396ea192e5c3cad16cb1df951dd531157a4c81bd9410edc172463",
+      "outputSha256": "5bd3f04e84c396ea192e5c3cad16cb1df951dd531157a4c81bd9410edc172463",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/pistol/pistol03.ndfmesh",
+      "sourceSha256": "ff89cde79f9e31488de566d2c8fee6486bb038f7998f5afc6263e655d6916d4a",
+      "outputSha256": "ff89cde79f9e31488de566d2c8fee6486bb038f7998f5afc6263e655d6916d4a",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/pistol/pistol04.ndfmesh",
+      "sourceSha256": "ee111683c8c8c2735becc2d7b6975520adadfecf1ffd2eb3656fae67a5c6d00e",
+      "outputSha256": "ee111683c8c8c2735becc2d7b6975520adadfecf1ffd2eb3656fae67a5c6d00e",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/pistol/pistol05.ndfmesh",
+      "sourceSha256": "efb9ba5134abf454db865ca1788f5e703dcc2f0e748d20f281ca8c6721442643",
+      "outputSha256": "efb9ba5134abf454db865ca1788f5e703dcc2f0e748d20f281ca8c6721442643",
+      "convertedTextures": 0,
+      "ddsTextures": 4,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Model/weapon/pistol/pistol06.ndfmesh",
+      "sourceSha256": "115eebb055e8ae0e0d2efd77b1de7cd2ab7e9e23e8c208b37a266f6ffd6a996a",
+      "outputSha256": "115eebb055e8ae0e0d2efd77b1de7cd2ab7e9e23e8c208b37a266f6ffd6a996a",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/pistol/pistol07.ndfmesh",
+      "sourceSha256": "4b5f02d4e7ebbafcf9239fb5827537ebf9aa113b784922fe2f01d11226127d3d",
+      "outputSha256": "4b5f02d4e7ebbafcf9239fb5827537ebf9aa113b784922fe2f01d11226127d3d",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/pistol/pistol08.ndfmesh",
+      "sourceSha256": "e83325130fd75a677ac9080f5eb02b67fdec38380d5fae04b32ccb7090832f2e",
+      "outputSha256": "e83325130fd75a677ac9080f5eb02b67fdec38380d5fae04b32ccb7090832f2e",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/pistol/pistol09.ndfmesh",
+      "sourceSha256": "61af35d18e64a75c4257231195d8fd32cd0b6f344edf2cdb70abcc8fd91dc4cd",
+      "outputSha256": "61af35d18e64a75c4257231195d8fd32cd0b6f344edf2cdb70abcc8fd91dc4cd",
+      "convertedTextures": 0,
+      "ddsTextures": 3,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/pistol/pistol10.ndfmesh",
+      "sourceSha256": "696d14a48d83e8feb7a04d55eb2077e2677d69fc27bbec39b020f7b4fe88e1dc",
+      "outputSha256": "696d14a48d83e8feb7a04d55eb2077e2677d69fc27bbec39b020f7b4fe88e1dc",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/pistol/pistol11.ndfmesh",
+      "sourceSha256": "105223a667da2a92d592951d59ec894bfd1f4850579c32d73113bb0522653b82",
+      "outputSha256": "105223a667da2a92d592951d59ec894bfd1f4850579c32d73113bb0522653b82",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/pistol/pistol12.ndfmesh",
+      "sourceSha256": "bf693aa88a2dc38db157410a58c41f2939b08c1dac21aa55691778a29d30ebd8",
+      "outputSha256": "bf693aa88a2dc38db157410a58c41f2939b08c1dac21aa55691778a29d30ebd8",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/pistol/pistol13.ndfmesh",
+      "sourceSha256": "8c06c23a9a8fa00246a60fe32963ea4fb643acdc2281e3aabf9ea658698361ef",
+      "outputSha256": "8c06c23a9a8fa00246a60fe32963ea4fb643acdc2281e3aabf9ea658698361ef",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/pistol/pistol14.ndfmesh",
+      "sourceSha256": "fa6bd2e84bca763e66bd25e586cfde5b4d20327e9975d4a6fe05a84faad3ac59",
+      "outputSha256": "fa6bd2e84bca763e66bd25e586cfde5b4d20327e9975d4a6fe05a84faad3ac59",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/pistol/pistol15.ndfmesh",
+      "sourceSha256": "511abfcc3dbf578839828a5afcc51ba6310b21346215ce9928acd0462805f118",
+      "outputSha256": "511abfcc3dbf578839828a5afcc51ba6310b21346215ce9928acd0462805f118",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/pistol/pistol16.ndfmesh",
+      "sourceSha256": "7dc122acd08a189b266377addcf9217be5def529077f97e5ea2a8e35a0adf7bc",
+      "outputSha256": "7dc122acd08a189b266377addcf9217be5def529077f97e5ea2a8e35a0adf7bc",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/pistol/pistol17.ndfmesh",
+      "sourceSha256": "ac7ff29bf56e0a00aa27b19df7dfe4ef68be5570fc693dc2e11d7bf8d9040780",
+      "outputSha256": "ac7ff29bf56e0a00aa27b19df7dfe4ef68be5570fc693dc2e11d7bf8d9040780",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/pistol/pistol18.ndfmesh",
+      "sourceSha256": "5e7537c5345b0c18a7d803942b5ea80ba983245fb8f14cd64e95c423b1904841",
+      "outputSha256": "5e7537c5345b0c18a7d803942b5ea80ba983245fb8f14cd64e95c423b1904841",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/pistol/pistol19.ndfmesh",
+      "sourceSha256": "477ef59cde481ccebdbe3a9ad6e26f9675ac110f37e6f7b8838a3170900a2ba4",
+      "outputSha256": "477ef59cde481ccebdbe3a9ad6e26f9675ac110f37e6f7b8838a3170900a2ba4",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/pistol/pistol20.ndfmesh",
+      "sourceSha256": "eff0062ac8c8760e656c41daabdef12b8648351735d2c8672d6b8f4783b91164",
+      "outputSha256": "eff0062ac8c8760e656c41daabdef12b8648351735d2c8672d6b8f4783b91164",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/pistol/pistol_bowgun.ndfmesh",
+      "sourceSha256": "47abe0d362a510819df273ae222bf55dfcf7a4c9c1aeeb54067c6fe467ea9c89",
+      "outputSha256": "47abe0d362a510819df273ae222bf55dfcf7a4c9c1aeeb54067c6fe467ea9c89",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/pistol/pistol_brazil.ndfmesh",
+      "sourceSha256": "3f5de240f82de467b2d7b6f553254791d49cd986bf2cd90c83ff4e7733214abb",
+      "outputSha256": "3f5de240f82de467b2d7b6f553254791d49cd986bf2cd90c83ff4e7733214abb",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/pistol/pistol_cru.ndfmesh",
+      "sourceSha256": "16144e771efa5447194aa1ac956512a2ae43bcc0efec1a9e10e0ece098e0c782",
+      "outputSha256": "16144e771efa5447194aa1ac956512a2ae43bcc0efec1a9e10e0ece098e0c782",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/pistol/smg01.ndfmesh",
+      "sourceSha256": "007c97f29875af76f50f0c71f71afc533d3e528c20aa710409e4cc01e135028a",
+      "outputSha256": "007c97f29875af76f50f0c71f71afc533d3e528c20aa710409e4cc01e135028a",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/pistol/smg02.ndfmesh",
+      "sourceSha256": "720b6a9dfd4b3dc56b95103b796f6aceb51cef7b492af9ca82dc2ef9e304f623",
+      "outputSha256": "720b6a9dfd4b3dc56b95103b796f6aceb51cef7b492af9ca82dc2ef9e304f623",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/pistol/smg03.ndfmesh",
+      "sourceSha256": "cb6b51ea3642be23ab0d5ef10d25a65ff7307aa5daa5331d074ca2f691e0a5a3",
+      "outputSha256": "cb6b51ea3642be23ab0d5ef10d25a65ff7307aa5daa5331d074ca2f691e0a5a3",
+      "convertedTextures": 0,
+      "ddsTextures": 4,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Model/weapon/pistol/smg04.ndfmesh",
+      "sourceSha256": "083f98f0db64f331a4f156ffb29d463fbaf20e04532f95f11d9ea65904cfcc77",
+      "outputSha256": "083f98f0db64f331a4f156ffb29d463fbaf20e04532f95f11d9ea65904cfcc77",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/pistol/smg05.ndfmesh",
+      "sourceSha256": "61d14ea4d62e42d6adbb3244f6eb206509c36addab305866f94f99fa200c9fac",
+      "outputSha256": "61d14ea4d62e42d6adbb3244f6eb206509c36addab305866f94f99fa200c9fac",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/pistol/smg06.ndfmesh",
+      "sourceSha256": "a3b824685386d47405d66b60c8f50e7f8c0c896bdd3b0737f56c2ed57310dc04",
+      "outputSha256": "a3b824685386d47405d66b60c8f50e7f8c0c896bdd3b0737f56c2ed57310dc04",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/pistol/smg07.ndfmesh",
+      "sourceSha256": "ad8e54f738ccf4e86c6b45320b25533c70c273ff83fa9b865797806c00fa8ff7",
+      "outputSha256": "ad8e54f738ccf4e86c6b45320b25533c70c273ff83fa9b865797806c00fa8ff7",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/pistol/smg08.ndfmesh",
+      "sourceSha256": "ce5eb66b16582756c601d50ed07c5784c1df5db9c3e6817fe3b91aa9f27d95e5",
+      "outputSha256": "ce5eb66b16582756c601d50ed07c5784c1df5db9c3e6817fe3b91aa9f27d95e5",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/pistol/smg09.ndfmesh",
+      "sourceSha256": "0a06bef3279b4e173b080be7dcadd130ea0e198c921c0a9eae1f2a2984ad210c",
+      "outputSha256": "0a06bef3279b4e173b080be7dcadd130ea0e198c921c0a9eae1f2a2984ad210c",
+      "convertedTextures": 0,
+      "ddsTextures": 4,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Model/weapon/pistol/smg10.ndfmesh",
+      "sourceSha256": "d226a696f1d2ea5ec8ae162ff7d66d0f88044871c3bc944487fac33dbf5aa7a2",
+      "outputSha256": "d226a696f1d2ea5ec8ae162ff7d66d0f88044871c3bc944487fac33dbf5aa7a2",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/pistol/smg11.ndfmesh",
+      "sourceSha256": "ebcdea665c0bb5a35eb6dc5544e4f18378649a5c062a2945921ebda591479aa1",
+      "outputSha256": "ebcdea665c0bb5a35eb6dc5544e4f18378649a5c062a2945921ebda591479aa1",
+      "convertedTextures": 0,
+      "ddsTextures": 4,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Model/weapon/pistol/smg_nailgun.ndfmesh",
+      "sourceSha256": "2c791e4f518317413aaf158b422bbe96b3ad0ce38ce709bfca6fbccbb44facf4",
+      "outputSha256": "2c791e4f518317413aaf158b422bbe96b3ad0ce38ce709bfca6fbccbb44facf4",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/Queen/redqueen2it.ndfmesh",
+      "sourceSha256": "17ae92bbd37e71cbb26e117910ed9fdd645701972634783bb1f32653ce2571a1",
+      "outputSha256": "17ae92bbd37e71cbb26e117910ed9fdd645701972634783bb1f32653ce2571a1",
+      "convertedTextures": 0,
+      "ddsTextures": 0,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/rifle/as rifle01.ndfmesh",
+      "sourceSha256": "688df8c62590d0ae4204bc628e05413da89d2621432d9215cf6c391ece17b765",
+      "outputSha256": "688df8c62590d0ae4204bc628e05413da89d2621432d9215cf6c391ece17b765",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/rifle/as rifle02.ndfmesh",
+      "sourceSha256": "f3fb3e52107e38af435659387f66a0c0834c09b48c2774537227ba412f75e66c",
+      "outputSha256": "f3fb3e52107e38af435659387f66a0c0834c09b48c2774537227ba412f75e66c",
+      "convertedTextures": 0,
+      "ddsTextures": 4,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Model/weapon/rifle/as rifle03.ndfmesh",
+      "sourceSha256": "6668b3e4a2d057d8129454a6e35f97cda5217b3ddae79de4147e5c0f3b78a0a5",
+      "outputSha256": "6668b3e4a2d057d8129454a6e35f97cda5217b3ddae79de4147e5c0f3b78a0a5",
+      "convertedTextures": 0,
+      "ddsTextures": 4,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Model/weapon/rifle/as rifle04.ndfmesh",
+      "sourceSha256": "c4cf3dadd1d79e00c14d3ced0d7966b07b0cee4d8e53d9853ca443e111bdeb22",
+      "outputSha256": "c4cf3dadd1d79e00c14d3ced0d7966b07b0cee4d8e53d9853ca443e111bdeb22",
+      "convertedTextures": 0,
+      "ddsTextures": 4,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Model/weapon/rifle/rifle01.ndfmesh",
+      "sourceSha256": "e8fb0e7e9816f4aa5a4e9deba5558f56a8f6c8492caa51464d85af660f526bab",
+      "outputSha256": "e8fb0e7e9816f4aa5a4e9deba5558f56a8f6c8492caa51464d85af660f526bab",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/rifle/rifle02.ndfmesh",
+      "sourceSha256": "30052a5fc74fadefa0ad035baa9ccec068482e1c6ceb76b7e1207c5f5f4a6645",
+      "outputSha256": "30052a5fc74fadefa0ad035baa9ccec068482e1c6ceb76b7e1207c5f5f4a6645",
+      "convertedTextures": 0,
+      "ddsTextures": 4,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Model/weapon/rifle/rifle03.ndfmesh",
+      "sourceSha256": "fef4333dea840d73fc3e5cd8f8f1a18b7f0bc9cb0a4fbf1ae3b7b9885006c4df",
+      "outputSha256": "fef4333dea840d73fc3e5cd8f8f1a18b7f0bc9cb0a4fbf1ae3b7b9885006c4df",
+      "convertedTextures": 0,
+      "ddsTextures": 5,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/rifle/rifle04.ndfmesh",
+      "sourceSha256": "338d0a22db350a9da61658457742a17ae5d8689a46e6045e9afe80287b43a36b",
+      "outputSha256": "338d0a22db350a9da61658457742a17ae5d8689a46e6045e9afe80287b43a36b",
+      "convertedTextures": 0,
+      "ddsTextures": 6,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/rifle/rifle05.ndfmesh",
+      "sourceSha256": "ade4c5bd07de0ab36dd611f4bc8fda87eedfc2b521b26155c2d631b4e24c0eea",
+      "outputSha256": "ade4c5bd07de0ab36dd611f4bc8fda87eedfc2b521b26155c2d631b4e24c0eea",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/rifle/rifle06.ndfmesh",
+      "sourceSha256": "27f3699807370b267d523d1800fc0a94f6a080b4ec547ac638e5a3dd083550d1",
+      "outputSha256": "27f3699807370b267d523d1800fc0a94f6a080b4ec547ac638e5a3dd083550d1",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/rifle/rifle07.ndfmesh",
+      "sourceSha256": "f34a0c1095f675e240364731f730630dec1e02b4d90f3e17aeb29302dfaba6b6",
+      "outputSha256": "f34a0c1095f675e240364731f730630dec1e02b4d90f3e17aeb29302dfaba6b6",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/rifle/rifle08.ndfmesh",
+      "sourceSha256": "ea19e98963da31999fa8ebf7f000d3fce112177b7e4330ab05f23c0d8c659fdd",
+      "outputSha256": "ea19e98963da31999fa8ebf7f000d3fce112177b7e4330ab05f23c0d8c659fdd",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/rifle/rifle09.ndfmesh",
+      "sourceSha256": "bc6ef6a600fcb7a90783eb1d4b382d9881e1329c54f1ebdc78a26b8b30074a2f",
+      "outputSha256": "bc6ef6a600fcb7a90783eb1d4b382d9881e1329c54f1ebdc78a26b8b30074a2f",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/rifle/rifle10.ndfmesh",
+      "sourceSha256": "d4cf0585b8575e1f5fa00be51d3914db146ecb5b9d91d727d3ae06890eb2984b",
+      "outputSha256": "d4cf0585b8575e1f5fa00be51d3914db146ecb5b9d91d727d3ae06890eb2984b",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/rifle/rifle11.ndfmesh",
+      "sourceSha256": "f74150a8a52576957e524552648b28cbd8eb1b73c4cd189f5006d7db7bf59de4",
+      "outputSha256": "f74150a8a52576957e524552648b28cbd8eb1b73c4cd189f5006d7db7bf59de4",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/rifle/rifle16.ndfmesh",
+      "sourceSha256": "98bcb1905ed02d96534e518463515a7f4980a91e1b255ca17791f069e0da22c3",
+      "outputSha256": "98bcb1905ed02d96534e518463515a7f4980a91e1b255ca17791f069e0da22c3",
+      "convertedTextures": 0,
+      "ddsTextures": 4,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Model/weapon/rifle/rifle17.ndfmesh",
+      "sourceSha256": "b440ec92f57d574a93cef491bc1f0523b32893c534a7e4ca11d938c0a8cc62d9",
+      "outputSha256": "b440ec92f57d574a93cef491bc1f0523b32893c534a7e4ca11d938c0a8cc62d9",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/rocketlauncher/rl01.ndfmesh",
+      "sourceSha256": "874cb91c92a815eee55c21b0f6dc0832eb4a9c9fb6f61e367f9c39ee773622ed",
+      "outputSha256": "874cb91c92a815eee55c21b0f6dc0832eb4a9c9fb6f61e367f9c39ee773622ed",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/rocketlauncher/rl02.ndfmesh",
+      "sourceSha256": "6c4578453d79fc37f5e9311c0e46ff79416c0df266090f04ac28f1b1e4250100",
+      "outputSha256": "6c4578453d79fc37f5e9311c0e46ff79416c0df266090f04ac28f1b1e4250100",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/rocketlauncher/rl03.ndfmesh",
+      "sourceSha256": "b3c2a9cfa1465b73cd07d48cc24c22fbc1094c3db4b3372e2acfd4227039c901",
+      "outputSha256": "b3c2a9cfa1465b73cd07d48cc24c22fbc1094c3db4b3372e2acfd4227039c901",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/rocketlauncher/rl04.ndfmesh",
+      "sourceSha256": "2749da916db59b91c706bb1c215d817c769053357a750cfc1ccefddf44e486f3",
+      "outputSha256": "2749da916db59b91c706bb1c215d817c769053357a750cfc1ccefddf44e486f3",
+      "convertedTextures": 0,
+      "ddsTextures": 3,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/rocketlauncher/rl05.ndfmesh",
+      "sourceSha256": "4604f7311a64e6adfcfbc81a89701e7ba9e6ce331bac4c0613d9dace3e1155e4",
+      "outputSha256": "4604f7311a64e6adfcfbc81a89701e7ba9e6ce331bac4c0613d9dace3e1155e4",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/rocketlauncher/rl06.ndfmesh",
+      "sourceSha256": "2482fceb6de997f7f9f6836a9be2b4c494fcacaf764daa9dadc4ce690da28b2e",
+      "outputSha256": "2482fceb6de997f7f9f6836a9be2b4c494fcacaf764daa9dadc4ce690da28b2e",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/rocketlauncher/rl07.ndfmesh",
+      "sourceSha256": "084345a131cfab7bc043f9384d3aea4915b3e602d57588b94adb2d1db5b858fb",
+      "outputSha256": "084345a131cfab7bc043f9384d3aea4915b3e602d57588b94adb2d1db5b858fb",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/rocketlauncher/rl_ck1.ndfmesh",
+      "sourceSha256": "bfb630cf78e4d15cd9a0e56f59df07970afb61e7e11d4af72549ba76ccb933b4",
+      "outputSha256": "bfb630cf78e4d15cd9a0e56f59df07970afb61e7e11d4af72549ba76ccb933b4",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/rocketlauncher/rl_shark.ndfmesh",
+      "sourceSha256": "792697c0422b11425c5d0855f0ead2cce9ee09aa2d64bfe151d4f9034475ff36",
+      "outputSha256": "792697c0422b11425c5d0855f0ead2cce9ee09aa2d64bfe151d4f9034475ff36",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/rocketlauncher/rocket.ndfmesh",
+      "sourceSha256": "838f04affe827c969504694193e503daff416bbf3c31f4a59d1d04788555d4e2",
+      "outputSha256": "838f04affe827c969504694193e503daff416bbf3c31f4a59d1d04788555d4e2",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/rocketlauncher/woman_bazooka.ndfmesh",
+      "sourceSha256": "24597e2a5d4859927c0048ea55df68c9a957c92cf4b3ca437c0d4b48b4fdd062",
+      "outputSha256": "24597e2a5d4859927c0048ea55df68c9a957c92cf4b3ca437c0d4b48b4fdd062",
+      "convertedTextures": 0,
+      "ddsTextures": 6,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/shotgun/doube_barrel_long.ndfmesh",
+      "sourceSha256": "73d28736ed05c7629f8ab7b22b88bf44a3fd5519466949761f86bca7593cb419",
+      "outputSha256": "73d28736ed05c7629f8ab7b22b88bf44a3fd5519466949761f86bca7593cb419",
+      "convertedTextures": 0,
+      "ddsTextures": 7,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/shotgun/doube_barrel_short.ndfmesh",
+      "sourceSha256": "fbab38d8d2553c0bf2907715d21889dade2ffbe2af43714d876602684cf9e21e",
+      "outputSha256": "fbab38d8d2553c0bf2907715d21889dade2ffbe2af43714d876602684cf9e21e",
+      "convertedTextures": 0,
+      "ddsTextures": 9,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/shotgun/machinegun01.ndfmesh",
+      "sourceSha256": "69eef179699dce6ef5c7e95cb2ab76e9634200ba074f809c6f2632819bae67b5",
+      "outputSha256": "69eef179699dce6ef5c7e95cb2ab76e9634200ba074f809c6f2632819bae67b5",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/shotgun/machinegun02.ndfmesh",
+      "sourceSha256": "64ae669727591e678cc159c91f24f44c5d2d93bac82ed8c41d43bd9843bbec95",
+      "outputSha256": "64ae669727591e678cc159c91f24f44c5d2d93bac82ed8c41d43bd9843bbec95",
+      "convertedTextures": 0,
+      "ddsTextures": 6,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/shotgun/machinegun03.ndfmesh",
+      "sourceSha256": "6a8354df94e7c43e4ff2589a7e16f013716c974e261383fc726a387c5db44883",
+      "outputSha256": "6a8354df94e7c43e4ff2589a7e16f013716c974e261383fc726a387c5db44883",
+      "convertedTextures": 0,
+      "ddsTextures": 6,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/shotgun/machinegun04.ndfmesh",
+      "sourceSha256": "87ee90167f0c02d45dd1442ab755b5319c1b687bf4956ed98ec68ecb085acf95",
+      "outputSha256": "87ee90167f0c02d45dd1442ab755b5319c1b687bf4956ed98ec68ecb085acf95",
+      "convertedTextures": 0,
+      "ddsTextures": 6,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/shotgun/machinegun05.ndfmesh",
+      "sourceSha256": "4ce3ee0e21d265e0f4324a904b9522928c7e9defa87c979e6a8145cf04e6b87f",
+      "outputSha256": "4ce3ee0e21d265e0f4324a904b9522928c7e9defa87c979e6a8145cf04e6b87f",
+      "convertedTextures": 0,
+      "ddsTextures": 4,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Model/weapon/shotgun/machinegun06.ndfmesh",
+      "sourceSha256": "06c2d49aaae3eed66291ad65edd52cb821c8d6dcda812f901187690731db3f14",
+      "outputSha256": "06c2d49aaae3eed66291ad65edd52cb821c8d6dcda812f901187690731db3f14",
+      "convertedTextures": 0,
+      "ddsTextures": 6,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/shotgun/pump_shotgun.ndfmesh",
+      "sourceSha256": "1bf6b5931bf76f855a26d9c0fdd22f36b86245f90f56239b0591368bef2bd365",
+      "outputSha256": "1bf6b5931bf76f855a26d9c0fdd22f36b86245f90f56239b0591368bef2bd365",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/shotgun/shotgun01.ndfmesh",
+      "sourceSha256": "f22e4b6db23ed314c13b92fed878655f477b0b2857c19e690f4f17bf3d1b7e4d",
+      "outputSha256": "f22e4b6db23ed314c13b92fed878655f477b0b2857c19e690f4f17bf3d1b7e4d",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/shotgun/shotgun02.ndfmesh",
+      "sourceSha256": "c9a87d45830c5ee523a655491e3e1ce7fc73b5b7f352476026a053d648a87564",
+      "outputSha256": "c9a87d45830c5ee523a655491e3e1ce7fc73b5b7f352476026a053d648a87564",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/shotgun/shotgun03.ndfmesh",
+      "sourceSha256": "9ac3fd4acbf44e2971d2d18a350b576c0fcabdf8d64e5a6b9e7e180bd2bdcd42",
+      "outputSha256": "9ac3fd4acbf44e2971d2d18a350b576c0fcabdf8d64e5a6b9e7e180bd2bdcd42",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/shotgun/shotgun04.ndfmesh",
+      "sourceSha256": "32647419a52887be965f2ec413b189b170601118113cbaf72fa4e4df9974d685",
+      "outputSha256": "32647419a52887be965f2ec413b189b170601118113cbaf72fa4e4df9974d685",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/shotgun/shotgun05.ndfmesh",
+      "sourceSha256": "ee9e3dc1791d1821733e46455dffbc521f8ee1cedec6fef1e9818a957176feb6",
+      "outputSha256": "ee9e3dc1791d1821733e46455dffbc521f8ee1cedec6fef1e9818a957176feb6",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/shotgun/shotgun06.ndfmesh",
+      "sourceSha256": "c6dbe99ecf5dd4aff2f216b4b9f4149276908cf47edb1235c534dc2b6d462235",
+      "outputSha256": "c6dbe99ecf5dd4aff2f216b4b9f4149276908cf47edb1235c534dc2b6d462235",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/shotgun/shotgun07.ndfmesh",
+      "sourceSha256": "c2a850c512bab3591ceec911d66024a793e6b38807583875b32f184cb5b7917c",
+      "outputSha256": "c2a850c512bab3591ceec911d66024a793e6b38807583875b32f184cb5b7917c",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/shotgun/shotgun08.ndfmesh",
+      "sourceSha256": "e9f7f2ce73e9dcd27f3286331e478425485ef235ec6accd1e11988b6210950df",
+      "outputSha256": "e9f7f2ce73e9dcd27f3286331e478425485ef235ec6accd1e11988b6210950df",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/shotgun/shotgun09.ndfmesh",
+      "sourceSha256": "7785c9236d33aa341733b0c9196701d3a4da49944f3cdf08b67ca7a3809de9a4",
+      "outputSha256": "7785c9236d33aa341733b0c9196701d3a4da49944f3cdf08b67ca7a3809de9a4",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/shotgun/shotgun10.ndfmesh",
+      "sourceSha256": "1146808cffae3e15b33d557b81f389359bde2aa4609192a2107b5ed798ed7515",
+      "outputSha256": "1146808cffae3e15b33d557b81f389359bde2aa4609192a2107b5ed798ed7515",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/shotgun/shotgun10_1.ndfmesh",
+      "sourceSha256": "ea68ffe3f811ad7af40e31d48f6f5031914c1087bf2480d378e5e7c5effbec57",
+      "outputSha256": "ea68ffe3f811ad7af40e31d48f6f5031914c1087bf2480d378e5e7c5effbec57",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/shotgun/shotgun11.ndfmesh",
+      "sourceSha256": "bf944205708751c5477528b470713cbe56e7d7b621e7cad90cbf25bafdc143c6",
+      "outputSha256": "bf944205708751c5477528b470713cbe56e7d7b621e7cad90cbf25bafdc143c6",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/weapon/shotgun/shotgun_long.ndfmesh",
+      "sourceSha256": "28e0e741822d31a353f80e319433a195051348f539fe453281908f7d059cbaa5",
+      "outputSha256": "28e0e741822d31a353f80e319433a195051348f539fe453281908f7d059cbaa5",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/shotgun/shotgun_long_red.ndfmesh",
+      "sourceSha256": "84847a23b62aea4396a48c3352ec0847bc4c67d953832392cf0eb55e15f87f60",
+      "outputSha256": "84847a23b62aea4396a48c3352ec0847bc4c67d953832392cf0eb55e15f87f60",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/weapon/sword/sword_wood.ndfmesh",
+      "sourceSha256": "cea7589fc49e3b7d67b3b24278b6a7cea08941adff044fa1e9ee325aeb7c07ef",
+      "outputSha256": "cea7589fc49e3b7d67b3b24278b6a7cea08941adff044fa1e9ee325aeb7c07ef",
+      "convertedTextures": 0,
+      "ddsTextures": 1,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts01.ndfmesh",
+      "sourceSha256": "486458917a5abf6a6f9b2d663d13ab559d11c2619a646e1ef9ad057b2967e41c",
+      "outputSha256": "486458917a5abf6a6f9b2d663d13ab559d11c2619a646e1ef9ad057b2967e41c",
+      "convertedTextures": 0,
+      "ddsTextures": 79,
+      "emptyMaterials": 11
+    },
+    {
+      "path": "Model/woman/woman-parts02.ndfmesh",
+      "sourceSha256": "6ab3cbadd54dcca7076aa02d5a6d0822203bea702d958d9386a810d4615fa7f1",
+      "outputSha256": "6ab3cbadd54dcca7076aa02d5a6d0822203bea702d958d9386a810d4615fa7f1",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts03.ndfmesh",
+      "sourceSha256": "45958dd2501fd94413ac30e9633342ac0786f6e07dd19791c34a12895de5f2a8",
+      "outputSha256": "45958dd2501fd94413ac30e9633342ac0786f6e07dd19791c34a12895de5f2a8",
+      "convertedTextures": 0,
+      "ddsTextures": 34,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts04.ndfmesh",
+      "sourceSha256": "b2700895c03389ca9652d3789f46972658695c828455318ef9b632d94b40ed58",
+      "outputSha256": "b2700895c03389ca9652d3789f46972658695c828455318ef9b632d94b40ed58",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts05.ndfmesh",
+      "sourceSha256": "2182146579c4651fd6a54cbcd39c8f575914eb03ddc5ef93c7ac79fa14d75ad7",
+      "outputSha256": "2182146579c4651fd6a54cbcd39c8f575914eb03ddc5ef93c7ac79fa14d75ad7",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts06.ndfmesh",
+      "sourceSha256": "2ff150a2d9a83f77838e86cee096e61fe53618a789dc3e443f99d8bbee0b46c9",
+      "outputSha256": "2ff150a2d9a83f77838e86cee096e61fe53618a789dc3e443f99d8bbee0b46c9",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts07.ndfmesh",
+      "sourceSha256": "9c2ec66caa48b241282417e40e9bc43742d4f6958e21a9b3237c7f4bf0954624",
+      "outputSha256": "9c2ec66caa48b241282417e40e9bc43742d4f6958e21a9b3237c7f4bf0954624",
+      "convertedTextures": 0,
+      "ddsTextures": 39,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts07_1.ndfmesh",
+      "sourceSha256": "9ffc8dc0563a3fefc1af999878a28a065d60cd92c5d2d03421158e54f53c0feb",
+      "outputSha256": "9ffc8dc0563a3fefc1af999878a28a065d60cd92c5d2d03421158e54f53c0feb",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts08.ndfmesh",
+      "sourceSha256": "73998223ca1c2e18a67c8d8d81f094e1bf40e6040899841eb46941d4047a272a",
+      "outputSha256": "73998223ca1c2e18a67c8d8d81f094e1bf40e6040899841eb46941d4047a272a",
+      "convertedTextures": 0,
+      "ddsTextures": 39,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts09.ndfmesh",
+      "sourceSha256": "d534e0a4e2a99daf0f1878b9b1ca1651c28b07dd5102e17246b5f7f07b26cd7f",
+      "outputSha256": "d534e0a4e2a99daf0f1878b9b1ca1651c28b07dd5102e17246b5f7f07b26cd7f",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts10.ndfmesh",
+      "sourceSha256": "7be7079f890cdf091838bc9b90fafbb4fdbd4d143b7c8847ddba44a511edb824",
+      "outputSha256": "7be7079f890cdf091838bc9b90fafbb4fdbd4d143b7c8847ddba44a511edb824",
+      "convertedTextures": 0,
+      "ddsTextures": 39,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts11.ndfmesh",
+      "sourceSha256": "391535780b309dc2c2a8d0d48b91439a187fc82a22b440fb353617675ef1ba05",
+      "outputSha256": "391535780b309dc2c2a8d0d48b91439a187fc82a22b440fb353617675ef1ba05",
+      "convertedTextures": 0,
+      "ddsTextures": 40,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts12.ndfmesh",
+      "sourceSha256": "ce0652e4753f7780ba2965801fb36cf302462bc452cc5d99a6c2b8d8ab7bb2ca",
+      "outputSha256": "ce0652e4753f7780ba2965801fb36cf302462bc452cc5d99a6c2b8d8ab7bb2ca",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts13.ndfmesh",
+      "sourceSha256": "a4990b6127009c0b13579c111e279f44865eeebc4a4b08e0bb4b38e1b84a56c0",
+      "outputSha256": "a4990b6127009c0b13579c111e279f44865eeebc4a4b08e0bb4b38e1b84a56c0",
+      "convertedTextures": 0,
+      "ddsTextures": 39,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts14.ndfmesh",
+      "sourceSha256": "f145142c8b7314cf543cb7147368116ab3e4a62f743f18fd8d63bc5cf90b1d40",
+      "outputSha256": "f145142c8b7314cf543cb7147368116ab3e4a62f743f18fd8d63bc5cf90b1d40",
+      "convertedTextures": 0,
+      "ddsTextures": 41,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts15.ndfmesh",
+      "sourceSha256": "8aa7e722b5cb89efbb4ed3df6dd810a17901f005837a6b3e993149814db3cb11",
+      "outputSha256": "8aa7e722b5cb89efbb4ed3df6dd810a17901f005837a6b3e993149814db3cb11",
+      "convertedTextures": 0,
+      "ddsTextures": 34,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts16.ndfmesh",
+      "sourceSha256": "7df1ec98c67de8897a537174af3f57be6b2a36f8edef5d051ca951b32647a6b7",
+      "outputSha256": "7df1ec98c67de8897a537174af3f57be6b2a36f8edef5d051ca951b32647a6b7",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts17.ndfmesh",
+      "sourceSha256": "7373ce6bb5523715f7881ab541b81b77d7f890828a8c8f025e6da6b52eae2f92",
+      "outputSha256": "7373ce6bb5523715f7881ab541b81b77d7f890828a8c8f025e6da6b52eae2f92",
+      "convertedTextures": 0,
+      "ddsTextures": 41,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts18.ndfmesh",
+      "sourceSha256": "132d2f80d117980317efc4f786fc0347a13eed6fb8832fdbba280768fbf4bc20",
+      "outputSha256": "132d2f80d117980317efc4f786fc0347a13eed6fb8832fdbba280768fbf4bc20",
+      "convertedTextures": 0,
+      "ddsTextures": 39,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts20.ndfmesh",
+      "sourceSha256": "dde9ad95d320dda32e7ab58a0b87b3c86941319917ab47a3741fc0405ea2b1d7",
+      "outputSha256": "dde9ad95d320dda32e7ab58a0b87b3c86941319917ab47a3741fc0405ea2b1d7",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts21.ndfmesh",
+      "sourceSha256": "7d3c304265504935721319e24fb2894593a2dee5af273b2344e120bc7a44b65d",
+      "outputSha256": "7d3c304265504935721319e24fb2894593a2dee5af273b2344e120bc7a44b65d",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts22.ndfmesh",
+      "sourceSha256": "07007bc423990ba1b9d96f9c03092438507a333f8b3f94a242ad43028dd4a2e0",
+      "outputSha256": "07007bc423990ba1b9d96f9c03092438507a333f8b3f94a242ad43028dd4a2e0",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts23.ndfmesh",
+      "sourceSha256": "11c526dccb612196b19ed2bdc477727e307567d90c02800d160b1124240608ac",
+      "outputSha256": "11c526dccb612196b19ed2bdc477727e307567d90c02800d160b1124240608ac",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts24.ndfmesh",
+      "sourceSha256": "a67817ad8c4a42590a74c2fd389f235779d0ae4c79a2687f205e0a85357b5610",
+      "outputSha256": "a67817ad8c4a42590a74c2fd389f235779d0ae4c79a2687f205e0a85357b5610",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts25.ndfmesh",
+      "sourceSha256": "bc294c5f975d9de4a970c679bff6e1d74d1628b157264151ee4351f0d030fe12",
+      "outputSha256": "bc294c5f975d9de4a970c679bff6e1d74d1628b157264151ee4351f0d030fe12",
+      "convertedTextures": 0,
+      "ddsTextures": 42,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts26.ndfmesh",
+      "sourceSha256": "9c8f972c45d47854bf887f03ef2707d90cfd48d5621d76b5961a856d8f807ffc",
+      "outputSha256": "9c8f972c45d47854bf887f03ef2707d90cfd48d5621d76b5961a856d8f807ffc",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts27.ndfmesh",
+      "sourceSha256": "2ca91d8d91f2bc99495feaf8f9985ad72df758a172fa84fb43a2eb6e6ab88363",
+      "outputSha256": "2ca91d8d91f2bc99495feaf8f9985ad72df758a172fa84fb43a2eb6e6ab88363",
+      "convertedTextures": 0,
+      "ddsTextures": 41,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts28.ndfmesh",
+      "sourceSha256": "509084b3912c569d940986f5ebd5aef61437417aa40d5908efddeffc6e99bfbb",
+      "outputSha256": "509084b3912c569d940986f5ebd5aef61437417aa40d5908efddeffc6e99bfbb",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts29.ndfmesh",
+      "sourceSha256": "18a4328f594b5a88147697a9e975afe7f545e3512c3b6dcdafb0c7e8c6fab041",
+      "outputSha256": "18a4328f594b5a88147697a9e975afe7f545e3512c3b6dcdafb0c7e8c6fab041",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts30.ndfmesh",
+      "sourceSha256": "9f7f9f0b1f7a4cfe562642cde2f4665a7cd3738056340dc3746f338466bcf2c4",
+      "outputSha256": "9f7f9f0b1f7a4cfe562642cde2f4665a7cd3738056340dc3746f338466bcf2c4",
+      "convertedTextures": 0,
+      "ddsTextures": 39,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts31.ndfmesh",
+      "sourceSha256": "488c89f991330867913fca60a3d018861e4f28fbb905e6094221976e5a649b0a",
+      "outputSha256": "488c89f991330867913fca60a3d018861e4f28fbb905e6094221976e5a649b0a",
+      "convertedTextures": 0,
+      "ddsTextures": 40,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts32.ndfmesh",
+      "sourceSha256": "75757208621f5b6fb7247e16658f2bebecaa6a55026982e9f1d60c4fa61b3361",
+      "outputSha256": "75757208621f5b6fb7247e16658f2bebecaa6a55026982e9f1d60c4fa61b3361",
+      "convertedTextures": 0,
+      "ddsTextures": 39,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts33.ndfmesh",
+      "sourceSha256": "2055d1b116e764433463c6bd9fee07971449b353964cacdd2c610ec002f2d06f",
+      "outputSha256": "2055d1b116e764433463c6bd9fee07971449b353964cacdd2c610ec002f2d06f",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts34.ndfmesh",
+      "sourceSha256": "d354ad5d22f700bacf39d4e16521b8af86071e75be819d989d43c753e590d9c2",
+      "outputSha256": "d354ad5d22f700bacf39d4e16521b8af86071e75be819d989d43c753e590d9c2",
+      "convertedTextures": 0,
+      "ddsTextures": 39,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts35.ndfmesh",
+      "sourceSha256": "78fb9e7f2d65e5c515b88a6782ccfb5e478e567c73aa9131c856ba586ccfd6cf",
+      "outputSha256": "78fb9e7f2d65e5c515b88a6782ccfb5e478e567c73aa9131c856ba586ccfd6cf",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts36.ndfmesh",
+      "sourceSha256": "a05ad7738e9f1425621a4ec0ac08213d272996dff58a0e8115597c9566b10752",
+      "outputSha256": "a05ad7738e9f1425621a4ec0ac08213d272996dff58a0e8115597c9566b10752",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_angel.ndfmesh",
+      "sourceSha256": "8304dcc8f246534629de44da41cf725c8c0bec76811cb4074ee2e9d8655f1e2d",
+      "outputSha256": "8304dcc8f246534629de44da41cf725c8c0bec76811cb4074ee2e9d8655f1e2d",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_assassin.ndfmesh",
+      "sourceSha256": "3e70ee362713c6b5bab87b7a7114ac1f44ab1cffeb48632c749a4f10e018d26c",
+      "outputSha256": "3e70ee362713c6b5bab87b7a7114ac1f44ab1cffeb48632c749a4f10e018d26c",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_aura.ndfmesh",
+      "sourceSha256": "28cb7733a939abe2f711fe58956dd3f80f31e1225d2b07ba562f67d53e44d5b9",
+      "outputSha256": "28cb7733a939abe2f711fe58956dd3f80f31e1225d2b07ba562f67d53e44d5b9",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_axium_high.ndfmesh",
+      "sourceSha256": "724d811afdfaca4517dd72e3540c62d90e806f60e69bf328c57030e07254ea43",
+      "outputSha256": "724d811afdfaca4517dd72e3540c62d90e806f60e69bf328c57030e07254ea43",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_axium_uniform.ndfmesh",
+      "sourceSha256": "2a46237c9d49174091968e7e8f8df0f9c49dc1c745b1291c6a2e4a0ca235d0f1",
+      "outputSha256": "2a46237c9d49174091968e7e8f8df0f9c49dc1c745b1291c6a2e4a0ca235d0f1",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_blackdragon.ndfmesh",
+      "sourceSha256": "7b145e89d6dfa7b64a18549bae3df295de0ed615715d1bd3a005b25d44da31d3",
+      "outputSha256": "7b145e89d6dfa7b64a18549bae3df295de0ed615715d1bd3a005b25d44da31d3",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_cat.ndfmesh",
+      "sourceSha256": "2cff364968b9daed3b186f02834ef5144c5c2c4b34ae5624d81f982ad5ac6a39",
+      "outputSha256": "2cff364968b9daed3b186f02834ef5144c5c2c4b34ae5624d81f982ad5ac6a39",
+      "convertedTextures": 0,
+      "ddsTextures": 30,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_clanmaster.ndfmesh",
+      "sourceSha256": "2a24e6042d4f5d0d7d8de6c09fcaeab5cdfb81b705bc1e6b45d0a4a54e5b0755",
+      "outputSha256": "2a24e6042d4f5d0d7d8de6c09fcaeab5cdfb81b705bc1e6b45d0a4a54e5b0755",
+      "convertedTextures": 0,
+      "ddsTextures": 30,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_crown.ndfmesh",
+      "sourceSha256": "706b615bfa872186caf86c859e369b870ad88505a2160d97921d7a17c0b6c8b3",
+      "outputSha256": "706b615bfa872186caf86c859e369b870ad88505a2160d97921d7a17c0b6c8b3",
+      "convertedTextures": 0,
+      "ddsTextures": 30,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_crusader.ndfmesh",
+      "sourceSha256": "19167894941329906294e14300c16b87a23d74fbe39e7711e2cc0dba8973a5b0",
+      "outputSha256": "19167894941329906294e14300c16b87a23d74fbe39e7711e2cc0dba8973a5b0",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_designercoat.ndfmesh",
+      "sourceSha256": "2b57c79a42e43b87f72070608c913ad5387a7950b9c4892293d23e42ded089e1",
+      "outputSha256": "2b57c79a42e43b87f72070608c913ad5387a7950b9c4892293d23e42ded089e1",
+      "convertedTextures": 0,
+      "ddsTextures": 30,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_eola.ndfmesh",
+      "sourceSha256": "c63c62409b6370f427a0bcdcf5e85f8751ef4ceaa50b96d8dd516b110dda7cb7",
+      "outputSha256": "c63c62409b6370f427a0bcdcf5e85f8751ef4ceaa50b96d8dd516b110dda7cb7",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_event08.ndfmesh",
+      "sourceSha256": "21eb906d80d9c0f99d2caeba895e3e6a1f17934b263d7712186a181ea69fe2ed",
+      "outputSha256": "21eb906d80d9c0f99d2caeba895e3e6a1f17934b263d7712186a181ea69fe2ed",
+      "convertedTextures": 0,
+      "ddsTextures": 34,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_face.ndfmesh",
+      "sourceSha256": "f09e672b29bf17d993ce4e733fed7245b4e0f2e0a3f7d34854e3f169d4a6774f",
+      "outputSha256": "f09e672b29bf17d993ce4e733fed7245b4e0f2e0a3f7d34854e3f169d4a6774f",
+      "convertedTextures": 0,
+      "ddsTextures": 58,
+      "emptyMaterials": 2
+    },
+    {
+      "path": "Model/woman/woman-parts_fenrir.ndfmesh",
+      "sourceSha256": "ab5359d01feb0e2c91ec953f5e80d90ddf83f5d8870baffd6455ca6b0458ed67",
+      "outputSha256": "ab5359d01feb0e2c91ec953f5e80d90ddf83f5d8870baffd6455ca6b0458ed67",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_gm.ndfmesh",
+      "sourceSha256": "80e9f9f72eabde785ab9b80ba0afe165d44ea80183808f5d6832e9c6782d6101",
+      "outputSha256": "80e9f9f72eabde785ab9b80ba0afe165d44ea80183808f5d6832e9c6782d6101",
+      "convertedTextures": 0,
+      "ddsTextures": 30,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_guard.ndfmesh",
+      "sourceSha256": "a72c74a4f392172eae065658bda911469ae7cc2ec1cf415db7e7c0f0af0a6464",
+      "outputSha256": "a72c74a4f392172eae065658bda911469ae7cc2ec1cf415db7e7c0f0af0a6464",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_halem.ndfmesh",
+      "sourceSha256": "2d311cc3a457db4c9a21a842843b5c73c5c0ed2779c9aeffcf2d2993f4c8deb5",
+      "outputSha256": "2d311cc3a457db4c9a21a842843b5c73c5c0ed2779c9aeffcf2d2993f4c8deb5",
+      "convertedTextures": 0,
+      "ddsTextures": 42,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_hanbok.ndfmesh",
+      "sourceSha256": "eb9780a79e571838b47e2f58f586bb22feba040aa298ae8096736d85129f08fe",
+      "outputSha256": "eb9780a79e571838b47e2f58f586bb22feba040aa298ae8096736d85129f08fe",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_hat.ndfmesh",
+      "sourceSha256": "58f8a7ed13fc58b1a9024f327abd30b43231d41940b5f63a51101ff690474168",
+      "outputSha256": "58f8a7ed13fc58b1a9024f327abd30b43231d41940b5f63a51101ff690474168",
+      "convertedTextures": 0,
+      "ddsTextures": 33,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_heavy.ndfmesh",
+      "sourceSha256": "53302632747ce527c2a17f04b25578ed4f10a52f77ea8a38b78926a2a7da084a",
+      "outputSha256": "53302632747ce527c2a17f04b25578ed4f10a52f77ea8a38b78926a2a7da084a",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_jhunter.ndfmesh",
+      "sourceSha256": "abbba2fed634b2cb5f23449a19e636365a9d0bc0563a609f044fb48fc3e9fac2",
+      "outputSha256": "abbba2fed634b2cb5f23449a19e636365a9d0bc0563a609f044fb48fc3e9fac2",
+      "convertedTextures": 0,
+      "ddsTextures": 34,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_judge.ndfmesh",
+      "sourceSha256": "4e935c3384aea823f7f0f980355bc1ef85ecd57ece69ae6bfb8f9d0db9ebf8ee",
+      "outputSha256": "4e935c3384aea823f7f0f980355bc1ef85ecd57ece69ae6bfb8f9d0db9ebf8ee",
+      "convertedTextures": 0,
+      "ddsTextures": 2,
+      "emptyMaterials": 34
+    },
+    {
+      "path": "Model/woman/woman-parts_kungfu.ndfmesh",
+      "sourceSha256": "df869dd772cfc561dfc041e8d23f7edd82ee0dab73b94d683a77a4f12c062c53",
+      "outputSha256": "df869dd772cfc561dfc041e8d23f7edd82ee0dab73b94d683a77a4f12c062c53",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_magic.ndfmesh",
+      "sourceSha256": "5338c16fb1ad0335d5b3554d6c8c1aebcc1e35f3593a65351960827f2a5d0252",
+      "outputSha256": "5338c16fb1ad0335d5b3554d6c8c1aebcc1e35f3593a65351960827f2a5d0252",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_navy.ndfmesh",
+      "sourceSha256": "bbd2c54c98419c7ae28b7eafc57dc9c098389f460a4979ae79fdec04777376b5",
+      "outputSha256": "bbd2c54c98419c7ae28b7eafc57dc9c098389f460a4979ae79fdec04777376b5",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_ninja.ndfmesh",
+      "sourceSha256": "7d25e0b5af856e1d805b6fe0a8bc3c1dbf2def81910ebf6d6c24966e83f7b694",
+      "outputSha256": "7d25e0b5af856e1d805b6fe0a8bc3c1dbf2def81910ebf6d6c24966e83f7b694",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_noir.ndfmesh",
+      "sourceSha256": "fb113bfa270a9572e7d1f1d16da016ae325009970004900b73727590f92868f8",
+      "outputSha256": "fb113bfa270a9572e7d1f1d16da016ae325009970004900b73727590f92868f8",
+      "convertedTextures": 0,
+      "ddsTextures": 39,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_pirate.ndfmesh",
+      "sourceSha256": "1c200276d663615118ee7ec3dda79c4d6c69d96af792cfbd4ba84843f5bd8e46",
+      "outputSha256": "1c200276d663615118ee7ec3dda79c4d6c69d96af792cfbd4ba84843f5bd8e46",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_police.ndfmesh",
+      "sourceSha256": "536e87dfb65d77e0c464f34590ed6092b150af40cfaa47605b0de519f38e88a7",
+      "outputSha256": "536e87dfb65d77e0c464f34590ed6092b150af40cfaa47605b0de519f38e88a7",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_pumpkin.ndfmesh",
+      "sourceSha256": "1a5b5742b3a5ac2999cf291026d008f171a21b89f61b8c5964f6b3721540f77e",
+      "outputSha256": "1a5b5742b3a5ac2999cf291026d008f171a21b89f61b8c5964f6b3721540f77e",
+      "convertedTextures": 0,
+      "ddsTextures": 30,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_quest.ndfmesh",
+      "sourceSha256": "c78ef2efc62faf0d20ea66c48360233a3c8374c42d24ca00d89c4a1ece6a0241",
+      "outputSha256": "c78ef2efc62faf0d20ea66c48360233a3c8374c42d24ca00d89c4a1ece6a0241",
+      "convertedTextures": 0,
+      "ddsTextures": 40,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Model/woman/woman-parts_quest_gold.ndfmesh",
+      "sourceSha256": "00546dfea378688f104eda2a5507cd85c21ad48c998719d0e191bc40b2c0ad13",
+      "outputSha256": "00546dfea378688f104eda2a5507cd85c21ad48c998719d0e191bc40b2c0ad13",
+      "convertedTextures": 0,
+      "ddsTextures": 40,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_quest_lizard.ndfmesh",
+      "sourceSha256": "d06bc917f8a6539ada4181782ac55c6214649f82f7d4182e881d657e51263432",
+      "outputSha256": "d06bc917f8a6539ada4181782ac55c6214649f82f7d4182e881d657e51263432",
+      "convertedTextures": 0,
+      "ddsTextures": 36,
+      "emptyMaterials": 1
+    },
+    {
+      "path": "Model/woman/woman-parts_rabbit.ndfmesh",
+      "sourceSha256": "aa49283c2ee5823657abc1c80d967d37bec9dd1a2dae49df1cab55ba4e4b0729",
+      "outputSha256": "aa49283c2ee5823657abc1c80d967d37bec9dd1a2dae49df1cab55ba4e4b0729",
+      "convertedTextures": 0,
+      "ddsTextures": 30,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_royal.ndfmesh",
+      "sourceSha256": "6a6d6f477abb29ef4b6512293adb2defa22310018d0957794b888c2390b54c7d",
+      "outputSha256": "6a6d6f477abb29ef4b6512293adb2defa22310018d0957794b888c2390b54c7d",
+      "convertedTextures": 0,
+      "ddsTextures": 35,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_santa.ndfmesh",
+      "sourceSha256": "d39ce0f9f3f9920d88b2accdf6987c6405a9aa8ee3324820f4d33befa76ab1d6",
+      "outputSha256": "d39ce0f9f3f9920d88b2accdf6987c6405a9aa8ee3324820f4d33befa76ab1d6",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_school.ndfmesh",
+      "sourceSha256": "bad85f815c08a6d9a4f94aa0d440350ff6558bc8cd80d36a845535b07c290746",
+      "outputSha256": "bad85f815c08a6d9a4f94aa0d440350ff6558bc8cd80d36a845535b07c290746",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_shadow.ndfmesh",
+      "sourceSha256": "6479a5333758caf347935b6540e75a1884b7fd5dcef3910896fd3d8ebd7f0523",
+      "outputSha256": "6479a5333758caf347935b6540e75a1884b7fd5dcef3910896fd3d8ebd7f0523",
+      "convertedTextures": 0,
+      "ddsTextures": 34,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_staff.ndfmesh",
+      "sourceSha256": "32b4a3d819454c217f0599a3ff9451ddac20c72e1da6dc6323c8cfb2858d4330",
+      "outputSha256": "32b4a3d819454c217f0599a3ff9451ddac20c72e1da6dc6323c8cfb2858d4330",
+      "convertedTextures": 0,
+      "ddsTextures": 30,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_sum08.ndfmesh",
+      "sourceSha256": "13f62eeebbb1a20a33dda93ec4161ea5e535509def80394c9ab03fa6dbce4428",
+      "outputSha256": "13f62eeebbb1a20a33dda93ec4161ea5e535509def80394c9ab03fa6dbce4428",
+      "convertedTextures": 0,
+      "ddsTextures": 34,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_swim.ndfmesh",
+      "sourceSha256": "278337334e5105acdf5f9bf0038af1d734537a4b9d88b4fc5d6265ce89ab9376",
+      "outputSha256": "278337334e5105acdf5f9bf0038af1d734537a4b9d88b4fc5d6265ce89ab9376",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_valkyrie.ndfmesh",
+      "sourceSha256": "9228b666cf4aa2cf89743faa72e8bd8c1ed0a9cafb67c43965a70811a02fedc1",
+      "outputSha256": "9228b666cf4aa2cf89743faa72e8bd8c1ed0a9cafb67c43965a70811a02fedc1",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_wed.ndfmesh",
+      "sourceSha256": "301e4d756d5711e80e554ee404c329af53505574bd5a47a40fcc02b9ccc4cfff",
+      "outputSha256": "301e4d756d5711e80e554ee404c329af53505574bd5a47a40fcc02b9ccc4cfff",
+      "convertedTextures": 0,
+      "ddsTextures": 37,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_winter.ndfmesh",
+      "sourceSha256": "97ed2a86e1eee67f617f96fb775b6c3d30bd25cfda985c42e129a4b2382268e8",
+      "outputSha256": "97ed2a86e1eee67f617f96fb775b6c3d30bd25cfda985c42e129a4b2382268e8",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_worldcup.ndfmesh",
+      "sourceSha256": "3b44cf5df8778fe1dc95c97e48387d3e3304e668c3901c6be02b5bcc218464cf",
+      "outputSha256": "3b44cf5df8778fe1dc95c97e48387d3e3304e668c3901c6be02b5bcc218464cf",
+      "convertedTextures": 0,
+      "ddsTextures": 47,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_yohawk.ndfmesh",
+      "sourceSha256": "aa24e295b48f09ede4c27dfc20318fcd78257515760f5159762acc8ee6d1926f",
+      "outputSha256": "aa24e295b48f09ede4c27dfc20318fcd78257515760f5159762acc8ee6d1926f",
+      "convertedTextures": 0,
+      "ddsTextures": 38,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman-parts_zeus.ndfmesh",
+      "sourceSha256": "9da590ede02f72f962a4a187b86f89765518e4c45334067a0d74abb564c859a4",
+      "outputSha256": "9da590ede02f72f962a4a187b86f89765518e4c45334067a0d74abb564c859a4",
+      "convertedTextures": 0,
+      "ddsTextures": 33,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/woman/woman_bigi.ndfmesh",
+      "sourceSha256": "3b36ed3c637fbcb8bc879edefd4bcc1d427cfb6ea44b6b83caec3e6b50d429cd",
+      "outputSha256": "3b36ed3c637fbcb8bc879edefd4bcc1d427cfb6ea44b6b83caec3e6b50d429cd",
+      "convertedTextures": 0,
+      "ddsTextures": 31,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/worlditem/ef_box.ndfmesh",
+      "sourceSha256": "8fc446a56984ef87ab31d539360718d2258d8dc552bc14fe03a33f8092f8464c",
+      "outputSha256": "8fc446a56984ef87ab31d539360718d2258d8dc552bc14fe03a33f8092f8464c",
+      "convertedTextures": 0,
+      "ddsTextures": 7,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/worlditem/ef_green.ndfmesh",
+      "sourceSha256": "1722248af8cf29cb997473695a95cff5ea909a3e1d0bcb719412000d4bf091fa",
+      "outputSha256": "1722248af8cf29cb997473695a95cff5ea909a3e1d0bcb719412000d4bf091fa",
+      "convertedTextures": 0,
+      "ddsTextures": 14,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/worlditem/ef_portal.ndfmesh",
+      "sourceSha256": "b408d7c99770bb8a45a1634de0389dcb5006a4f597cc6c7126d644a10de12ad0",
+      "outputSha256": "b408d7c99770bb8a45a1634de0389dcb5006a4f597cc6c7126d644a10de12ad0",
+      "convertedTextures": 0,
+      "ddsTextures": 14,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/worlditem/ef_prop.ndfmesh",
+      "sourceSha256": "a85c895f8bddf04fae6319818a67640d621dfb7fa507f49ec284a482aa93c4db",
+      "outputSha256": "a85c895f8bddf04fae6319818a67640d621dfb7fa507f49ec284a482aa93c4db",
+      "convertedTextures": 0,
+      "ddsTextures": 13,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/worlditem/ef_red.ndfmesh",
+      "sourceSha256": "839bd80cd4dd268bb7f120b901567bb91284168393841e68657697fb86c4ee2f",
+      "outputSha256": "839bd80cd4dd268bb7f120b901567bb91284168393841e68657697fb86c4ee2f",
+      "convertedTextures": 0,
+      "ddsTextures": 14,
+      "emptyMaterials": 0
+    },
+    {
+      "path": "Model/worlditem/ef_yellow.ndfmesh",
+      "sourceSha256": "ebe222d7a7c8a0785eac96851f9ad0bc54ecb07f6b9eebb0ac4f1f7d8558cb0e",
+      "outputSha256": "ebe222d7a7c8a0785eac96851f9ad0bc54ecb07f6b9eebb0ac4f1f7d8558cb0e",
+      "convertedTextures": 0,
+      "ddsTextures": 14,
+      "emptyMaterials": 0
+    }
+  ],
+  "failures": []
+}
